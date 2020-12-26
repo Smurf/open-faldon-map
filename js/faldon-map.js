@@ -61,7 +61,7 @@ function selectMonster(monsterId) {
         }
     }else{
         
-        for(var i = 1; i <= 8; i++){
+        for(var i = 1; i <= 9; i++){
             var currentOption = sel.options.length;
             sel.options[currentOption] = new Option("Map "+i, i, false, false);
         }
@@ -195,7 +195,12 @@ function startViewport(){
             type: 'image',
             url:  'map/map_8.png',
             buildPyramid: false
-        }]
+        },{
+            type: 'image',
+            url:  'map/map_9.png',
+            buildPyramid: false
+        }
+    ]
     }
 
     viewer = OpenSeadragon(osConfig);
