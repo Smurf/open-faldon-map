@@ -254,28 +254,15 @@ function startApp(){
     loadSpawns();
     selectMonster(0);
     selectMap(currentMap);
-    db = firebase.firestore()
 
 
-    anno.on('createAnnotation', function(a) {
-        a.target.source = currentMap;
-        db.collection('annotations').add(a).then(function() {
-            console.log('Stored annotation');
-        });
+    $("#monster_select").change(function(evt){
+        selectMonster(this.value);
     });
 
-    anno.on('updateAnnotation', function(annotation, previous) {
-        findById(previous.id).then(function(doc) {
-            doc.ref.update(annotation);
-        });
+    $("#map_select").change(function(evt){
+        selectMap(this.value);
     });
-
-    anno.on('deleteAnnotation', function(annotation) {
-        console.log(annotation.id)
-        findById(annotation.id).then(function(doc) {
-            doc.ref.delete();
-        });
-    }); 
 
 }
 
@@ -299,50 +286,7 @@ function tagSearch(){
 
 
 window.onload = function() {
-
-    var firebaseConfig = {
-        apiKey: "AIzaSyDR_cTfhspiUksDMTReO5vJfoWl1pWuiLw",
-        authDomain: "openfaldonmap.firebaseapp.com",
-        projectId: "openfaldonmap",
-        storageBucket: "openfaldonmap.appspot.com",
-        messagingSenderId: "1086304588651",
-        appId: "1:1086304588651:web:7a1ce157eccec96155b22e"
-    };
-    // Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
-
-    var provider = new firebase.auth.GoogleAuthProvider();
-    provider.addScope('profile');
-    provider.addScope('email');
-    firebase.auth().useDeviceLanguage();
-    firebase.auth().signInWithPopup(provider).then(function(result) {
-        // This gives you a Google Access Token. You can use it to access the Google API.
-        var token = result.credential.accessToken;
-        // The signed-in user info.
-        var user = result.user;
-        console.log("Login successful");
-        startApp();
-    // ...
-    }).catch(function(error) {
-        // Handle Errors here.
-        var errorCode = error.code;
-        var errorMessage = error.message;
-        console.log(errorCode);
-        console.log(errorMessage);
-        // The email of the user's account used.
-        var email = error.email;
-        // The firebase.auth.AuthCredential type that was used.
-        var credential = error.credential;
-        // ...
-    });
-
-    $("#monster_select").change(function(evt){
-        selectMonster(this.value);
-    });
-
-    $("#map_select").change(function(evt){
-        selectMap(this.value);
-    });
+    startApp();
 }
 function findByField(dbField, objField) {
         var query = db.collection('annotations').where(dbField, '==', objField);
