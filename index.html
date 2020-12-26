@@ -10,10 +10,14 @@
         <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-auth.js"></script>
     </head>
     <body>
+        <input type="text" name="searchstr" id="searchstr" value="" />
+        <button id="test" onclick="tagSearch()">Search Tags</button>
+        <button id="reset" onclick="resetAnnotations()">Reset</button>
         <div id="toolbar-div">
         </div>
         <div id="faldon-map">
         <script type="text/javascript">
+            var osConfig, anno, viewer, db = {};
             window.onload = function() {
 
                 var firebaseConfig = {
@@ -52,8 +56,16 @@
                     // ...
                 });
             }
+            function findByField(dbField, objField) {
+                    var query = db.collection('annotations').where(dbField, '==', objField);
+                    return query.get().then(function(querySnapshot) {
+                        var doc = querySnapshot.docs;
+                        return doc
+                    });
+                }
+            
             function app(){ 
-                var db = firebase.firestore()
+                db = firebase.firestore()
 
                 var findById = function(id) {
                     var query = db.collection('annotations').where('id', '==', id);
@@ -61,10 +73,9 @@
                         var doc = querySnapshot.docs[0];
                         return doc
                     });
-
                 }
                 
-                var osConfig = {
+                osConfig = {
                     id:            "faldon-map",
                     showNavigator: true,
                     navigatorPosition: "BOTTOM_LEFT",
@@ -76,18 +87,23 @@
                         buildPyramid: false
                     }
                 }
-                var viewer = OpenSeadragon(osConfig);
+                viewer = OpenSeadragon(osConfig);
                 var config = {
-                    tagVocabulary: [    "monster",
+                    widgets: [
+                        'COMMENT',
+                        { widget: 'TAG',
+                            vocabulary: [    "monster",
                                         "npc",
                                         "religion",
                                         "easy",
                                         "medium",
                                         "hard",
                                         "portal"]
+                        }
+                        ]
                     };
-                var anno = OpenSeadragon.Annotorious(viewer,config);
-                var map = document.getElementById('faldon-map');
+                anno = OpenSeadragon.Annotorious(viewer,config);
+                map = document.getElementById('faldon-map');
                 // Load annotations for this image
                 db.collection('annotations').where('target.source', '==', osConfig.tileSources.url)
                 .get().then(function(querySnapshot) {
@@ -116,9 +132,40 @@
                     findById(annotation.id).then(function(doc) {
                         doc.ref.delete();
                     });
+                }); 
+
+            }
+           function tagSearch(){
+                var searchstr = document.getElementById("searchstr").value;
+               console.log(searchstr);
+               var results = db.collection('annotations').where('body', 'array-contains-any', 
+                            [{  purpose: 'tagging',
+                                type: 'TextualBody',
+                                value: searchstr
+                                }]).get()
+                   .then(function(querySnapshot){
+                   var annotations = querySnapshot.docs.map(function(doc) {
+                       console.log(doc.data());
+                        return doc.data();
+                   });
+                   anno.setAnnotations(annotations);
+                    //anno.setAnnotations({});
+                    //anno.setAnnotations(docs);
+               });
+                                  
+            }
+            function getDefaultAnnotations(){
+                db.collection('annotations').where('target.source', '==', osConfig.tileSources.url)
+                .get().then(function(querySnapshot) {
+                    var annotations = querySnapshot.docs.map(function(doc) { 
+                        return doc.data(); 
+                    });
+
+                    anno.setAnnotations(annotations);
                 });
-
-
+            }
+            function resetAnnotations(){
+                getDefaultAnnotations();
             }
         </script>
         <noscript>
