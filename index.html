@@ -1,0 +1,129 @@
+<html>
+    <head>
+        
+        <meta charset='utf-8'>
+        <link rel="stylesheet" href="css/annotorious.min.css">
+        <script src="js/openseadragon.min.js"></script>
+        <script src="js/openseadragon-annotorious.min.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-firestore.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-auth.js"></script>
+    </head>
+    <body>
+        <div id="toolbar-div">
+        </div>
+        <div id="faldon-map">
+        <script type="text/javascript">
+            window.onload = function() {
+
+                var firebaseConfig = {
+                    apiKey: "AIzaSyDR_cTfhspiUksDMTReO5vJfoWl1pWuiLw",
+                    authDomain: "openfaldonmap.firebaseapp.com",
+                    projectId: "openfaldonmap",
+                    storageBucket: "openfaldonmap.appspot.com",
+                    messagingSenderId: "1086304588651",
+                    appId: "1:1086304588651:web:7a1ce157eccec96155b22e"
+                };
+                // Initialize Firebase
+                firebase.initializeApp(firebaseConfig);
+
+                var provider = new firebase.auth.GoogleAuthProvider();
+                provider.addScope('profile');
+                provider.addScope('email');
+                firebase.auth().useDeviceLanguage();
+                firebase.auth().signInWithPopup(provider).then(function(result) {
+                    // This gives you a Google Access Token. You can use it to access the Google API.
+                    var token = result.credential.accessToken;
+                    // The signed-in user info.
+                    var user = result.user;
+                    console.log("Login successful");
+                    app();
+                // ...
+                }).catch(function(error) {
+                    // Handle Errors here.
+                    var errorCode = error.code;
+                    var errorMessage = error.message;
+                    console.log(errorCode);
+                    console.log(errorMessage);
+                    // The email of the user's account used.
+                    var email = error.email;
+                    // The firebase.auth.AuthCredential type that was used.
+                    var credential = error.credential;
+                    // ...
+                });
+            }
+            function app(){ 
+                var db = firebase.firestore()
+
+                var findById = function(id) {
+                    var query = db.collection('annotations').where('id', '==', id);
+                    return query.get().then(function(querySnapshot) {
+                        var doc = querySnapshot.docs[0];
+                        return doc
+                    });
+
+                }
+                
+                var osConfig = {
+                    id:            "faldon-map",
+                    showNavigator: true,
+                    navigatorPosition: "BOTTOM_LEFT",
+                    prefixUrl: "images/",
+                    toolbarDiv: "toolbar-div",
+                    tileSources:   {
+                        type: 'image',
+                        url:  'map/7.jpg',
+                        buildPyramid: false
+                    }
+                }
+                var viewer = OpenSeadragon(osConfig);
+                var config = {
+                    tagVocabulary: [    "monster",
+                                        "npc",
+                                        "religion",
+                                        "easy",
+                                        "medium",
+                                        "hard",
+                                        "portal"]
+                    };
+                var anno = OpenSeadragon.Annotorious(viewer,config);
+                var map = document.getElementById('faldon-map');
+                // Load annotations for this image
+                db.collection('annotations').where('target.source', '==', osConfig.tileSources.url)
+                .get().then(function(querySnapshot) {
+                    var annotations = querySnapshot.docs.map(function(doc) { 
+                        return doc.data(); 
+                    });
+
+                    anno.setAnnotations(annotations);
+                });
+
+                anno.on('createAnnotation', function(a) {
+                    a.target.source = osConfig.tileSources.url;
+                    db.collection('annotations').add(a).then(function() {
+                        console.log('Stored annotation');
+                    });
+                });
+
+                anno.on('updateAnnotation', function(annotation, previous) {
+                    findById(previous.id).then(function(doc) {
+                        doc.ref.update(annotation);
+                    });
+                });
+
+                anno.on('deleteAnnotation', function(annotation) {
+                    console.log(annotation.id)
+                    findById(annotation.id).then(function(doc) {
+                        doc.ref.delete();
+                    });
+                });
+
+
+            }
+        </script>
+        <noscript>
+            <p>OpenSeadragon is not available unless JavaScript is enabled.</p>
+        </noscript>
+    </div>
+    </body>
+</html>
