@@ -180,4 +180,20 @@
 179,medium mage   
 180,strong mage   
 181,pigvine       
-182,tarantula      
+182,tarantula
+183,greaterdragon
+184,chaos spider
+185,omar
+186,Frost Golem
+187,Catbert
+188,Sun Bear
+189,blue wyrm
+190,black skeleton
+191,black dragon
+192,black wyrm
+193,black tiger
+194,red serpent
+195,black sire
+196,white dragon
+197,Fenrir
+198,Easter Bunny
