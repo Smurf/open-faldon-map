@@ -11,7 +11,7 @@ var tileWidth = 4;
 var osConfig, anno, viewer, db = {};
 var selectedMob;
 var currentMap = "7";
-
+var ALL_SPAWNS = -1;
 function selectMonster(monsterId) {
     selectedMob = monsterId;
 
@@ -38,8 +38,7 @@ function selectMonster(monsterId) {
     var sel = document.monster_form.map_select;
     sel.options.length = 0;
 
-    if (selectedMob != 0) {
-
+    if (selectedMob > 0) {
         var mobOnCurrentMap = false;
         for (var i = 0; i < mapsWithMob.length; i++) {
             var map = mapsWithMob[i];
@@ -69,9 +68,8 @@ function selectMonster(monsterId) {
 }
 
 function toTitleCase(tomod) {
-    ret_value = tomod.toLowerCase().split(' ').map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ');
+    return tomod.toLowerCase().split(' ').map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ');
 
-    return ret_value;
 }
 
 function loadMonsters() {
@@ -87,10 +85,12 @@ function loadMonsters() {
 
             monsterData.push(monster);
         }
-
+        
+        //Sort and draw the monster selection separately
         var sel = document.monster_form.monster_select;
         sel.options.length = 0;
-        sel.options[0] = new Option("-NONE-", 0)
+        sel.options[0] = new Option("-NONE-", 0);
+        sel.options[1] = new Option("-ALL-", -1);
         monsterDisplay = [...monsterData]
         monsterDisplay.shift() //Remove -NONE- at beginning
         monsterDisplay.sort((a, b) => ((a.name > b.name) ? 1 : (a.name < b.name) ? -1 : 0));
@@ -130,9 +130,13 @@ function drawSpawns(mapNr, monsterId) {
 
     for (var i = 0; i < spawnData.length; i++) {
         var spawn = spawnData[i];
-        if (spawn.map != mapNr || spawn.monster != monsterId) {
-            continue;
+        if(monsterId != ALL_SPAWNS){
+            if (spawn.map != mapNr || spawn.monster != monsterId) {
+                continue;
+            }
         }
+
+        if(spawn.map != mapNr) continue;
 
         var x = parseInt(spawn.x);
         var y = parseInt(spawn.y);
@@ -147,7 +151,7 @@ function drawSpawns(mapNr, monsterId) {
         elem.classList.add('spawn-pointer');
         var svg_img = document.createElement("img");
         svg_img.src = "images/Down_arrow_red.png";
-
+        svg_img.style.filter = 'hue-rotate('+spawn.monster*20+'deg)';
         var tooltip = document.createElement("span");
         tooltip.classList.add('tooltip');
         tooltip.innerText = spawn.name;
