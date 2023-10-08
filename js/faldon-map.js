@@ -20,7 +20,6 @@ function selectMonster(monsterId) {
 	
 	for(var i = 0; i < spawnData.length; i++) {
 		var spawn = spawnData[i];
-		
 		if(spawn.monster == monsterId) {
 			var inlist = false;
 			for(var m = 0; m < mapsWithMob.length; m++) {
@@ -56,6 +55,7 @@ function selectMonster(monsterId) {
         if(mobOnCurrentMap){        
             $("#map_select").val(currentMap);
         }else{
+
             currentMap = sel.options[0].value;
             selectMap(currentMap);
         }
@@ -96,7 +96,7 @@ function loadMonsters() {
 
 function loadSpawns() {
 	$.get("monster-spawns.txt", function(data) {
-		var lines = data.split("\r\n");
+		var lines = data.split("\n");
 		
 		for(var i = 0; i < lines.length; i++) {
 			var sData = lines[i].split(",");
