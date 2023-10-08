@@ -82,7 +82,7 @@ function loadMonsters() {
 			
 			monsterData.push(monster);		
 		}
-		
+		monsterData.sort((a, b)=> ( (a.name > b.name) ? 1 : (a.name < b.name) ? -1 : 0 ));
 		var sel = document.monster_form.monster_select;
 		sel.options.length = 0;
 		
