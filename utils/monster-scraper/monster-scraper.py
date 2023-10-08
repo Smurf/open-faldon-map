@@ -27,7 +27,7 @@ monster_links = main_content.find_all("a")
 monster_ids = load_monster_dict("../../monsters.txt")
 
 for link in monster_links:
-    monster_id = parse_qs(urlparse(f"https://www.faldonrpg.com/encyclopedia/{link['href']}").query)['id']
+    monster_id = parse_qs(urlparse(f"https://www.faldonrpg.com/encyclopedia/{link['href']}").query)['id'][0]
     if not os.path.exists(f"../../images/mob-art/{monster_id}.png"):
         monster_page = requests.get(f"https://www.faldonrpg.com/encyclopedia/{link['href']}")
         soup = BeautifulSoup(monster_page.content, "html.parser")
