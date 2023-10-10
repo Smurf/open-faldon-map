@@ -13,18 +13,23 @@ body{
 
 .tooltip {
   width: 90px;
-  background-color: black;
+  background-color: grey;
   font-size: smaller;
   color: #fff;
   text-align: center;
   border-radius: 6px;
   position: absolute;
-  z-index: 99;
+  z-index: 3;
   bottom: 125%;
   left: 50%;
   margin-left: -45px;
   visibility: hidden;  
   cursor: default;
+}
+
+.mob-image{
+  max-height:50px;
+  aspect-ratio: auto;
 }
 
 .tooltip::after {

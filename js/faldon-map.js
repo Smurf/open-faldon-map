@@ -124,6 +124,10 @@ function loadSpawns() {
             spawnData.push(spawn);
         }
     });
+
+    //spawnData.sort((a, b) => ((a.y > b.y) ? 1 : (a.y < b.y) ? -1 : 0));
+    //spawnData.sort((a, b) => ((a.x > b.x) ? -1 : (a.x < b.x) ? 1 : 0));
+    spawnData.sort();
 }
 
 function drawSpawns(mapNr, monsterId) {
@@ -152,10 +156,20 @@ function drawSpawns(mapNr, monsterId) {
         var svg_img = document.createElement("img");
         svg_img.src = "images/Down_arrow_red.png";
         svg_img.style.filter = 'hue-rotate('+spawn.monster*20+'deg)';
+
         var tooltip = document.createElement("span");
         tooltip.classList.add('tooltip');
         tooltip.innerText = spawn.name;
-
+        
+        var image = document.createElement("img");
+        
+        image.classList.add('mob-image');
+        image.src = "images/mob-art/"+spawn.monster+".png"
+        //this does not work?!
+        image.onerror = function (){this.type.display='none;'}
+        //Fix for other spawn markers overlapping tool tips
+        tooltip.zindex = 5+(spawnData.length-i);
+        tooltip.appendChild(image);
         elem.appendChild(tooltip);
         elem.id = "spawn" + i;
         elem.appendChild(svg_img);
@@ -187,43 +201,17 @@ function startViewport() {
         navigatorPosition: "BOTTOM_LEFT",
         prefixUrl: "images/",
         toolbarDiv: "toolbar-div",
-        tileSources: [{
-            type: 'image',
-            url: 'map/map_1.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_2.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_3.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_4.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_5.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_6.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_7.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_8.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_9.png',
-            buildPyramid: false
-        }]
+        tileSources: [
+            'map/huge/1.dzi', 
+            'map/huge/2.dzi',
+            'map/huge/3.dzi',
+            'map/huge/4.dzi',
+            'map/huge/5.dzi',
+            'map/huge/6.dzi',
+            'map/huge/7.dzi', 
+            'map/huge/8.dzi',
+            'map/huge/9.dzi',
+        ]
     }
 
     viewer = OpenSeadragon(osConfig);
