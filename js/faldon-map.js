@@ -124,6 +124,10 @@ function loadSpawns() {
             spawnData.push(spawn);
         }
     });
+
+    //spawnData.sort((a, b) => ((a.y > b.y) ? 1 : (a.y < b.y) ? -1 : 0));
+    //spawnData.sort((a, b) => ((a.x > b.x) ? -1 : (a.x < b.x) ? 1 : 0));
+    spawnData.sort();
 }
 
 function drawSpawns(mapNr, monsterId) {
@@ -162,7 +166,7 @@ function drawSpawns(mapNr, monsterId) {
         image.classList.add('mob-image');
         image.src = "images/mob-art/"+spawn.monster+".png"
         //this does not work?!
-        image.onerror = function (){this.stype.display='none;'}
+        image.onerror = function (){this.type.display='none;'}
         //Fix for other spawn markers overlapping tool tips
         tooltip.zindex = 5+(spawnData.length-i);
         tooltip.appendChild(image);
@@ -197,35 +201,17 @@ function startViewport() {
         navigatorPosition: "BOTTOM_LEFT",
         prefixUrl: "images/",
         toolbarDiv: "toolbar-div",
-        tileSources: [{
-            type: 'image',
-            url: 'map/map_1.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_2.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_3.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_4.png',
-            buildPyramid: false
-        }, 
+        tileSources: [
+            'map/huge/1.dzi', 
+            'map/huge/2.dzi',
+            'map/huge/3.dzi',
+            'map/huge/4.dzi',
             'map/huge/5.dzi',
-             'map/huge/6.dzi',
+            'map/huge/6.dzi',
             'map/huge/7.dzi', 
-        {
-            type: 'image',
-            url: 'map/map_8.png',
-            buildPyramid: false
-        }, {
-            type: 'image',
-            url: 'map/map_9.png',
-            buildPyramid: false
-        }]
+            'map/huge/8.dzi',
+            'map/huge/9.dzi',
+        ]
     }
 
     viewer = OpenSeadragon(osConfig);
