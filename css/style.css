@@ -2,6 +2,9 @@ body{
 	background-color:black;
 }
 
+.show_portals {
+  color: white;
+}
 .spawn-pointer{
   position: absolute;
 	left:-8;
@@ -10,7 +13,14 @@ body{
   height: 16;
   z-index: 2;
 }
-
+.portal-pointer{
+  position: absolute;
+	left:-12;
+	top:-24;
+	width: 24;
+  height: 24;
+  z-index: 3;
+}
 .tooltip {
   width: 90px;
   background-color: grey;
