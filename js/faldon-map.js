@@ -1,5 +1,6 @@
 var spawnData = new Array();
 var monsterData = new Array();
+var portalData = new Array();
 
 var mapWidth = 4096;
 var mapHeight = 2048;
@@ -101,7 +102,27 @@ function loadMonsters() {
         }
     });
 }
+function loadPortals() {
+    $.get("portals.txt", function(data) {
+        var lines = data.split("\n");
+        // Strip headers of first line
+        for (var i = 1; i < lines.length; i++){ 
+            pData = lines[i].split(",");
+            if(pData[0] == "") continue;
 
+            var portal = new Object();
+            
+            portal.map = pData[0];
+            portal.x = pData[1];
+            portal.y = pData[2];
+            portal.to = pData[3];
+            portal.to_x = pData[4];
+            portal.to_y = pData[5];
+
+            portalData.push(portal);
+        }
+    });
+}
 function loadSpawns() {
     $.get("monster-spawns.txt", function(data) {
         var lines = data.split("\n");
@@ -128,6 +149,51 @@ function loadSpawns() {
     //spawnData.sort((a, b) => ((a.y > b.y) ? 1 : (a.y < b.y) ? -1 : 0));
     //spawnData.sort((a, b) => ((a.x > b.x) ? -1 : (a.x < b.x) ? 1 : 0));
     spawnData.sort();
+}
+function drawPortals(mapNr) {
+    if(document.getElementById("show_portals").checked){
+        console.log("Drawing portals for map "+mapNr+"...");
+        console.log("Portal Data at drawPortals:"+portalData);
+        for (var i = 0; i < portalData.length; i++) {
+            var portal = portalData[i];
+
+            if(portal.map != mapNr) continue;
+            var x = parseInt(portal.x);
+            var y = parseInt(portal.y);
+
+            var sx = (x - y) * tileWidth;
+            sx += mapWidth / 2;
+            var sy = (x + y) * tileHeight;
+            var vx = sx / mapWidth; //viewport x
+            var vy = sy / mapHeight; //viewport y
+
+            var elem = document.createElement("div");
+            elem.classList.add('portal-pointer');
+            var svg_img = document.createElement("img");
+            svg_img.src = "images/portal-pointer.png";
+            svg_img.style.filter = 'hue-rotate(180deg)';
+            var tooltip = document.createElement("span");
+            tooltip.classList.add('tooltip');
+            tooltip.innerText = "Portal to map "+portal.to_map;
+            
+            elem.appendChild(tooltip);
+            elem.id = "spawn" + i;
+            elem.appendChild(svg_img);
+            viewer.addOverlay({
+                element: elem,
+                location: new OpenSeadragon.Point(vx, vy),
+                placement: OpenSeadragon.Placement.CENTER
+            });
+            console.log("Portal for map" + mapNr + " found at x: " + vx + " , y: " + vy);
+        }
+    }
+}
+
+function clearPortals(){
+
+    $(".portal-pointer").each( function (i) {
+        viewer.removeOverlay(this);
+    });
 }
 
 function drawSpawns(mapNr, monsterId) {
@@ -166,7 +232,7 @@ function drawSpawns(mapNr, monsterId) {
         image.classList.add('mob-image');
         image.src = "images/mob-art/"+spawn.monster+".png"
         //this does not work?!
-        image.onerror = function (){this.type.display='none;'}
+        //image.onerror = function (){this.type.display='none;'}
         //Fix for other spawn markers overlapping tool tips
         tooltip.zindex = 5+(spawnData.length-i);
         tooltip.appendChild(image);
@@ -181,17 +247,11 @@ function drawSpawns(mapNr, monsterId) {
 }
 
 function clearSpawns() {
-
-    viewer.clearOverlays();
-}
-
-var findById = function(id) {
-    var query = db.collection('annotations').where('id', '==', id);
-    return query.get().then(function(querySnapshot) {
-        var doc = querySnapshot.docs[0];
-        return doc
+    $(".spawn-pointer").each( function (i) {
+        viewer.removeOverlay(this);
     });
 }
+
 
 function startViewport() {
 
@@ -236,32 +296,17 @@ function startViewport() {
     //loadAnnotations();
 }
 
-function loadAnnotations() {
-    anno.setAnnotations({});
-    // Load annotations for this image
-    db.collection('annotations').where('target.source', '==', currentMap)
-        .get().then(function(querySnapshot) {
-            if (querySnapshot.docs.length > 0) {
-                var annotations = querySnapshot.docs.map(function(doc) {
-                    return doc.data();
-                });
-            } else {
-                annotations = {};
-            }
-
-            anno.setAnnotations(annotations);
-        });
-
-}
 
 function selectMap(mapNum) {
     currentMap = mapNum;
     viewer.goToPage(mapNum - 1);
+    drawPortals(currentMap);
     drawSpawns(currentMap, selectedMob);
 }
 
 function startApp() {
     startViewport();
+    loadPortals();
     loadMonsters();
     loadSpawns();
     selectMonster(0);
@@ -270,42 +315,24 @@ function startApp() {
 
     $("#monster_select").change(function(evt) {
         selectMonster(this.value);
+        drawPortals($("#map_select").val())
     });
 
     $("#map_select").change(function(evt) {
         selectMap(this.value);
     });
 
-}
-
-function tagSearch() {
-    var searchstr = document.getElementById("searchstr").value;
-    console.log(searchstr);
-    var results = db.collection('annotations').where('body', 'array-contains-any',
-            [{
-                purpose: 'tagging',
-                type: 'TextualBody',
-                value: searchstr
-            }]).get()
-        .then(function(querySnapshot) {
-            var annotations = querySnapshot.docs.map(function(doc) {
-                console.log(doc.data());
-                return doc.data();
-            });
-            anno.setAnnotations(annotations);
-        });
+    $("#show_portals").change(function(evt) {
+        if(this.checked){
+            drawPortals($("#map_select").val());
+        }else{
+            clearPortals();
+        }
+    });
 
 }
-
 
 window.onload = function() {
     startApp();
 }
 
-function findByField(dbField, objField) {
-    var query = db.collection('annotations').where(dbField, '==', objField);
-    return query.get().then(function(querySnapshot) {
-        var doc = querySnapshot.docs;
-        return doc
-    });
-}
