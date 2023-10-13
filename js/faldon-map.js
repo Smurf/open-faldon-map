@@ -115,9 +115,23 @@ function loadPortals() {
             portal.map = pData[0];
             portal.x = pData[1];
             portal.y = pData[2];
-            portal.to = pData[3];
+            portal.to_map = pData[3];
             portal.to_x = pData[4];
             portal.to_y = pData[5];
+
+            //Calculate vx/vy for to coords
+            //viewport coords
+            var x = parseInt(portal.to_x);
+            var y = parseInt(portal.to_y);
+
+            var sx = (x - y) * tileWidth;
+            sx += mapWidth / 2;
+            var sy = (x + y) * tileHeight;
+            var vx = sx / mapWidth; //viewport x
+            var vy = sy / mapHeight; //viewport y
+            
+            portal.to_vx = vx;
+            portal.to_vy = vy;
 
             portalData.push(portal);
         }
@@ -177,13 +191,33 @@ function drawPortals(mapNr) {
             tooltip.innerText = "Portal to map "+portal.to_map;
             
             elem.appendChild(tooltip);
-            elem.id = "spawn" + i;
+            elem.id = "portal" + i;
+
+            //Give elem portal data for event handler
+            elem.portal = portal;
+
+            elem.portal.vx = vx;
+            elem.portal.vy = vy;
             elem.appendChild(svg_img);
             viewer.addOverlay({
                 element: elem,
                 location: new OpenSeadragon.Point(vx, vy),
                 placement: OpenSeadragon.Placement.CENTER
             });
+            var tracker = new OpenSeadragon.MouseTracker(
+                    {
+                        element: document.getElementById("portal"+i),
+                        clickHandler: function (e){
+                            var portal = e.eventSource.element.portal;
+                            console.log(JSON.stringify(portal));
+                            
+                            viewer.goToPage(portal.to_map - 1);
+                            //portalToMap(portal.to_map);
+                            selectMap(portal.to_map);
+                            viewer.viewport.zoomTo(8.5, new OpenSeadragon.Point(portal.to_vx, portal.to_vy));
+                        }
+                    }
+                );
             console.log("Portal for map" + mapNr + " found at x: " + vx + " , y: " + vy);
         }
     }
@@ -240,7 +274,8 @@ function drawSpawns(mapNr, monsterId) {
         elem.id = "spawn" + i;
         elem.appendChild(svg_img);
         viewer.addOverlay(elem,
-            new OpenSeadragon.Point(vx, vy)
+            new OpenSeadragon.Point(vx, vy),
+            OpenSeadragon.Placement.CENTER
         );
         console.log("Spawn for " + monsterId + " found at x: " + vx + " , y: " + vy);
     }
@@ -261,6 +296,7 @@ function startViewport() {
         navigatorPosition: "BOTTOM_LEFT",
         prefixUrl: "images/",
         toolbarDiv: "toolbar-div",
+        preserveViewport: true,
         tileSources: [
             'map/huge/1.dzi', 
             'map/huge/2.dzi',
@@ -297,18 +333,26 @@ function startViewport() {
 }
 
 
+function portalToMap(mapNum){
+    //viewer.gotoPage is done in event handler
+    $("#map_select").val(mapNum).change();
+    console.log("Map portal: "+$("#map_select").val());
+    drawPortals(mapNum);
+    drawSpawns(mapNum, selectedMob);
+}
 function selectMap(mapNum) {
     currentMap = mapNum;
+    $("map_select").val(mapNum).change();
     viewer.goToPage(mapNum - 1);
     drawPortals(currentMap);
     drawSpawns(currentMap, selectedMob);
 }
 
 function startApp() {
-    startViewport();
     loadPortals();
     loadMonsters();
     loadSpawns();
+    startViewport();
     selectMonster(0);
     selectMap(currentMap);
 
@@ -334,5 +378,6 @@ function startApp() {
 
 window.onload = function() {
     startApp();
+    document.getElementById("show_portals").checked = false;
 }
 

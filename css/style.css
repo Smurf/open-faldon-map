@@ -6,7 +6,7 @@ body{
   color: white;
 }
 .spawn-pointer{
-  position: absolute;
+  position: relative;
 	left:-8;
 	top:-16;
 	width: 16;
@@ -53,6 +53,9 @@ body{
     border-color: #000 transparent transparent transparent;
 }
 
+.portal-pointer:hover .tooltip {
+  visibility: visible;
+}
 .spawn-pointer:hover .tooltip {
   visibility: visible;
 }
