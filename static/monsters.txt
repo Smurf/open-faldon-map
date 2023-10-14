@@ -1,0 +1,198 @@
+1,grass snake   
+2,mouse         
+3,snail         
+4,wolf          
+5,rat           
+6,rattlesnake   
+7,skeleton      
+8,undead shaman 
+9,illusion snake
+10,-vendor-      
+11,ant           
+12,giant rat     
+13,giant snail   
+14,cockroach     
+15,town guard    
+16,evil eye      
+17,paladin       
+18,holy knight   
+19,evil fruit bat
+20,-vendor-wandr-
+21,lightning ooze
+22,summoned slime
+23,blue slime    
+24,black sludge  
+25,vampire bat   
+26,army ant      
+27,spider        
+28,skeletal lord 
+29,squire        
+30,centaur scout 
+31,centaur wizard
+32,nightmare     
+33,chicken       
+34,python        
+35,wraith        
+36,lesser lich   
+37,greater lich  
+38,pigeon        
+39,small spider  
+40,death snake   
+41,Ant Queen     
+42,lesser crawler
+43,crawler       
+44,skinned mouse 
+45,crawler zealot
+46,Lichen        
+47,sewer slime   
+48,polluted slime
+49,corrosive     
+50,spitter       
+51,gremlin       
+52,haunt         
+53,cacowraith    
+54,zombie        
+55,bat           
+56,cacomage      
+57,hell sloth    
+58,sewer rat     
+59,ninja turtle  
+60,ninja turtle  
+61,dirt golem    
+62,baby dragon   
+63,radioactive   
+64,mystical snail
+65,-vendor wall- 
+66,-vendor wall2-
+67,hell serpent  
+68,forest ooze   
+69,lava          
+70,horse         
+71,ice           
+72,Paula's pony  
+73,orc archer    
+74,orc knight    
+75,dire wolf     
+76,great shaman  
+77,daija         
+78,spiderweb     
+79,spectre       
+80,Fluffy        
+81,Daisy         
+82,bug           
+83,blue dragon   
+84,Vile Rodent   
+85,green slime   
+86,oddity        
+87,bone knight   
+88,elder dragon  
+89,critter       
+90,pumpkin man   
+91,great pumpkin 
+92,mecha-pumpkin 
+93,magic horse   
+94,holocaust     
+95,turkey        
+96,burnt turkey  
+97,super turkey  
+98,penguin       
+99,death knight  
+100,tiger         
+101,bengal tiger  
+102,sabre tooth   
+103,wisp          
+104,polar bear    
+105,were-bear     
+106,brown bear    
+107,grizzly bear  
+108,black bear    
+109,green dragon  
+110,gold dragon   
+111,headless      
+112,headless      
+113,silver dragon 
+114,dragon ghost  
+115,walking bones 
+116,stone golem   
+117,mad scientist 
+118,wyrm          
+119,rabbit        
+120,bunny         
+121,wraith        
+122,blue bunny    
+123,Peter rabbit  
+124,bunnie        
+125,Ornlu the Wolf
+126,mongoose      
+127,giant scorpion
+128,rock titan    
+129,witch         
+130,arch magi     
+131,small scorpion
+132,lost spirit   
+133,-vendor2-     
+134,nightblade    
+135,assassin      
+136,bandit        
+137,necromancer   
+138,mage guard    
+139,high centaur  
+140,monk          
+141,slave         
+142,winter wolf   
+143,cobra         
+144,hungry dog    
+145,medusa        
+146,training dummy
+147,mithril slime 
+148,town guard    
+149,touched one   
+150,undead guard  
+151,water blob    
+152,orc war boss  
+153,orc shaman    
+154,-vendor3-     
+155,red dragon    
+156,lesser vampire
+157,vampire       
+158,-battlevendor-
+159,magma golem   
+160,wild cat      
+161,guard         
+162,-battlevendor-
+163,summoned wolf 
+164,spider        
+165,radioinactive 
+166,ice skater    
+167,elf           
+168,elf           
+169,ladybug       
+170,daijou        
+171,strong warrior
+172,serpent       
+173,doom beetle   
+174,dung beetle   
+175,medium warrior
+176,warrior       
+177,human         
+178,mage          
+179,medium mage   
+180,strong mage   
+181,pigvine       
+182,tarantula
+183,greaterdragon
+184,chaos spider
+185,omar
+186,Frost Golem
+187,Catbert
+188,Sun Bear
+189,blue wyrm
+190,black skeleton
+191,black dragon
+192,black wyrm
+193,black tiger
+194,red serpent
+195,black sire
+196,white dragon
+197,Fenrir
+198,Easter Bunny
