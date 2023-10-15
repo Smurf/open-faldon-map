@@ -40,31 +40,27 @@ function selectMonster(monsterId) {
     sel.options.length = 0;
 
     if (selectedMob > 0) {
-        var mobOnCurrentMap = false;
-        for (var i = 0; i < mapsWithMob.length; i++) {
-            var map = mapsWithMob[i];
-
-            if (map == currentMap) {
-                mobOnCurrentMap = true;
-            }
-
-            sel.options[sel.options.length] = new Option("Map " + map, map, false, false);
-        }
-
-        if (mobOnCurrentMap) {
-            $("#map_select").val(currentMap);
-        } else {
-
-            currentMap = sel.options[0].value;
+        if (!mapsWithMob.includes(currentMap)) {
+            currentMap = mapsWithMob[0];
             selectMap(currentMap);
         }
+        for (var i = 1; i <= 9; i++) {
+            var currentOption = sel.options.length;
+            console.log(mapsWithMob);
+            console.log(mapsWithMob.includes(""+i));
+            if(mapsWithMob.includes(""+i)){
+                sel.options[currentOption] = new Option("*Map " + i+"*", i, false, false);
+            }else{
+                sel.options[currentOption] = new Option("Map " + i, i, false, false);
+            }
+        }
+
     } else {
 
         for (var i = 1; i <= 9; i++) {
             var currentOption = sel.options.length;
             sel.options[currentOption] = new Option("Map " + i, i, false, false);
         }
-        $("#map_select").val(currentMap);
     }
 }
 
@@ -166,8 +162,6 @@ function loadSpawns() {
 }
 function drawPortals(mapNr) {
     if(document.getElementById("show_portals").checked){
-        console.log("Drawing portals for map "+mapNr+"...");
-        console.log("Portal Data at drawPortals:"+portalData);
         for (var i = 0; i < portalData.length; i++) {
             var portal = portalData[i];
 
@@ -209,12 +203,12 @@ function drawPortals(mapNr) {
                         element: document.getElementById("portal"+i),
                         clickHandler: function (e){
                             var portal = e.eventSource.element.portal;
-                            console.log(JSON.stringify(portal));
                             
                             viewer.goToPage(portal.to_map - 1);
                             //portalToMap(portal.to_map);
                             selectMap(portal.to_map);
-                            viewer.viewport.zoomTo(8.5, new OpenSeadragon.Point(portal.to_vx, portal.to_vy));
+                            viewer.viewport.goHome(true);
+                            viewer.viewport.zoomTo(10, new OpenSeadragon.Point(portal.to_vx, portal.to_vy));
                         }
                     }
                 );
@@ -336,13 +330,12 @@ function startViewport() {
 function portalToMap(mapNum){
     //viewer.gotoPage is done in event handler
     $("#map_select").val(mapNum).change();
-    console.log("Map portal: "+$("#map_select").val());
     drawPortals(mapNum);
     drawSpawns(mapNum, selectedMob);
 }
 function selectMap(mapNum) {
     currentMap = mapNum;
-    $("map_select").val(mapNum).change();
+    $("#map_select").val(mapNum);
     viewer.goToPage(mapNum - 1);
     drawPortals(currentMap);
     drawSpawns(currentMap, selectedMob);
