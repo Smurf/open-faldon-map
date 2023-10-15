@@ -40,27 +40,36 @@ function selectMonster(monsterId) {
     sel.options.length = 0;
 
     if (selectedMob > 0) {
-        if (!mapsWithMob.includes(currentMap)) {
-            currentMap = mapsWithMob[0];
-            selectMap(currentMap);
-        }
+        
         for (var i = 1; i <= 9; i++) {
             var currentOption = sel.options.length;
             console.log(mapsWithMob);
             console.log(mapsWithMob.includes(""+i));
+            var foundFirst = true; //ugly af hack
             if(mapsWithMob.includes(""+i)){
                 sel.options[currentOption] = new Option("*Map " + i+"*", i, false, false);
+                if(foundFirst && !mapsWithMob.includes(currentMap)){
+                    //$("#map_select").val(currentOption+1).change();
+                    selectMap(currentMap);
+                }
+                foundFirst = false;
             }else{
                 sel.options[currentOption] = new Option("Map " + i, i, false, false);
             }
         }
-
+        if (!mapsWithMob.includes(currentMap)) {
+            currentMap = mapsWithMob[0];
+            selectMap(currentMap);
+        }else{
+           selectMap(currentMap);
+        }
     } else {
 
         for (var i = 1; i <= 9; i++) {
             var currentOption = sel.options.length;
             sel.options[currentOption] = new Option("Map " + i, i, false, false);
         }
+        selectMap(currentMap);
     }
 }
 
@@ -134,7 +143,7 @@ function loadPortals() {
     });
 }
 function loadSpawns() {
-    $.get("monster-spawns.txt", function(data) {
+    $.get("monster-spawns-new.txt", function(data) {
         var lines = data.split("\n");
 
         for (var i = 0; i < lines.length; i++) {
@@ -147,6 +156,9 @@ function loadSpawns() {
             spawn.z = sData[2];
             spawn.map = sData[3];
             spawn.monster = sData[4];
+            if (sData[5] != ""){
+                spawn.scriptName = sData[5];
+            }
             if (monsterData[spawn.monster] != undefined) {
                 spawn.name = monsterData[spawn.monster].name;
             } else {
@@ -253,8 +265,11 @@ function drawSpawns(mapNr, monsterId) {
 
         var tooltip = document.createElement("span");
         tooltip.classList.add('tooltip');
-        tooltip.innerText = spawn.name;
-        
+        if(spawn.scriptName){
+            tooltip.innerText = spawn.scriptName;
+        }else{
+            tooltip.innerText = spawn.name;
+        }
         var image = document.createElement("img");
         
         image.classList.add('mob-image');
