@@ -1,12 +1,15 @@
 var spawnData = new Array();
 var monsterData = new Array();
+var portalData = new Array();
 
-var mapWidth = 4096;
-var mapHeight = 2048;
+var mapWidth = 16384;
+var mapHeight = 8192;
 var app;
-//map is 4x size of original
-var tileHeight = 1;
-var tileWidth = 4;
+// Tile aspect ratio = 1:4
+// tile height = (mapheight/512)/2
+// tileWidth = (mapWidth/512)/2
+var tileHeight = 4;
+var tileWidth = 16;
 
 var osConfig, anno, viewer, db = {};
 var selectedMob;
@@ -39,23 +42,28 @@ function selectMonster(monsterId) {
     sel.options.length = 0;
 
     if (selectedMob > 0) {
-        var mobOnCurrentMap = false;
-        for (var i = 0; i < mapsWithMob.length; i++) {
-            var map = mapsWithMob[i];
-
-            if (map == currentMap) {
-                mobOnCurrentMap = true;
+        
+        for (var i = 1; i <= 9; i++) {
+            var currentOption = sel.options.length;
+            console.log(mapsWithMob);
+            console.log(mapsWithMob.includes(""+i));
+            var foundFirst = true; //ugly af hack
+            if(mapsWithMob.includes(""+i)){
+                sel.options[currentOption] = new Option("*Map " + i+"*", i, false, false);
+                if(foundFirst && !mapsWithMob.includes(currentMap)){
+                    //$("#map_select").val(currentOption+1).change();
+                    selectMap(currentMap);
+                }
+                foundFirst = false;
+            }else{
+                sel.options[currentOption] = new Option("Map " + i, i, false, false);
             }
-
-            sel.options[sel.options.length] = new Option("Map " + map, map, false, false);
         }
-
-        if (mobOnCurrentMap) {
-            $("#map_select").val(currentMap);
-        } else {
-
-            currentMap = sel.options[0].value;
+        if (!mapsWithMob.includes(currentMap)) {
+            currentMap = mapsWithMob[0];
             selectMap(currentMap);
+        }else{
+           selectMap(currentMap);
         }
     } else {
 
@@ -63,7 +71,7 @@ function selectMonster(monsterId) {
             var currentOption = sel.options.length;
             sel.options[currentOption] = new Option("Map " + i, i, false, false);
         }
-        $("#map_select").val(currentMap);
+        selectMap(currentMap);
     }
 }
 
@@ -101,9 +109,44 @@ function loadMonsters() {
         }
     });
 }
+function loadPortals() {
+    $.get("portals.txt", function(data) {
+        var lines = data.split("\n");
+        // Strip headers of first line
+        for (var i = 1; i < lines.length; i++){ 
+            pData = lines[i].split(",");
+            if(pData[0] == "") continue;
 
+            var portal = new Object();
+            
+            portal.map = pData[0];
+            portal.x = pData[1];
+            portal.y = pData[2];
+            portal.to_map = pData[3];
+            portal.to_x = pData[4];
+            portal.to_y = pData[5];
+            portal.note = pData[6];
+            portal.img = pData[7];
+            //Calculate vx/vy for to coords
+            //viewport coords
+            var x = parseInt(portal.to_x);
+            var y = parseInt(portal.to_y);
+
+            var sx = (x - y) * tileWidth;
+            sx += mapWidth / 2;
+            var sy = (x + y) * tileHeight;
+            var vx = sx / mapWidth; //viewport x
+            var vy = sy / mapHeight; //viewport y
+            
+            portal.to_vx = vx;
+            portal.to_vy = vy;
+
+            portalData.push(portal);
+        }
+    });
+}
 function loadSpawns() {
-    $.get("monster-spawns.txt", function(data) {
+    $.get("monster-spawns-new.txt", function(data) {
         var lines = data.split("\n");
 
         for (var i = 0; i < lines.length; i++) {
@@ -116,6 +159,9 @@ function loadSpawns() {
             spawn.z = sData[2];
             spawn.map = sData[3];
             spawn.monster = sData[4];
+            if (sData[5] != ""){
+                spawn.scriptName = sData[5];
+            }
             if (monsterData[spawn.monster] != undefined) {
                 spawn.name = monsterData[spawn.monster].name;
             } else {
@@ -128,6 +174,71 @@ function loadSpawns() {
     //spawnData.sort((a, b) => ((a.y > b.y) ? 1 : (a.y < b.y) ? -1 : 0));
     //spawnData.sort((a, b) => ((a.x > b.x) ? -1 : (a.x < b.x) ? 1 : 0));
     spawnData.sort();
+}
+function drawPortals(mapNr) {
+    if(document.getElementById("show_portals").checked){
+        for (var i = 0; i < portalData.length; i++) {
+            var portal = portalData[i];
+
+            if(portal.map != mapNr) continue;
+            var x = parseInt(portal.x);
+            var y = parseInt(portal.y);
+
+            var sx = (x - y) * tileWidth;
+            sx += mapWidth / 2;
+            var sy = (x + y) * tileHeight;
+            var vx = sx / mapWidth; //viewport x
+            var vy = sy / mapHeight; //viewport y
+
+            var elem = document.createElement("div");
+            elem.style.zIndex = parseInt(vy*1000);
+            elem.classList.add('portal-pointer');
+            var svg_img = document.createElement("img");
+            svg_img.src = portal.img;
+            svg_img.style.filter = 'drop-shadow(0 0 0.75rem gold)';
+
+            var tooltip = document.createElement("span");
+            tooltip.classList.add('tooltip');
+            tooltip.innerText = portal.note;
+            elem.appendChild(tooltip);
+            elem.id = "portal" + i;
+
+            //Give elem portal data for event handler
+            elem.portal = portal;
+
+            elem.portal.vx = vx;
+            elem.portal.vy = vy;
+            elem.appendChild(svg_img);
+            viewer.addOverlay({
+                element: elem,
+                location: new OpenSeadragon.Point(vx, vy),
+                placement: OpenSeadragon.Placement.CENTER
+            });
+            var tracker = new OpenSeadragon.MouseTracker(
+                    {
+                        element: document.getElementById("portal"+i),
+                        clickHandler: function (e){
+                            var portal = e.eventSource.element.portal;
+                            
+                            viewer.goToPage(portal.to_map - 1);
+                            //portalToMap(portal.to_map);
+                            selectMap(portal.to_map);
+                            viewer.viewport.goHome(true);
+                            viewer.viewport.zoomTo(5, new OpenSeadragon.Point(portal.to_vx, portal.to_vy));
+                            viewer.viewport.panTo(new OpenSeadragon.Point(0.5, 0.5));
+                        }
+                    }
+                );
+            console.log("Portal for map" + mapNr + " found at x: " + vx + " , y: " + vy);
+        }
+    }
+}
+
+function clearPortals(){
+
+    $(".portal-pointer").each( function (i) {
+        viewer.removeOverlay(this);
+    });
 }
 
 function drawSpawns(mapNr, monsterId) {
@@ -159,39 +270,38 @@ function drawSpawns(mapNr, monsterId) {
 
         var tooltip = document.createElement("span");
         tooltip.classList.add('tooltip');
-        tooltip.innerText = spawn.name;
-        
+        if(spawn.scriptName){
+            tooltip.innerText = spawn.scriptName;
+        }else{
+            tooltip.innerText = spawn.name;
+        }
         var image = document.createElement("img");
         
         image.classList.add('mob-image');
         image.src = "images/mob-art/"+spawn.monster+".png"
-        //this does not work?!
-        image.onerror = function (){this.type.display='none;'}
+        
+        image.onerror = function (){this.style.display='none'}
+       
         //Fix for other spawn markers overlapping tool tips
-        tooltip.zindex = 5+(spawnData.length-i);
+        elem.style.zIndex = parseInt(vy*1000);
         tooltip.appendChild(image);
         elem.appendChild(tooltip);
         elem.id = "spawn" + i;
         elem.appendChild(svg_img);
         viewer.addOverlay(elem,
-            new OpenSeadragon.Point(vx, vy)
+            new OpenSeadragon.Point(vx, vy),
+            OpenSeadragon.Placement.CENTER
         );
         console.log("Spawn for " + monsterId + " found at x: " + vx + " , y: " + vy);
     }
 }
 
 function clearSpawns() {
-
-    viewer.clearOverlays();
-}
-
-var findById = function(id) {
-    var query = db.collection('annotations').where('id', '==', id);
-    return query.get().then(function(querySnapshot) {
-        var doc = querySnapshot.docs[0];
-        return doc
+    $(".spawn-pointer").each( function (i) {
+        viewer.removeOverlay(this);
     });
 }
+
 
 function startViewport() {
 
@@ -201,6 +311,7 @@ function startViewport() {
         navigatorPosition: "BOTTOM_LEFT",
         prefixUrl: "images/",
         toolbarDiv: "toolbar-div",
+        preserveViewport: true,
         tileSources: [
             'map/huge/1.dzi', 
             'map/huge/2.dzi',
@@ -233,79 +344,54 @@ function startViewport() {
     };
     anno = OpenSeadragon.Annotorious(viewer, config);
     map = document.getElementById('faldon-map');
-    //loadAnnotations();
 }
 
-function loadAnnotations() {
-    anno.setAnnotations({});
-    // Load annotations for this image
-    db.collection('annotations').where('target.source', '==', currentMap)
-        .get().then(function(querySnapshot) {
-            if (querySnapshot.docs.length > 0) {
-                var annotations = querySnapshot.docs.map(function(doc) {
-                    return doc.data();
-                });
-            } else {
-                annotations = {};
-            }
 
-            anno.setAnnotations(annotations);
-        });
-
+function portalToMap(mapNum){
+    //viewer.gotoPage is done in event handler
+    $("#map_select").val(mapNum).change();
+    drawSpawns(mapNum, selectedMob);
+    drawPortals(mapNum);
 }
-
 function selectMap(mapNum) {
     currentMap = mapNum;
+    $("#map_select").val(mapNum);
     viewer.goToPage(mapNum - 1);
     drawSpawns(currentMap, selectedMob);
+    drawPortals(currentMap);
 }
 
 function startApp() {
-    startViewport();
+    loadPortals();
     loadMonsters();
     loadSpawns();
+    startViewport();
     selectMonster(0);
     selectMap(currentMap);
 
 
     $("#monster_select").change(function(evt) {
         selectMonster(this.value);
+        clearPortals();
+        drawPortals($("#map_select").val());
     });
 
     $("#map_select").change(function(evt) {
         selectMap(this.value);
     });
 
-}
-
-function tagSearch() {
-    var searchstr = document.getElementById("searchstr").value;
-    console.log(searchstr);
-    var results = db.collection('annotations').where('body', 'array-contains-any',
-            [{
-                purpose: 'tagging',
-                type: 'TextualBody',
-                value: searchstr
-            }]).get()
-        .then(function(querySnapshot) {
-            var annotations = querySnapshot.docs.map(function(doc) {
-                console.log(doc.data());
-                return doc.data();
-            });
-            anno.setAnnotations(annotations);
-        });
+    $("#show_portals").change(function(evt) {
+        if(this.checked){
+            drawPortals($("#map_select").val());
+        }else{
+            clearPortals();
+        }
+    });
 
 }
-
 
 window.onload = function() {
+    console.log("Starting...");
     startApp();
-}
-
-function findByField(dbField, objField) {
-    var query = db.collection('annotations').where(dbField, '==', objField);
-    return query.get().then(function(querySnapshot) {
-        var doc = querySnapshot.docs;
-        return doc
-    });
+    document.getElementById("show_portals").checked = false;
 }

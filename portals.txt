@@ -1,0 +1,39 @@
+map,x,y,to_map,to_x,to_y,note,images
+4,91,269,7,204,67,Valour,images/eth-gate.png
+7,204,67,4,89,267,Portal Room,images/eth-gate.png
+4,127,269,5,53,439,Midgard Shore,images/eth-gate.png
+5,53,439,4,89,267, Portal Room,images/eth-gate.png
+4,120,269,7,252,376,Thieves Town,images/eth-gate.png
+7,252,376,4,89,267,Portal Room,images/eth-gate.png
+4,101,250,6,283,451,Desert,images/eth-gate.png
+6,283,451,4,89,267,Portal Room,images/eth-gate.png
+4,109,247,5,471,12,Midgard Forest,images/eth-gate.png
+5,471,12,4,113,253,Portal Room,images/eth-gate.png
+4,85,262,6,72,171,Arakeen,images/eth-gate.png
+6,72,171,4,89,267,Portal Room,images/eth-gate.png
+4,82,270,5,84,255,Midgard,images/eth-gate.png
+5,84,255,4,89,267,Portal Room,images/eth-gate.png
+7,503,151,4,422,95,Fishing Hut,images/warp-tile.png
+4,421,95,7,503,151,Valour Dock,images/warp-tile.png
+7,402,181,4,102,327,The Depths,images/warp-tile.png
+4,98,324,7,402,181,Valour,images/warp-tile.png
+7,419,124,2,131,99,The Ant Nest,images/warp-tile.png
+2,131,99,7,419,124,Valour,images/warp-tile.png
+7,329,8,4,435,471,The Catacombs,images/warp-tile.png
+4,432,470,7,329,8,Valour,images/warp-tile.png
+4,404,501,4,336,102,Giant’s Graveyard,images/warp-tile.png
+4,336,102,4,404,501,The Catacombs,images/warp-tile.png
+7,282,6,4,177,197,The Mines,images/warp-tile.png
+4,177,197,7,282,6,Valour,images/warp-tile.png
+7,356,7,2,14,8,The Ant Nest North,images/warp-tile.png
+2,14,8,7,356,7,Valour,images/warp-tile.png
+7,266,85,8,315,8,Valour Sewers,images/warp-tile.png
+8,315,8,7,266,85,Valour,images/warp-tile.png
+7,295,256,4,495,435,Dragon’s Den,images/warp-tile.png
+4,495,435,7,295,256,Valour,images/warp-tile.png
+7,347,310,2,261,71,Hell Serpent Den,images/warp-tile.png
+2,261,71,7,347,310,Valour,images/warp-tile.png
+7,406,379,4,342,439,Dire Den,images/warp-tile.png
+4,342,439,7,406,379,Valour,images/warp-tile.png
+7,147,88,8,90,446,Winter Wolf Den,images/warp-tile.png
+8,90,446,7,147,88,Valour,images/warp-tile.png
