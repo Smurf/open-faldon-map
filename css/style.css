@@ -2,6 +2,9 @@ body{
 	background-color:black;
 }
 
+label {
+  color: white;
+}
 .show_portals {
   color: white;
 }
@@ -13,13 +16,24 @@ body{
   height: 16;
   z-index: 2;
 }
+.spawn-pointer > img{
+  position: aboslute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 .portal-pointer{
   position: absolute;
 	left:-12;
 	top:-24;
-	width: 24;
-  height: 24;
-  z-index: 3;
+	width: 64;
+  height: 85;
+}
+.portal-pointer > img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 .tooltip {
   width: 90px;

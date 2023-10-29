@@ -2,12 +2,14 @@ var spawnData = new Array();
 var monsterData = new Array();
 var portalData = new Array();
 
-var mapWidth = 4096;
-var mapHeight = 2048;
+var mapWidth = 16384;
+var mapHeight = 8192;
 var app;
-//map is 4x size of original
-var tileHeight = 1;
-var tileWidth = 4;
+// Tile aspect ratio = 1:4
+// tile height = (mapheight/512)/2
+// tileWidth = (mapWidth/512)/2
+var tileHeight = 4;
+var tileWidth = 16;
 
 var osConfig, anno, viewer, db = {};
 var selectedMob;
@@ -123,7 +125,8 @@ function loadPortals() {
             portal.to_map = pData[3];
             portal.to_x = pData[4];
             portal.to_y = pData[5];
-
+            portal.note = pData[6];
+            portal.img = pData[7];
             //Calculate vx/vy for to coords
             //viewport coords
             var x = parseInt(portal.to_x);
@@ -188,14 +191,15 @@ function drawPortals(mapNr) {
             var vy = sy / mapHeight; //viewport y
 
             var elem = document.createElement("div");
+            elem.style.zIndex = parseInt(vy*1000);
             elem.classList.add('portal-pointer');
             var svg_img = document.createElement("img");
-            svg_img.src = "images/portal-pointer.png";
-            svg_img.style.filter = 'hue-rotate(180deg)';
+            svg_img.src = portal.img;
+            svg_img.style.filter = 'drop-shadow(0 0 0.75rem gold)';
+
             var tooltip = document.createElement("span");
             tooltip.classList.add('tooltip');
-            tooltip.innerText = "Portal to map "+portal.to_map;
-            
+            tooltip.innerText = portal.note;
             elem.appendChild(tooltip);
             elem.id = "portal" + i;
 
@@ -220,7 +224,8 @@ function drawPortals(mapNr) {
                             //portalToMap(portal.to_map);
                             selectMap(portal.to_map);
                             viewer.viewport.goHome(true);
-                            viewer.viewport.zoomTo(10, new OpenSeadragon.Point(portal.to_vx, portal.to_vy));
+                            viewer.viewport.zoomTo(5, new OpenSeadragon.Point(portal.to_vx, portal.to_vy));
+                            viewer.viewport.panTo(new OpenSeadragon.Point(0.5, 0.5));
                         }
                     }
                 );
@@ -274,10 +279,11 @@ function drawSpawns(mapNr, monsterId) {
         
         image.classList.add('mob-image');
         image.src = "images/mob-art/"+spawn.monster+".png"
-        //this does not work?!
-        //image.onerror = function (){this.type.display='none;'}
+        
+        image.onerror = function (){this.style.display='none'}
+       
         //Fix for other spawn markers overlapping tool tips
-        tooltip.zindex = 5+(spawnData.length-i);
+        elem.style.zIndex = parseInt(vy*1000);
         tooltip.appendChild(image);
         elem.appendChild(tooltip);
         elem.id = "spawn" + i;
@@ -338,22 +344,21 @@ function startViewport() {
     };
     anno = OpenSeadragon.Annotorious(viewer, config);
     map = document.getElementById('faldon-map');
-    //loadAnnotations();
 }
 
 
 function portalToMap(mapNum){
     //viewer.gotoPage is done in event handler
     $("#map_select").val(mapNum).change();
-    drawPortals(mapNum);
     drawSpawns(mapNum, selectedMob);
+    drawPortals(mapNum);
 }
 function selectMap(mapNum) {
     currentMap = mapNum;
     $("#map_select").val(mapNum);
     viewer.goToPage(mapNum - 1);
-    drawPortals(currentMap);
     drawSpawns(currentMap, selectedMob);
+    drawPortals(currentMap);
 }
 
 function startApp() {
@@ -367,7 +372,8 @@ function startApp() {
 
     $("#monster_select").change(function(evt) {
         selectMonster(this.value);
-        drawPortals($("#map_select").val())
+        clearPortals();
+        drawPortals($("#map_select").val());
     });
 
     $("#map_select").change(function(evt) {
@@ -385,7 +391,7 @@ function startApp() {
 }
 
 window.onload = function() {
+    console.log("Starting...");
     startApp();
     document.getElementById("show_portals").checked = false;
 }
-
