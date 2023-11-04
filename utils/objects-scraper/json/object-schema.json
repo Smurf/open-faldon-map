@@ -1,0 +1,170 @@
+{
+    "item": {
+        "name": {
+            "address": "0x00",
+            "length": "0x18",
+            "format": "utf-8"
+        },
+        "plural_name": {
+            "address": "0x19",
+            "length": "0x18",
+            "format": "utf-8"
+        },
+        "weight": {
+            "address": "0x32",
+            "length": "0x01",
+            "format": "uint8"
+        },
+        "item_type" :{
+            "address": "0x36",
+            "length": "0x01",
+            "format": "uint8"
+        }
+    },
+    "equipable":{        
+        "unique" :{
+            "address": "0x64",
+            "length": "0x04",
+            "format": "uint8"
+        },
+
+        "lost_artifact" :{
+            "address": "0xAD",
+            "length": "0x01",
+            "format": "uint8"
+        },
+        "requirements":{
+             "str":{
+                "address": "0x37",
+                "length": "0x02",
+            "format": "uint16"
+            }, 
+            "def":{
+                "address": "0x8b",
+                "length": "0x02",
+            "format": "uint16"
+            }, 
+            "con":{
+                "address": "0x89",
+                "length": "0x02",
+            "format": "uint16"
+            }, 
+            "int":{
+                "address": "0x39",
+                "length": "0x02",
+            "format": "uint16"
+            },
+            "stam":{
+                "address": "0x3b",
+                "length": "0x02",
+            "format": "uint16"
+            },
+            "mag":{
+                "address": "0x8d",
+                "length": "0x02",
+            "format": "uint16"
+            },
+            "level":{
+                "address": "0x97",
+                "length": "0x02",
+            "format": "uint16"
+            }
+        },
+        "stat_mods":{
+             "str":{
+                "address": "0x53",
+                "length": "0x01",
+            "format": "int8"
+            }, 
+            "def":{
+                "address": "0x54",
+                "length": "0x01",
+            "format": "int8"
+            }, 
+            "con":{
+                "address": "0x55",
+                "length": "0x01",
+            "format": "int8"
+            }, 
+            "int":{
+                "address": "0x52",
+                "length": "0x01",
+            "format": "int8"
+            },
+            "stam":{
+                "address": "0x51",
+                "length": "0x01",
+            "format": "int8"
+            },
+            "mag":{
+                "address": "0x56",
+                "length": "0x01",
+            "format": "int8"
+            }        
+        },
+        "resistances": {
+            "lightning": {
+                "address": "0xA1",
+                "length": "0x01",
+            "format": "sint8"
+            },
+            "fire": {
+                "address": "0xA3",
+                "length": "0x01",
+            "format": "sint8"
+            },
+            "poison": {
+                "address": "0xA7",
+                "length": "0x01",
+            "format": "sint8"
+            },
+            "holy": {
+                "address": "0xA9",
+                "length": "0x01",
+            "format": "sint8"
+            },
+            "magic": {
+                "address": "0xA5",
+                "length": "0x01",
+            "format": "sint8"
+            },
+            "paralysis": {
+                "address": "0xAB",
+                "length": "0x01",
+            "format": "sint8"
+            }
+        }
+    },
+
+    "weapon":{        
+        "weapon_type" :{
+            "address": "0x47",
+            "length": "0x01",
+            "format": "uint8"
+        },
+
+        "type_attributes" :{
+            "address": "0x34",
+            "length": "0x01",
+            "format": "uint8"
+        },
+        "minimum_damage" :{
+            "address": "0x4B",
+            "length": "0x01",
+            "format": "uint8"
+        },
+
+        "maximum_damage" :{
+            "address": "0x4C",
+            "length": "0x01",
+            "format": "uint8"
+        },
+
+        "attack_rating" :{
+            "address": "0x45",
+            "length": "0x01",
+            "format": "uint8"
+        }
+    }
+
+}

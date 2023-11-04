@@ -2,3 +2,8 @@
 *.swo
 .venv
 huge/
+*lock*
+__pycache__
+*.sqlite
+*.db
+objects.dat
