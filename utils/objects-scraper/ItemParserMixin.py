@@ -45,22 +45,22 @@ class ItemParserMixin():
                 address = schema[schema_part][field]['address']
                 length = schema[schema_part][field]['length']
                 field_type = schema[schema_part][field]['format']
-
-                if(field_type == "utf-8"):
-                    item_data[field] = self.read_data(self.bin_data, address, length, "@c").decode()
-                elif field_type == "uint8": #Unsinged int
-                    item_data[field] = self.bin_data[int(address, 16)]
-                elif field_type == "int8": #normal int8 -127-128
-                    unsigned = self.bin_data[int(address, 16)]
-                    item_data[field] = unsigned-127
-                elif field_type == "sint8": #somehow this is different than int8?
-                    unsigned = self.bin_data[int(address, 16)]
-                    if unsigned > 127:
-                        unsigned -= 256
-
-                    item_data[field] = unsigned
-                elif field_type == "uint16":
-                    read_data = self.read_data(self.bin_data, address, length, "@H")
-                    item_data[field] = int.from_bytes(read_data, byteorder='big', signed=True)
-                else:
-                    print(f"field format of {field_type} not defined...")
+                
+                match field_type:
+                    case "utf-8":
+                        item_data[field] = self.read_data(self.bin_data, address, length, "@c").decode()
+                    case "uint8":
+                        item_data[field] = self.bin_data[int(address, 16)]
+                    case "int8":
+                        unsigned = self.bin_data[int(address, 16)]
+                        item_data[field] = unsigned-127
+                    case "sint8":
+                        unsigned = self.bin_data[int(address, 16)]
+                        if unsigned > 127:
+                            unsigned -= 256
+                        item_data[field] = unsigned
+                    case "uint16":
+                        read_data = self.read_data(self.bin_data, address, length, "@H")
+                        item_data[field] = int.from_bytes(read_data, byteorder='big', signed=True)
+                    case _:
+                        print(f"field format of {field_type} not defined...")
