@@ -28,7 +28,6 @@ Select all equippable items.
 SELECT 	i.id,
         i.type,
         i.name,
-        i.plural_name,
         i.weight,
         e.requirements,
         e.stat_mods,
@@ -41,7 +40,6 @@ Stat requirements and resists are stored as JSON objects. They can be turned int
 ```
 SELECT i.id,
 		i.name,
-        i.plural_name,
         i.weight,
         e.resistances,
         i_t.type,

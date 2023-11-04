@@ -144,9 +144,26 @@
         },
 
         "type_attributes" :{
-            "address": "0x34",
-            "length": "0x01",
-            "format": "uint8"
+            "projectile": {
+                "address": "0x48",
+                "length": "0x01",
+                "format": "uint8"
+            },
+            "silver": {
+                "address": "0x49",
+                "length": "0x01",
+                "format": "uint8"
+            }, 
+            "two_handed": {
+                "address": "0x88",
+                "length": "0x01",
+                "format": "uint8"
+            },
+            "cursed": {
+                "address": "0x4a",
+                "length": "0x01",
+                "format": "uint8"
+            }       
         },
         "minimum_damage" :{
             "address": "0x4B",
