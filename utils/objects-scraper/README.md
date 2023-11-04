@@ -20,6 +20,10 @@ $ ./util/create-db.sh
 
 You can browse the DB with the [SQLite Online IDE](https://sqliteonline.com/).
 
+## DB Schema
+
+![](./img/items-db-schema.png)
+
 ## Example Queries
 
 Select all equippable items.
