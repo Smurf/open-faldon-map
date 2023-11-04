@@ -104,6 +104,7 @@ class Weapon(Equipable):
     minimum_damage: Mapped[int] = mapped_column(Integer())
     maximum_damage: Mapped[int] = mapped_column(Integer())
     attack_rating: Mapped[int] = mapped_column(Integer())
+    type_attributes: Mapped[JSON] = mapped_column(JSON)
     def __init__(self, obj_id, bin_data:bytearray, schema:dict):
         super().__init__(obj_id, bin_data, schema)
         self.schema_part = "weapon"
@@ -114,6 +115,7 @@ class Weapon(Equipable):
         self.minimum_damage = self.item_data['minimum_damage']
         self.maximum_damage = self.item_data['maximum_damage']
         self.attack_rating = self.item_data['attack_rating']
+        self.type_attributes = self.item_data['type_attributes']
 
 
 def read_file(filename:str)->bytes:
