@@ -91,7 +91,7 @@ def get_item_id_by_name(item_name:str, engine):
 
 def main():
 
-    engine = create_engine("sqlite:///./db/objects.sqlite", echo=False)
+    engine = create_engine("sqlite:///./db/faldon-data.sqlite", echo=False)
     Base.metadata.create_all(engine)
     # We have to do this because of sqlalchemy magic
     # If this isn't done the tables aren't automatically created

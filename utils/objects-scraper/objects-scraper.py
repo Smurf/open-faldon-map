@@ -68,7 +68,7 @@ def main():
     with open('./json/object-schema.json', 'r') as f:
         schema_dict = json.loads(f.read())
     
-    engine = create_engine("sqlite:///./db/objects.sqlite", echo=True)
+    engine = create_engine("sqlite:///./db/faldon-data.sqlite", echo=True)
     Base.metadata.create_all(engine)
     # We have to do this because of sqlalchemy magic
     # If this isn't done the tables aren't automatically created
