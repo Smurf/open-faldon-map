@@ -1,5 +1,3 @@
-
-
 Grass Snake Stats
 Experience: 45
 HP: 22
@@ -2289,7 +2287,7 @@ Taming Range: 0 to 20
 Attack Speed (0 is fast): 1
 Damage Min: 12
 Damage Avg: 17
-Damage Max: 21
+damage max: 21
 Critical Hit Min: 25
 Critical Hit Max: 34
 Cold Resist: 0
@@ -5672,7 +5670,7 @@ Experience: 150000
 HP: 42000
 Mana: 2500
 Armor Class: 1500
-Lore RAnge: 80 to 100
+Lore Range: 80 to 100
 Taming Range: 0 to 20
 Attack Speed (0 is fast): 0
 Damage Min: 337
