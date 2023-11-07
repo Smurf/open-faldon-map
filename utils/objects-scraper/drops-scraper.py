@@ -3,21 +3,17 @@
 # builtin imports
 import sys
 sys.path.insert(0, "./src")
-
-from typing import Tuple
-import json
+import re
 
 # sqlalchemy imports
 from sqlalchemy import create_engine
-from sqlalchemy import select, join, text
+from sqlalchemy import text
 from sqlalchemy.orm import Session
-from sqlalchemy.orm import relationship
 
 # class imports
 from Monsters import Monster, MonsterDrops
 from Items import Item, ItemTypeTable, ItemType, Equipable, Weapon
 from AbstractBase import Base
-import re
 
 def read_file(filename:str)->str:
     lines = []
@@ -52,35 +48,34 @@ def get_item_id_by_name(item_name:str, engine):
     if(re.match("^Arrow Plus \d", item_name)):
         item_name = item_name.replace("Plus ", "+")
     
-    if(item_name == "Padded Plate"):
-        item_name = "Platinum Plate"
-
-    if(item_name == "Royal Mage Robe"):
-        item_name = "Royal Mages Robe"
-
-    if(item_name == "Daemon Soccer Ball"):
-        item_name = "Daemon"
-
-    if(item_name == "Titan Claymore"):
-        item_name = "Claymore Of Burning"
-
-    if(item_name == "Master Sword"):
-        item_name = "Claymore Of Burning"
-    
-    if(item_name == "Potion Of Light"):
-        item_name = "Potion Of Experience"
-
-    if(item_name == "Elixir Of Light"):
-        item_name = "Elixir Of Experience"
-
-    if(item_name == "Fragile Blade Of Chaos"):
-        item_name = "Swordbreaker"
-    
-    if(item_name == "Ice Dagger"):
-        item_name = "Ice Katar"
-
-    if(item_name == "Master Sword"):
-        item_name = "Gamemaster Sword"
+    renames = [
+            ("Padded Plate", "Platinum Plate"),
+            ("Royal Mage Robe", "Royal Mages Robe"),
+            ("Pink Mage Robe", "Pink Mages Robe"),
+            ("Greater Mage Robe", "Greater Mages Robe"),
+            ("Daemon Soccer Ball", "Daemon"),
+            ("Titan Claymore", "Claymore Of Burning"),
+            ("Master Sword", "Gamemaster Sword"),
+            ("Potion Of Light", "Potion Of Experience"),
+            ("Elixir Of Light", "Elixir Of Experience"),
+            ("Ice Dagger", "Ice Katar"),
+            ("Druid Helm", "Druid Hat"),
+            ("Druid Vestment", "Druid Vestments"),
+            ("Blood Star", "Bloodstar"),
+            ("Pink Hand Axe", "Pink Handaxe"),
+            ("Storm Breaker", "Stormbreaker"),
+            ("Spartan Gloves", "Spartan Gauntlets"),
+            ("Armor of Helios", "Armor Of Helios"),
+            ("Soulshield", "Souls Shield"),
+            ("Souls Helm", "Souls Helmet"),
+            ("Large Rejuinvation Potion", "Elixir Of Rejuinvation"),
+            ("GMRUNE", "Gmrune"),
+            ("Fragile Blade Of Chaos", "Swordbreaker")
+            ]
+    for rename in renames:
+        if(item_name == rename[0]):
+            #print(f"Replaced {item_name} with {rename[1]}")
+            item_name = rename[1]
 
     query = text(f"""SELECT i.id
     FROM items i INNER JOIN item_type i_t ON i.type = i_t.id JOIN equipable e USING (id) 
@@ -96,7 +91,7 @@ def get_item_id_by_name(item_name:str, engine):
 
 def main():
 
-    engine = create_engine("sqlite:///./db/objects.sqlite", echo=True)
+    engine = create_engine("sqlite:///./db/objects.sqlite", echo=False)
     Base.metadata.create_all(engine)
     # We have to do this because of sqlalchemy magic
     # If this isn't done the tables aren't automatically created
@@ -107,7 +102,7 @@ def main():
     drops = []
     lines = read_file("data/drops.txt")
     current_monster = Monster()
-    current_mob_id = 1
+    current_mob_id = 0
     current_drop_id = 0
     on_drops = False
     for line in lines:
@@ -116,68 +111,74 @@ def main():
             #Check for newline separator, if so we're off drops, skip
             if(line == "\n"):
                 on_drops = False
+
+                current_mob_id += 1
             else:
                 drop = line.split()
                 item_name = add_spaces(drop[0]).rstrip()
                 item_id = get_item_id_by_name(item_name, engine)
                 if(item_id == None):
                     print(f"Couldn't find item {item_name}")
-                    pass
-                drop_chance = drop[2]
+                else:
+                    drop_chance = drop[2]
+                
+                    t_drop = MonsterDrops()
+                    t_drop.id = current_drop_id
+                    t_drop.item_id = item_id
+                    t_drop.monster_id = current_mob_id
+                    t_drop.amount = int(drop[1])+1
+                    t_drop.chance = drop_chance
 
-                t_drop = MonsterDrops()
-                t_drop.id = current_drop_id
-                t_drop.item_id = item_id
-                t_drop.monster_id = current_mob_id
-                t_drop.chance = drop_chance
+                    drops.append(t_drop)
+                    current_drop_id += 1
 
-                drops.append(t_drop)
-                current_drop_id += 1
-        if bool(re.search("Stats", line)):
-            #if(on_drops): #If we were on drops last we hit a now mob
-            #    on_drops = False
-            #    monsters.append(current_monster)
+        line = line.lower()
+        if bool(re.search("stats", line)):
             current_monster = Monster()
-            current_monster.name = " ".join(line.split()[:-1])
+            current_monster.name = " ".join(line.split()[:-1]).title()
             current_monster.id = current_mob_id
-            current_mob_id += 1
             current_monster_res = {}
-        if bool(re.search("Experience:", line)):    
+        if bool(re.search("experience:", line)):    
             current_monster.exp = pull_colon_field(line) 
-        if bool(re.search("HP:", line)):           
+        if bool(re.search("hp:", line)):           
             current_monster.hit_points = pull_colon_field(line)
-        if bool(re.search("Mana:", line)):          
+        if bool(re.search("armor class:", line)):
+            current_monster.armor_class = pull_colon_field(line)
+        if bool(re.search("mana:", line)):          
             current_monster.mana_points = pull_colon_field(line)
-        if bool(re.search("Lore ", line)):          
+        if bool(re.search("lore range", line)):          
             current_monster.lore_min, current_monster.lore_max = pull_range_field(line)
-        if bool(re.search("Taming Range", line)):
+        if bool(re.search("taming range", line)):
             current_monster.taming_min, current_monster.taming_max = pull_range_field(line)
-        if bool(re.search("Damage Min", line)):    
+        if bool(re.search("damage min", line)):    
             current_monster.damage_min = pull_colon_field(line)
-        if bool(re.search("Damage Max", line)):    
-            current_monster.damage_min = pull_colon_field(line)
-        if bool(re.search("Critical Hit Min", line)):
+        if bool(re.search("damage max", line)):    
+            current_monster.damage_max = pull_colon_field(line)
+        if bool(re.search("critical hit min", line)):
             current_monster.critical_min = pull_colon_field(line)
-        if bool(re.search("Critical Hit Max", line)):
+        if bool(re.search("critical hit max", line)):
             current_monster.critical_max = pull_colon_field(line)
-        if bool(re.search("Cold Resist", line)):          
+        if bool(re.search("cold resist", line)):          
             current_monster_res['cold'] = pull_colon_field(line)
-        if bool(re.search("Fire Resist", line)):          
+        if bool(re.search("fire resist", line)):          
             current_monster_res['fire'] = pull_colon_field(line)
-        if bool(re.search("Lightning Resist", line)):
+        if bool(re.search("lightning resist", line)):
             current_monster_res['lightning'] = pull_colon_field(line)
-        if bool(re.search("Physical Resist", line)):      
+        if bool(re.search("physical resist", line)):      
             current_monster_res['physical'] = pull_colon_field(line)
-        if bool(re.search("Holy Resist", line)):          
+        if bool(re.search("holy resist", line)):          
             current_monster_res['holy'] = pull_colon_field(line)
-        if bool(re.search("Magic Resist", line)):         
+        if bool(re.search("magic resist", line)):         
             current_monster_res['magic'] = pull_colon_field(line)
-        if bool(re.search("Religion:", line)):     
+        if bool(re.search("religion kills", line)):
+            current_monster.religion_exp = pull_colon_field(line)
+        if bool(re.search("religion:", line)):     
             current_monster.religion = pull_colon_field(line)
-        if bool(re.search("Item Drops", line)):
+        if bool(re.search("item drops", line)):
             current_monster.resistances = current_monster_res.copy()
             monsters.append(current_monster)
             on_drops = True
+
     with Session(engine) as session:
         session.add_all(monsters)
         session.add_all(drops)
