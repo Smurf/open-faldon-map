@@ -65,24 +65,6 @@ def init_item_type_table(session):
 
     session.commit()
 
-def init_relationships():
-    Item.equipable = relationship(
-        Equipable,
-        back_populates="item",
-        uselist=False,
-    )
-
-    Equipable.item = relationship(
-        Item,
-        back_populates="equipable",
-        uselist=False,
-    )
-
-    Weapon.equipable = relationship(
-        Equipable,
-        back_populates="equipable",
-        uselist=False,
-    )
 def main():
     objects = read_file('./data/objects.dat')
     with open('./json/object-schema.json', 'r') as f:
@@ -94,7 +76,7 @@ def main():
     # If this isn't done the tables aren't automatically created
     from Items import Item, ItemTypeTable, ItemType, Equipable, Weapon
 
-    init_relationships()
+    #init_relationships()
     chunks = chunkify(objects)
     weapons = []
     equipable = []
@@ -111,9 +93,5 @@ def main():
         session.add_all(weapons)
         session.commit()
 
-    with engine.connect() as conn:
-        stmt = select(Item)
-        #for row in conn.execute(stmt):
-            #print(row)
 if __name__ == "__main__":
     main()
