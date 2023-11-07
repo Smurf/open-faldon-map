@@ -31,6 +31,7 @@ class Monster(Base):
     critical_max: Mapped[int] = mapped_column(Integer())
     resistances: Mapped[JSON] = mapped_column(JSON)
     religion: Mapped[int] = mapped_column(Integer())
+    religion_exp: Mapped[int] = mapped_column(Integer())
 
 class MonsterDrops(Base):
     __tablename__ = "monster_drops"
