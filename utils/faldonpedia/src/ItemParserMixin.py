@@ -1,5 +1,5 @@
 import struct
-
+import string
 from sqlalchemy import String, Integer
 from sqlalchemy.orm import mapped_column
 class ItemParserMixin():
@@ -31,7 +31,7 @@ class ItemParserMixin():
                 read_values += value
 
         if format_str == "@c": # Strip spaces if we're decoding a string
-            return read_values.rstrip().title()
+            return read_values.rstrip()
 
         return read_values
 
@@ -48,7 +48,7 @@ class ItemParserMixin():
                 
                 match field_type:
                     case "utf-8":
-                        item_data[field] = self.read_data(self.bin_data, address, length, "@c").decode()
+                        item_data[field] = string.capwords(self.read_data(self.bin_data, address, length, "@c").decode()).replace("'", "")
                     case "uint8":
                         item_data[field] = self.bin_data[int(address, 16)]
                     case "int8":

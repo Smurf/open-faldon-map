@@ -1,0 +1,7229 @@
+Grass Snake Stats
+Experience: 45
+HP: 22
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 3 to 23
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SnakeSkin 1 10%
+RodentFur 1 0.100005630118684%
+SerpentShield 0 0.00563011868372567%
+Egg 1 1.8002892%
+GoldPiece 1 4.0002806%
+
+Mouse Stats
+Experience: 40
+HP: 10
+Mana: 0
+Armor Class: 0
+Lore RAnge: 3 to 23
+Taming Range: 1 to 21
+Attack Speed (0 is fast): 1
+Damage Min: 0
+Damage Avg: 1
+Damage Max: 1
+Critical Hit Min: 1
+Critical Hit Max: 2
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 1 10%
+GoldPiece 1 3.0002853%
+WheatSeed 1 2.8002858%
+SugarCaneSeed 1 0.4002877%
+FirebrushSeed 1 0.0002898%
+Ring 0 0.00563011868372567%
+
+Snail Stats
+Experience: 30
+HP: 10
+Mana: 0
+Armor Class: 0
+Lore RAnge: 2 to 22
+Taming Range: 1 to 21
+Attack Speed (0 is fast): 3
+Damage Min: 0
+Damage Avg: 1
+Damage Max: 1
+Critical Hit Min: 1
+Critical Hit Max: 2
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SnailShell 1 10%
+SnailShell 2 1%
+GoldPiece 1 1.6002884%
+
+Wolf Stats
+Experience: 150
+HP: 42
+Mana: 0
+Armor Class: 0
+Lore RAnge: 7 to 27
+Taming Range: 10 to 30
+Attack Speed (0 is fast): 1
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 10
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+Dagger 0 0.04819%
+ShortSword 0 0.04864%
+LongSword 0 0.04872%
+Broadsword 0 0.04827%
+Falchion 0 0.04805%
+Rapier 0 0.04811%
+Stiletto 0 0.04865%
+ClothCap 0 0.04832%
+LeatherCap 0 0.04898%
+GoldPiece 1 5.6002836%
+Sardine 1 0.500005630118684%
+Hatchet 0 0.04865%
+Pendant 0 0.00014826%
+Ring 0 0.004898%
+WolfskinRobe 0 0.0004848%
+
+Rat Stats
+Experience: 45
+HP: 24
+Mana: 0
+Armor Class: 0
+Lore RAnge: 9 to 29
+Taming Range: 8 to 28
+Attack Speed (0 is fast): 1
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 5
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 1 10%
+GoldPiece 2 3.2002863%
+StrawHat 0 0.04803%
+GoldOre 1 0.004897%
+WheatSeed 1 0.9002846%
+
+Rattlesnake Stats
+Experience: 100
+HP: 40
+Mana: 0
+Armor Class: 0
+Lore RAnge: 12 to 32
+Taming Range: 13 to 33
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 30
+Holy Resist: 0
+Magic Resist: 15
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+SnakeSkin 2 10%
+GoldPiece 2 2.5002829%
+SerpentShield 0 0.00463011868372567%
+SerpentsFang 0 0.00316301186837257%
+
+Skeleton Stats
+Experience: 120
+HP: 54
+Mana: 0
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 24 to 44
+Attack Speed (0 is fast): 1
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 25
+Physical Resist: 0
+Poison Resist: 30
+Holy Resist: 0
+Magic Resist: 0
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 10%
+GoldPiece 1 10%
+Dagger 0 0.3002816%
+Chainmail 0 0.048%
+Robe 0 0.100005630118684%
+DemonSkull 10 0.0255346%
+BarmaidsDress 0 0.0363011868372567%
+Buckler 0 0.100005630118684%
+ClothCap 0 0.100005630118684%
+PotionOfHealing 1 0.600005630118684%
+ElixirOfHealing 1 0.100289%
+PotionOfMetabolism 1 0.1002815%
+ElixirOfMetabolism 1 0.0002817%
+Sallet 0 0.44853%
+Boots 0 1.2002818%
+SmallAxe 0 0.800005630118684%
+ShortSword 0 0.800005630118684%
+LongSword 0 0.34804%
+ClothGloves 0 1.2002812%
+
+Undead Shaman Stats
+Experience: 150
+HP: 54
+Mana: 15
+Armor Class: 0
+Lore RAnge: 3 to 23
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 25
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: Fireball Level: 1
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Moonflower 5 0.3002805%
+GoldPiece 2 5.0002855%
+PileOfBones 1 9.9002803%
+PotionOfMana 1 2.0002803%
+BatWing 3 0.2002869%
+Emerald 1 0.1002836%
+HandsOfWizardry 0 0.00363011868372567%
+ThinkingCap 0 0.00489%
+Amethyst 1 0.3002882%
+VulturesHelm 0 0.00416301186837257%
+Ring4 0 0.00316301186837257%
+MagicRing 0 0.00316301186837257%
+MerlinsStaff 0 0.00463011868372567%
+WizardryTalisman 0 0.00363011868372567%
+StaffOfNova 0 0.004801%
+StaffOfFlames 0 0.004816%
+WitchHat 0 0.00363011868372567%
+Ring 0 0.10483%
+Staff 0 0.004827%
+
+Ant Stats
+Experience: 16
+HP: 12
+Mana: 0
+Armor Class: 0
+Lore RAnge: 3 to 23
+Taming Range: 1 to 21
+Attack Speed (0 is fast): 1
+Damage Min: 1
+Damage Avg: 2
+Damage Max: 2
+Critical Hit Min: 3
+Critical Hit Max: 4
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PotionOfHealing 1 0.800005630118684%
+GoldPiece 1 1.000285%
+Dagger 0 0.04894%
+PotionOfMana 1 0.400005630118684%
+ClothCap 0 0.04877%
+Buckler 0 0.04814%
+Ring2 0 0.04808%
+Ring3 0 0.04895%
+Sugar 1 0.04809%
+Moonflower 1 0.14808%
+Wheat 1 0.04805%
+Apple 1 0.04801%
+SugarCane 6 8.00028%
+Sugar 1 10%
+Moonflower 3 10%
+Wheat 5 10%
+Apple 9 10%
+SugarCane 3 10%
+
+Giant Rat Stats
+Experience: 120
+HP: 40
+Mana: 0
+Armor Class: 0
+Lore RAnge: 9 to 29
+Taming Range: 11 to 31
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 2 10%
+GoldPiece 2 0.5002827%
+RatFurGloves 0 0.00563011868372567%
+
+Giant Snail Stats
+Experience: 35
+HP: 26
+Mana: 0
+Armor Class: 0
+Lore RAnge: 2 to 22
+Taming Range: 5 to 25
+Attack Speed (0 is fast): 1
+Damage Min: 1
+Damage Avg: 2
+Damage Max: 2
+Critical Hit Min: 3
+Critical Hit Max: 4
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SnailShell 1 10%
+SnailShell 2 1%
+
+Cockroach Stats
+Experience: 40
+HP: 42
+Mana: 0
+Armor Class: 0
+Lore RAnge: 14 to 34
+Taming Range: 5 to 25
+Attack Speed (0 is fast): 0
+Damage Min: 2
+Damage Avg: 3
+Damage Max: 3
+Critical Hit Min: 4
+Critical Hit Max: 6
+Cold Resist: 0
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 50
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PotionOfMana 1 0.2002869%
+ShortSword 0 0.00563011868372567%
+Falchion 0 0.00563011868372567%
+ClothCap 0 0.00563011868372567%
+LeatherCap 0 0.00563011868372567%
+SmallAxe 0 0.00563011868372567%
+CurePotion 1 0.2002887%
+CopperOre 1 0.1002892%
+WheatSeed 1 0.04895%
+GoldPiece 1 2.7002841%
+
+Town Guard Stats
+Experience: 0
+HP: 20000
+Mana: 1250
+Armor Class: 800
+Lore RAnge: 20 to 40
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 112
+Damage Avg: 150
+Damage Max: 187
+Critical Hit Min: 225
+Critical Hit Max: 300
+Cold Resist: 55
+Fire Resist: 55
+Lightning Resist: 25
+Physical Resist: 40
+Poison Resist: 33
+Holy Resist: 65
+Magic Resist: 45
+Spells:
+Spell: GreaterHeal Level: 15
+Spell: FlameStrike Level: 10
+Spell: FlamingArrow Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Doughnut 1 2.5002829%
+Cookie 1 2.5002826%
+Apple 1 2.5002829%
+FullPlate 0 5.63011868372567E-06%
+Ringmail 0 0.00028%
+KiteShield 0 0.00028%
+BastardSword 0 0.100284%
+ApplePie 1 2.5002829%
+
+Evil Eye Stats
+Experience: 240
+HP: 72
+Mana: 500
+Armor Class: 0
+Lore RAnge: 22 to 42
+Taming Range: 27 to 47
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 5
+Damage Max: 6
+Critical Hit Min: 7
+Critical Hit Max: 10
+Cold Resist: 0
+Fire Resist: 40
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 15
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: MedusasStare Level: 10
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+EyeOfEvil 1 10%
+CurePotion 1 8.2002813%
+LeatherGloves 0 0.005554%
+KettleHelm 0 0.005504%
+CorinthianBarbute 0 0.00563011868372567%
+Sunshade 5 3.005554%
+GoldPiece 6 8.7002843%
+ClothCap 0 0.005539%
+
+Paladin Stats
+Experience: 3500
+HP: 800
+Mana: 300
+Armor Class: 250
+Lore RAnge: 35 to 55
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 13
+Damage Avg: 18
+Damage Max: 22
+Critical Hit Min: 27
+Critical Hit Max: 36
+Cold Resist: 25
+Fire Resist: 25
+Lightning Resist: -10
+Physical Resist: 25
+Poison Resist: 25
+Holy Resist: 25
+Magic Resist: 25
+Spells:
+Spell: GreaterHeal Level: 5
+Spell: Exorcism Level: 5
+Spell: Fireball Level: 5
+Religion: 4
+Religion Kills pts: 2
+
+Item Drops
+LongSword 0 0.0484525671257%
+GoldPiece 11 10%
+LongBow 0 0.098453125671%
+SpartanBow 0 0.005245312567125%
+BastardSword 0 0.0484525671%
+HeavyChainmail 0 0.048452567154159%
+PlatinumPlate 0 0.000254346301186837%
+MagePlate 0 0.000254346301186837%
+HolyCape 0 0.000584531186837257%
+CapeOfLegends 0 0.000584531186837257%
+FieldPlate 0 0.0484525671%
+FullPlate 0 0.00584531256715416%
+Usurper 0 0.00584531256715%
+ShieldOfHeaven 0 0.000584531186837257%
+ShieldOfRoyalty 0 0.000584531186837257%
+MaceOfRoyalty 0 0.000598453118683726%
+Royalscape 0 5.48453118683726E-06%
+RoyalMageRobe 0 5.59001186837256E-06%
+BootsOfRoyalty 0 0.000884531186837257%
+BladeOfRoyalty 0 5.84531186837257E-06%
+HelmOfRoyalty 0 0.000584531186837257%
+ShieldOfWealth 0 0.000484531186837257%
+ShieldOfBurning 0 0.000484531186837257%
+BerserkerShield 0 0.000484531256715%
+ShortBow 0 0.1005836%
+DarkBow 0 0.00012512836%
+SpartanBow 0 0.000483011868372567%
+HandCrossbow 0 0.000583011868372567%
+DoubleAxe 0 0.000683011868372567%
+WarAxe 0 0.000483011868372567%
+Sagaris 0 0.000518301186837257%
+ZeusFury 0 0.000183011868372567%
+Gada 0 0.000533011868372567%
+BowOfLightning 0 0.000583011868372567%
+GoldPiece 3 4.700584%
+SerpentShield 0 0.000483011868372567%
+MiningHat 0 0.000483011868372567%
+Arrow 80 10%
+ArrowPlus1 201 3.3005832%
+ArrowPlus2 233 1.7005883%
+ArrowPlus3 281 0.8005843%
+GoldenHammer 10 0.0005865%
+MetalTippedArrow 340 0.2005875%
+PoisonArrow 271 0.1005869%
+PlatinumArrow 200 0.00501569%
+GoldTippedArrow 283 0.04869%
+MithrilArrow 304 0.04825199021069%
+ElvenMithrilArrow 234 0.00583011868372567%
+PlatinumArrow 225 0.00583011868372567%
+ShortBow 0 0.04895%
+LongBow 0 0.0483011868372567%
+GreatHelm 0 0.048452567166%
+NasalHelm 0 0.048452567105%
+KettleHelm 0 0.048452567105%
+HolyCape 0 0.000584531186837257%
+DaemonSoccerBall 2 0.000584531256715416%
+WolfskinRobe 0 0.00048452567154159%
+MonkRobe 0 0.00048452567191%
+SpidersilkRobe 0 0.000484531186837257%
+BlackLeatherSandals 0 0.000484525671915502%
+BootsOfBurning 0 0.000884531186837257%
+FlamingFeet 0 0.000584531186837257%
+ThievesShadowCloak 0 0.000583256715415902%
+MageRobe 0 0.00048452567195%
+OldBoots 0 0.30058455%
+Boots 0 0.80058455%
+RoyalBoots 0 0.000984531256715125%
+SpartanStaff 0 0.048453125671125%
+SpartanHelm 0 0.048453125671125%
+SpartanArmor 0 0.048453125671125%
+Buckler 0 0.0484525671%
+KiteShield 0 0.0484525671%
+ScutumShield 0 0.04845312567125%
+SpartanShield 0 0.04845312567125%
+SpartanSword 0 0.04845312567125%
+LightGauntlets 0 0.048453125671125%
+GoldenSword 0 0.00048453125671125%
+AchillesBlade 0 0.00082853125671125%
+TitanClaymore 0 0.00048453125671125%
+PinkArcticBlade 0 5.8453125671125E-05%
+MasterSword 0 0.00018453125671125%
+SwordOfKings 0 7.88453125671125E-05%
+GoldenClaymore 0 9.8453125671125E-05%
+Broadsword 0 0.00584525671125022%
+HolyCap 0 0.0058453125671125%
+
+Holy Knight Stats
+Experience: 48000
+HP: 7200
+Mana: 1250
+Armor Class: 1420
+Lore RAnge: 35 to 55
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 116
+Damage Avg: 155
+Damage Max: 193
+Critical Hit Min: 232
+Critical Hit Max: 310
+Cold Resist: 33
+Fire Resist: 25
+Lightning Resist: 33
+Physical Resist: 33
+Poison Resist: 0
+Holy Resist: 33
+Magic Resist: 45
+Spells:
+Spell: FlameStrike Level: 10
+Spell: GreaterHeal Level: 8
+Spell: ChainLightning Level: 6
+Spell: Fireball Level: 12
+Spell: EnergyBolt Level: 10
+Religion: 4
+Religion Kills pts: 6
+
+Item Drops
+HolyCape 0 0.000287301186837257%
+GoldPiece 12 10%
+Boots 0 0.0987301186837257%
+BastardSword 0 0.0987301186837257%
+ThinkingCap 0 0.09829%
+SpartanSword 0 0.00987301186837257%
+HolyCap 0 0.000287301186837257%
+HolyCape 0 0.000287301186837257%
+BoneCrusher 0 0.000287301186837257%
+HolyBracelet 0 0.000287301186837257%
+AngelicHelm 0 0.000287301186837257%
+AchillesBlade 0 0.00082853125671125%
+AngelicBlade 0 0.000587301186837257%
+Book 0 0.00526704242335%
+AngelicCape 0 0.000287301186837257%
+GauntletsOfCasting 0 0.000258730118683726%
+LuckBracelet 0 0.000287301186837257%
+ShieldOfRoyalty 0 0.000284531186837257%
+MaceOfRoyalty 0 0.000298453118683726%
+Royalscape 0 0.000248453118683726%
+BootsOfRoyalty 0 5.84531186837257E-06%
+BladeOfRoyalty 0 5.84531186837257E-06%
+RoyalMageRobe 0 0.000259001186837256%
+HelmOfRoyalty 0 0.000284531186837257%
+SpartanArmor 0 0.00987301186837257%
+SpartanHelm 0 0.00987301186837257%
+SpartanShield 0 0.00987301186837257%
+Gauntlets 0 0.0987301186837257%
+KiteShield 0 0.0987301186837257%
+CloseHelm 0 0.0987301186837257%
+KettleHelm 0 0.0987301186837257%
+ThorsHammer 0 0.000887301186837257%
+
+Evil Fruit Bat Stats
+Experience: 190
+HP: 60
+Mana: 0
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 17 to 37
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 15
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Scimitar 0 0.00563011868372567%
+BatWing 2 10%
+CynicRing 0 0.00563011868372567%
+GoldPiece 1 7.5002881%
+
+Lightning Ooze Stats
+Experience: 300
+HP: 102
+Mana: 0
+Armor Class: 0
+Lore RAnge: 22 to 42
+Taming Range: 15 to 35
+Attack Speed (0 is fast): 0
+Damage Min: 9
+Damage Avg: 13
+Damage Max: 16
+Critical Hit Min: 19
+Critical Hit Max: 26
+Cold Resist: 50
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 50
+Magic Resist: 50
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+ShieldOfRoyalty 0 5.63011868372567E-06%
+LightningMace 0 0.000630118683725672%
+MaceOfRoyalty 0 0.000930118683725672%
+Mourningstar 0 0.000963011868372567%
+DivineMourningstar 0 0.000630118683725672%
+Emerald 1 2.5002826%
+
+Blue Slime Stats
+Experience: 390
+HP: 108
+Mana: 25
+Armor Class: 0
+Lore RAnge: 31 to 51
+Taming Range: 38 to 58
+Attack Speed (0 is fast): 1
+Damage Min: 9
+Damage Avg: 13
+Damage Max: 16
+Critical Hit Min: 19
+Critical Hit Max: 26
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 80
+Physical Resist: 0
+Poison Resist: 20
+Holy Resist: 0
+Magic Resist: 50
+Spells:
+Spell: Icebolt Level: 5
+Spell: MedusasStare Level: 5
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PotionOfMana 1 0.500005630118684%
+PotionOfLight 5 0.0002892%
+BlueSuadeShoes 1 0.000286301186837257%
+MagicRing 0 5.63011868372567E-06%
+Sapphire 1 0.500005630118684%
+
+Black Sludge Stats
+Experience: 900
+HP: 200
+Mana: 40
+Armor Class: 0
+Lore RAnge: 31 to 51
+Taming Range: 45 to 65
+Attack Speed (0 is fast): 1
+Damage Min: 12
+Damage Avg: 16
+Damage Max: 20
+Critical Hit Min: 24
+Critical Hit Max: 32
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 85
+Physical Resist: 0
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 30
+Spells:
+Spell: PoisonCloud Level: 1
+Spell: FlameStrike Level: 1
+Spell: SlowedActions Level: 1
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Oil 1 20%
+Oil 7 0.2005784%
+HuntingKnife 0 0.0112602373674513%
+GhoulsLantern 0 0.000526023736745134%
+KrakenScales 0 0.000460237367451343%
+GuardianTalisman 0 0.0112602373674513%
+BerserkerTalisman 0 0.0112602373674513%
+
+Vampire Bat Stats
+Experience: 550
+HP: 130
+Mana: 0
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 35 to 55
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 30
+Holy Resist: 0
+Magic Resist: 0
+Religion: 2
+Religion Kills pts: 2
+
+Item Drops
+BatWing 2 10%
+NecromancersWrath 0 0.000263011868372567%
+RodentFur 10 0.6002831%
+StrawHat 0 0.00563011868372567%
+OldBoots 0 0.003829%
+
+Army Ant Stats
+Experience: 85
+HP: 48
+Mana: 0
+Armor Class: 0
+Lore RAnge: 3 to 23
+Taming Range: 10 to 30
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 5
+Damage Max: 6
+Critical Hit Min: 7
+Critical Hit Max: 10
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PotionOfHealing 1 0.3002858%
+PotionOfMana 1 0.4002838%
+GoldPiece 2 1.60000563011868%
+LegOfChicken 1 0.100005630118684%
+RoundShield 0 0.0485%
+Buckler 0 0.04896%
+Broadsword 0 0.04853%
+
+Spider Stats
+Experience: 650
+HP: 130
+Mana: 35
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 0
+Fire Resist: 15
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: PoisonCloud Level: 1
+Religion: 3
+Religion Kills pts: 2
+
+Item Drops
+VialOfVenom 1 9.9902844%
+VialOfVenom 2 4.10000563011868%
+SpidersilkRobe 0 0.000163011868372567%
+
+Skeletal Lord Stats
+Experience: 2000
+HP: 500
+Mana: 0
+Armor Class: 150
+Lore RAnge: 41 to 61
+Taming Range: 42 to 62
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 40
+Fire Resist: 40
+Lightning Resist: 0
+Physical Resist: 15
+Poison Resist: 50
+Holy Resist: -25
+Magic Resist: 40
+Religion: 2
+Religion Kills pts: 3
+
+Item Drops
+PileOfBones 2 9.7002898%
+GoldPiece 5 9.6002885%
+Falchion 0 0.04847%
+ShortSword 0 0.048%
+Rapier 0 0.04898%
+LeatherGloves 0 0.04883%
+FlamingIvy 3 0.800289%
+Sallet 0 0.0263011868372567%
+Shuriken 25 0.04881%
+BucklerOfBlades 0 0.005592%
+Scimitar 0 0.04829%
+Katana 0 0.00563011868372567%
+RoundShield 0 0.04807%
+SauronsShield 0 0.00463011868372567%
+ClothGloves 0 0.00563011868372567%
+BastardSword 0 0.00563011868372567%
+
+Centaur Scout Stats
+Experience: 700
+HP: 300
+Mana: 0
+Armor Class: 0
+Lore RAnge: 53 to 73
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 100
+Fire Resist: 0
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 15
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 2
+
+Item Drops
+ShortSword 0 0.100005630118684%
+LongBow 0 0.04897%
+MetalTippedArrow 15 0.100005630118684%
+ArrowPlus2 15 1.00000563011868%
+ArrowPlus1 10 9.6489%
+RatFurGloves 0 5.63011868372567E-06%
+LongBow 0 0.04858%
+SpartanBow 0 0.00630118683725672%
+HeavyCrossbow 0 0.00563011868372567%
+BloodRobe 0 0.000263011868372567%
+OldBoots 0 0.04859%
+
+Centaur Wizard Stats
+Experience: 1000
+HP: 150
+Mana: 60
+Armor Class: 0
+Lore RAnge: 57 to 77
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 7
+Damage Avg: 10
+Damage Max: 12
+Critical Hit Min: 15
+Critical Hit Max: 20
+Cold Resist: 100
+Fire Resist: 0
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 15
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: MagicMissile Level: 10
+Spell: EnergyBolt Level: 3
+Religion: 4
+Religion Kills pts: 2
+
+Item Drops
+WizardryTalisman 0 5.63011868372567E-06%
+StaffOfNova 0 0.004856%
+PotionOfMana 5 3.64886%
+MerlinsStaff 0 0.00630118683725672%
+Staff 0 0.04831%
+Ring 0 0.04834%
+Ring2 0 0.04866%
+Ring3 0 0.0363011868372567%
+
+Nightmare Stats
+Experience: 700
+HP: 200
+Mana: 30
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 7
+Damage Avg: 10
+Damage Max: 12
+Critical Hit Min: 15
+Critical Hit Max: 20
+Cold Resist: 15
+Fire Resist: 50
+Lightning Resist: 150
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: Lightning Level: 7
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PotionOfMana 1 0.6002831%
+BatWing 2 10%
+PotionOfLight 1 0.3002832%
+Ring3 0 0.04842%
+DaemonSoccerBall 1 5.63011868372567E-06%
+BloodCrown 0 0.00163011868372567%
+FragileBladeOfChaos 0 0.000916301186837257%
+Amethyst 1 2.5002826%
+Ring 0 0.00488%
+Ring3 0 0.00163011868372567%
+SilverOre 1 0.100005630118684%
+
+Chicken Stats
+Experience: 10
+HP: 60
+Mana: 0
+Armor Class: 0
+Lore RAnge: 7 to 27
+Taming Range: 4 to 24
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Feather 7 10%
+Egg 1 10%
+Egg 4 0.0002858%
+Feather 25 5.00000563011868%
+LegOfChicken 2 9.5002887%
+
+Python Stats
+Experience: 1500
+HP: 170
+Mana: 25
+Armor Class: 0
+Lore RAnge: 46 to 66
+Taming Range: 70 to 90
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 21
+Damage Max: 26
+Critical Hit Min: 31
+Critical Hit Max: 42
+Cold Resist: 30
+Fire Resist: 30
+Lightning Resist: 30
+Physical Resist: 0
+Poison Resist: 70
+Holy Resist: 0
+Magic Resist: 30
+Spells:
+Spell: PoisonCloud Level: 6
+Religion: 3
+Religion Kills pts: 2
+
+Item Drops
+SnakeSkin 15 8.0002805%
+GoldPiece 3 5.0002839%
+WizardryRing 1 0.00563011868372567%
+Ring3 1 0.00563011868372567%
+BerserkRing 0 0.00563011868372567%
+Ring2 0 0.00563011868372567%
+Ring4 0 0.00563011868372567%
+
+Wraith Stats
+Experience: 1100
+HP: 240
+Mana: 40
+Armor Class: 0
+Lore RAnge: 56 to 76
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 11
+Damage Avg: 15
+Damage Max: 18
+Critical Hit Min: 22
+Critical Hit Max: 30
+Cold Resist: 15
+Fire Resist: 30
+Lightning Resist: 30
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 30
+Magic Resist: 60
+Spells:
+Spell: LesserHeal Level: 10
+Spell: PoisonCloud Level: 9
+Spell: Restoration Level: 9
+Spell: Curse Level: 10
+Spell: EnergyBolt Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 10%
+StaffOfNova 0 0.00463011868372567%
+MagicRing 0 0.00563011868372567%
+
+Lesser Lich Stats
+Experience: 2000
+HP: 360
+Mana: 100
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 11
+Damage Avg: 15
+Damage Max: 18
+Critical Hit Min: 22
+Critical Hit Max: 30
+Cold Resist: 15
+Fire Resist: 30
+Lightning Resist: 40
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 30
+Magic Resist: 60
+Spells:
+Spell: LesserHeal Level: 10
+Spell: PoisonCloud Level: 10
+Spell: Restoration Level: 10
+Spell: Fireball Level: 10
+Spell: Curse Level: 10
+Spell: EnergyBolt Level: 10
+Religion: 2
+Religion Kills pts: 3
+
+Item Drops
+ThinkingCap 0 0.048541590221035%
+PileOfBones 2 10%
+GoldPiece 2 1.90000563011868%
+BootsOfBurning 0 0.000263011868372567%
+
+Greater Lich Stats
+Experience: 4500
+HP: 520
+Mana: 100
+Armor Class: 22
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 15
+Fire Resist: 30
+Lightning Resist: 40
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 30
+Magic Resist: 60
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SauronsShield 0 0.00630118683725672%
+ElixirOfRejuvenation 3 0.0002829%
+ThinkingCap 0 0.0002829%
+GauntletsOfDead 0 0.00563011868372567%
+FragileBladeOfChaos 0 5.63011868372567E-06%
+
+Pigeon Stats
+Experience: 0
+HP: 60
+Mana: 0
+Armor Class: 0
+Lore RAnge: 7 to 27
+Taming Range: 5 to 25
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Feather 45 9.6002894%
+Feather 15 2.0002803%
+
+Small Spider Stats
+Experience: 20
+HP: 36
+Mana: 0
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 9 to 29
+Attack Speed (0 is fast): 0
+Damage Min: 2
+Damage Avg: 3
+Damage Max: 3
+Critical Hit Min: 4
+Critical Hit Max: 6
+Cold Resist: 0
+Fire Resist: 35
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+VialOfVenom 1 2.9002845%
+PotionOfHealing 1 0.2002818%
+GoldPiece 1 0.700283%
+OldBoots 0 0.000281%
+OldBoots 0 5.63011868372567E-06%
+
+Death Snake Stats
+Experience: 4500
+HP: 540
+Mana: 100
+Armor Class: 22
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 85
+Fire Resist: 85
+Lightning Resist: 85
+Physical Resist: 0
+Poison Resist: 85
+Holy Resist: 85
+Magic Resist: 85
+Spells:
+Spell: Banish Level: 10
+Spell: Icebolt Level: 10
+Spell: EnergyBolt Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SnakeSkin 35 9.3002875%
+SnakeSkin 5 0.500005630118684%
+
+Ant Queen Stats
+Experience: 2500
+HP: 220
+Mana: 250
+Armor Class: 100
+Lore RAnge: 8 to 28
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 9
+Damage Avg: 12
+Damage Max: 15
+Critical Hit Min: 18
+Critical Hit Max: 24
+Cold Resist: 25
+Fire Resist: 0
+Lightning Resist: 10
+Physical Resist: 25
+Poison Resist: 99
+Holy Resist: 90
+Magic Resist: 20
+Spells:
+Spell: Fireball Level: 5
+Spell: Curse Level: 1
+Spell: PoisonCloud Level: 3
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PotionOfHealing 1 4.1002875%
+GoldPiece 10 3.800287%
+PotionOfMana 1 3.5002801%
+SmallAxe 0 0.0853%
+LongSword 0 0.0899%
+Robe 0 0.04819%
+PotionOfLight 10 0.3002887%
+ElixirOfLight 10 0.1002887%
+ClothGloves 0 0.04887%
+ClothCap 0 0.04859%
+BattleMace 0 0.00163011868372567%
+Katana 0 0.00481%
+RadiantCap 0 0.00563011868372567%
+ShockingSword 0 0.00563011868372567%
+JesterHat 0 0.750481%
+
+Crawler Stats
+Experience: 100
+HP: 90
+Mana: 0
+Armor Class: 0
+Lore RAnge: 14 to 34
+Taming Range: 16 to 36
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 30
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 50
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+GoldPiece 1 1.5002821%
+
+Skinned Mouse Stats
+Experience: 80
+HP: 84
+Mana: 0
+Armor Class: 0
+Lore RAnge: 3 to 23
+Taming Range: 9 to 29
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 25
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Apple 1 0.000285%
+
+Crawler Zealot Stats
+Experience: 200
+HP: 110
+Mana: 0
+Armor Class: 0
+Lore RAnge: 14 to 34
+Taming Range: 20 to 40
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 9
+Damage Max: 11
+Critical Hit Min: 13
+Critical Hit Max: 18
+Cold Resist: 40
+Fire Resist: 60
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 70
+Holy Resist: 0
+Magic Resist: 60
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+ThePot 0 0.00630118683725672%
+
+Lichen Stats
+Experience: 300
+HP: 160
+Mana: 30
+Armor Class: 0
+Lore RAnge: 14 to 34
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 9
+Damage Avg: 12
+Damage Max: 15
+Critical Hit Min: 18
+Critical Hit Max: 24
+Cold Resist: 30
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 50
+Spells:
+Spell: LesserHeal Level: 6
+Spell: SlowedActions Level: 1
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+CurativeElixir 1 10%
+Sapphire 3 10%
+Buckler 0 0.00563011868372567%
+LeatherGloves 0 0.00563011868372567%
+ShortSword 0 0.00563011868372567%
+Pitchfork 0 0.04854%
+StrawHat 0 0.04877%
+Staff 0 0.04807%
+MonkRobe 0 0.00563011868372567%
+SmallAxe 0 0.00563011868372567%
+ValourRing 0 0.04872%
+WheatSeed 10 0.1002836%
+SugarCaneSeed 10 0.1002836%
+FirebrushSeed 10 0.1002836%
+GoldPiece 1 10%
+
+Sewer Slime Stats
+Experience: 150
+HP: 120
+Mana: 0
+Armor Class: 0
+Lore RAnge: 27 to 47
+Taming Range: 15 to 35
+Attack Speed (0 is fast): 1
+Damage Min: 10
+Damage Avg: 14
+Damage Max: 17
+Critical Hit Min: 21
+Critical Hit Max: 28
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 80
+Holy Resist: 0
+Magic Resist: 20
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+CurePotion 1 3.3002868%
+NecromancersWrath 0 5.63011868372567E-06%
+CrystalDagger 0 0.00416301186837257%
+Emerald 10 0.0002839%
+WolfskinRobe 0 0.000363011868372567%
+GoldPiece 9 0.800005630118684%
+IceDagger 0 0.000230118683725672%
+PoisonArrow 10 0.1002899%
+
+Polluted Slime Stats
+Experience: 450
+HP: 280
+Mana: 0
+Armor Class: 0
+Lore RAnge: 27 to 47
+Taming Range: 30 to 50
+Attack Speed (0 is fast): 1
+Damage Min: 10
+Damage Avg: 14
+Damage Max: 17
+Critical Hit Min: 21
+Critical Hit Max: 28
+Cold Resist: 0
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 50
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Nutmeg 3 9.9002824%
+Emerald 1 0.0002829%
+Horror 0 0.00516301186837257%
+SerpentRing 0 0.0002895%
+Oil 1 3.8002891%
+LightGauntlets 0 0.00563011868372567%
+
+Corrosive Stats
+Experience: 3500
+HP: 600
+Mana: 0
+Armor Class: 17
+Lore RAnge: 27 to 47
+Taming Range: 55 to 75
+Attack Speed (0 is fast): 1
+Damage Min: 26
+Damage Avg: 35
+Damage Max: 43
+Critical Hit Min: 52
+Critical Hit Max: 70
+Cold Resist: 50
+Fire Resist: 60
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 100
+Holy Resist: 50
+Magic Resist: 60
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+GoldPiece 100 0.00563011868372567%
+VialOfVenom 1 5.1002862%
+Ring 0 0.100005630118684%
+IronOre 2 3.2002863%
+CopperOre 2 8.6002838%
+GoldOre 3 1.00000563011868%
+MithrilOre 2 0.1002823%
+Gauntlets 0 0.00563011868372567%
+HeavyChainmail 0 0.00563011868372567%
+GreatHelm 0 0.00563011868372567%
+
+Spitter Stats
+Experience: 130
+HP: 100
+Mana: 0
+Armor Class: 0
+Lore RAnge: 14 to 34
+Taming Range: 17 to 37
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 9
+Damage Max: 11
+Critical Hit Min: 13
+Critical Hit Max: 18
+Cold Resist: 40
+Fire Resist: 60
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 0
+Magic Resist: 60
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+VialOfVenom 2 3.9002802%
+
+Gremlin Stats
+Experience: 650
+HP: 200
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 8
+Damage Avg: 11
+Damage Max: 13
+Critical Hit Min: 16
+Critical Hit Max: 22
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+GoldPiece 1 10%
+LeatherJacket 0 0.00563011868372567%
+OldBoots 0 0.0002856%
+LightGauntlets 0 0.00563011868372567%
+LargeAxe 0 0.00563011868372567%
+CynicRing 0 0.2002852%
+VioletDress 0 0.000256301186837257%
+CynicRing 0 0.0002853%
+FloppyHat 0 0.00563011868372567%
+LargeAxe 0 0.00563011868372567%
+LargeAxe 0 0.00563011868372567%
+
+Haunt Stats
+Experience: 90
+HP: 84
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+MaceAndChain 0 5.63011868372567E-06%
+GoldPiece 1 2.4002878%
+PotionOfLight 5 0.1002877%
+LokisGuardian 0 5.63011868372567E-06%
+PotionOfHealing 5 0.500005630118684%
+MaceAndChain 0 0.00530118683725672%
+
+Cacowraith Stats
+Experience: 80
+HP: 84
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 20 to 40
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 10%
+MasterSword 0 6.30118683725672E-05%
+GoldPiece 1 1.8002892%
+
+Zombie Stats
+Experience: 2600
+HP: 400
+Mana: 0
+Armor Class: 0
+Lore RAnge: 10 to 30
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 2
+Damage Min: 18
+Damage Avg: 25
+Damage Max: 31
+Critical Hit Min: 37
+Critical Hit Max: 50
+Cold Resist: 30
+Fire Resist: 20
+Lightning Resist: 20
+Physical Resist: 15
+Poison Resist: 30
+Holy Resist: -30
+Magic Resist: 20
+Religion: 2
+Religion Kills pts: 4
+
+Item Drops
+PlateOfDarkness 0 0.000256301186837672%
+SauronsShield 0 0.00363011868376715%
+GoldPiece 12 0.1002855%
+TouchOfDeath 0 0.005825%
+DemonSkull 1 0.012804835%
+ChaosHammer 0 0.000996301186837257%
+GauntletsOfCasting 0 0.000263011868376715%
+BoneCrusher 0 0.00963011868376715%
+GoldenSkullBlade 0 7.812557E-05%
+TouchOfDeath 0 0.00563011868376715%
+
+Bat Stats
+Experience: 40
+HP: 55
+Mana: 0
+Armor Class: 0
+Lore RAnge: 16 to 36
+Taming Range: 11 to 31
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 15
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+FirebrushLeaf 2 6.0002888%
+BatWing 2 10%
+
+Cacomage Stats
+Experience: 115
+HP: 84
+Mana: 70
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 25 to 45
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: Fireball Level: 1
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+GauntletsOfCasting 0 0.000263011868372567%
+GoldPiece 1 4.4002824%
+PileOfBones 1 10%
+Staff 0 0.04801%
+Staff 0 0.04801%
+Staff 0 0.00563011868372567%
+StaffOfFlames 0 0.04853%
+
+Hell Sloth Stats
+Experience: 1500
+HP: 450
+Mana: 200
+Armor Class: 0
+Lore RAnge: 60 to 80
+Taming Range: 100 to 120
+Attack Speed (0 is fast): 0
+Damage Min: 18
+Damage Avg: 25
+Damage Max: 31
+Critical Hit Min: 37
+Critical Hit Max: 50
+Cold Resist: 75
+Fire Resist: 200
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 20
+Magic Resist: 0
+Spells:
+Spell: Fireball Level: 10
+Religion: 2
+Religion Kills pts: 2
+
+Item Drops
+GauntletsOfDead 0 0.00163011868372567%
+PlateOfDarkness 0 0.00630118683725672%
+DemonSkull 1 0.052504835%
+ChaosHammer 0 0.00563011868372567%
+HelmOfBurning 0 0.000282%
+
+Sewer Rat Stats
+Experience: 75
+HP: 48
+Mana: 0
+Armor Class: 0
+Lore RAnge: 18 to 38
+Taming Range: 9 to 29
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 1 9.8002867%
+GoldPiece 2 2.6002834%
+LeatherJacket 0 0.1002844%
+MiningHat 0 0.04853%
+
+Ninja Turtle Stats
+Experience: 4500
+HP: 1550
+Mana: 0
+Armor Class: 250
+Lore RAnge: 40 to 60
+Taming Range: 75 to 95
+Attack Speed (0 is fast): 0
+Damage Min: 21
+Damage Avg: 28
+Damage Max: 35
+Critical Hit Min: 42
+Critical Hit Max: 56
+Cold Resist: 0
+Fire Resist: 40
+Lightning Resist: 0
+Physical Resist: 25
+Poison Resist: 40
+Holy Resist: 40
+Magic Resist: 40
+Religion: 4
+Religion Kills pts: 6
+
+Item Drops
+PhoenixFeather 5 10%
+GoldPiece 2 5.0006858%
+Saidzuchi 0 0.0486301186837257%
+WarMageKatana 0 0.000651818683725671%
+MithrilKatana 0 0.000686301186837257%
+AssassinBlade 0 0.000648301186837257%
+SoulsKatana 0 0.000686301186837257%
+Katana 0 0.00558118683725671%
+Book 0 0.0086704242335%
+FurysBlade 0 0.000686301186837257%
+ShortBow 0 0.1006836%
+SpartanBow 0 0.0483011868372567%
+WarBow 0 0.0006125%
+DarkBow 0 5.1213512836E-05%
+HandCrossbow 0 0.000683011868372567%
+BowOfLightning 0 0.000683011868372567%
+GoldPiece 3 4.700684%
+MiningHat 0 0.0483011868372567%
+GoldenHammer 10 0.0006865%
+SoulsStaff 0 0.000655056673725671%
+ElvenMithrilKatana 0 0.000188118683725672%
+LightningBlade 0 0.000686301186837257%
+Nodachi 0 0.000563011868372567%
+Shuriken 50 6.00563011868373%
+DeadlyShuriken 50 3.00563011868373%
+WuStar 50 1.54863011868373%
+ZerBlade 500 0.548539159021%
+Sai 0 0.0486301186837257%
+
+Ninja Turtle Stats
+Experience: 4500
+HP: 1250
+Mana: 0
+Armor Class: 450
+Lore RAnge: 40 to 60
+Taming Range: 75 to 95
+Attack Speed (0 is fast): 0
+Damage Min: 16
+Damage Avg: 22
+Damage Max: 27
+Critical Hit Min: 33
+Critical Hit Max: 44
+Cold Resist: 0
+Fire Resist: 40
+Lightning Resist: 0
+Physical Resist: 25
+Poison Resist: 40
+Holy Resist: 40
+Magic Resist: 40
+Religion: 4
+Religion Kills pts: 6
+
+Item Drops
+PhoenixFeather 5 10%
+GoldPiece 2 5.0006858%
+Book 0 0.0086704242335%
+Saidzuchi 0 0.0486301186837257%
+MithrilKatana 0 0.000986301186837257%
+WarMageKatana 0 0.000651818683725671%
+AssassinBlade 0 0.000683011868372567%
+SoulsKatana 0 0.000686301186837257%
+Katana 0 0.00558118683725671%
+FurysBlade 0 0.000686301186837257%
+ShortBow 0 0.1006836%
+SpartanBow 0 0.0483011868372567%
+WarBow 0 0.0008125%
+DarkBow 0 5.1213512836E-05%
+HandCrossbow 0 0.000683011868372567%
+SoulsStaff 0 0.000655056673725671%
+BowOfLightning 0 0.000683011868372567%
+GoldPiece 3 4.700684%
+MiningHat 0 0.0483011868372567%
+GoldenHammer 10 0.0006865%
+ElvenMithrilKatana 0 0.000688118683725672%
+LightningBlade 0 0.000686301186837257%
+Nodachi 0 0.000563011868372567%
+Shuriken 50 7.00563011868373%
+DeadlyShuriken 50 3.00563011868373%
+WuStar 500 1.54863011868373%
+ZerBlade 500 0.548539159021%
+Sai 0 0.0486301186837257%
+
+Dirt Golem Stats
+Experience: 1000
+HP: 200
+Mana: 0
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 10 to 30
+Attack Speed (0 is fast): 1
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 50
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 50
+Poison Resist: 50
+Holy Resist: 50
+Magic Resist: 50
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+Ruby 3 5.4002814%
+Emerald 3 5.3002881%
+Amethyst 3 5.3002881%
+Sapphire 3 5.40000563011868%
+
+Baby Dragon Stats
+Experience: 1500
+HP: 300
+Mana: 0
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 44 to 64
+Attack Speed (0 is fast): 1
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 25
+Fire Resist: 15
+Lightning Resist: 10
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 30
+Magic Resist: 10
+Religion: 1
+Religion Kills pts: 2
+
+Item Drops
+PhoenixFeather 5 10%
+GoldPiece 2 7.749993195%
+HeaterShield 0 0.049993136%
+KiteShield 0 0.049993136%
+Buckler 0 0.049993136%
+ScutumShield 0 0.04999315%
+Rapier 0 0.049993125%
+Hatchet 0 0.049993169%
+Scimitar 0 0.00029993169%
+Katar 0 0.049993169%
+SpartanKopis 0 0.000299931%
+SpartanSword 0 0.000299931%
+VialOfDragonBlood 2 10%
+DragonCarapace 0 0.0051%
+Ringmail 0 0.049993131%
+CenturionHelm 0 0.00029993131%
+NasalHelm 0 0.049993131%
+StaffOfFlames 0 0.00029993123%
+SmallAxe 0 0.049993181%
+Ring 0 0.049993181%
+Ring2 0 0.049993181%
+Hatchet 0 0.049993159%
+GreatHelm 0 0.058452567166%
+NasalHelm 0 0.068452567105%
+KettleHelm 0 0.058452567105%
+ChaosHatchet 0 0.00029993125%
+BattleGauntlets 0 0.04999312%
+Boots 0 0.089993128%
+
+Radioactive Stats
+Experience: 100
+HP: 33
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 14 to 34
+Attack Speed (0 is fast): 0
+Damage Min: 7
+Damage Avg: 10
+Damage Max: 12
+Critical Hit Min: 15
+Critical Hit Max: 20
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SnakeSkin 1 6.900284%
+GoldPiece 1 1.9002852%
+PotionOfMana 1 1.3002881%
+ValourRing 0 0.1002836%
+WardingRing 0 0.1002836%
+SerpentsFang 0 0.00316301186837257%
+SerpentShield 0 0.00363011868372567%
+
+Mystical Snail Stats
+Experience: 45000
+HP: 8000
+Mana: 500
+Armor Class: 900
+Lore RAnge: 70 to 90
+Taming Range: 200 to 220
+Attack Speed (0 is fast): 2
+Damage Min: 187
+Damage Avg: 250
+Damage Max: 312
+Critical Hit Min: 375
+Critical Hit Max: 500
+Cold Resist: 99
+Fire Resist: 25
+Lightning Resist: 99
+Physical Resist: 60
+Poison Resist: 100
+Holy Resist: 90
+Magic Resist: 25
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: Icebolt Level: 20
+Spell: Banish Level: 7
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+RobeOfPoison 0 0.025%
+SerpentsFang 0 0.035%
+GreenStone 0 0.045%
+Mindblade 0 0.015%
+DruidBoots 0 0.015%
+
+Hell Serpent Stats
+Experience: 4000
+HP: 1000
+Mana: 100
+Armor Class: 100
+Lore RAnge: 22 to 42
+Taming Range: 45 to 65
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 0
+Fire Resist: 90
+Lightning Resist: 33
+Physical Resist: 10
+Poison Resist: 90
+Holy Resist: 0
+Magic Resist: 50
+Spells:
+Spell: GreaterHeal Level: 6
+Spell: Fireball Level: 6
+Religion: 2
+Religion Kills pts: 5
+
+Item Drops
+PileOfBones 4 10%
+GoldPiece 8 8.50088937%
+KiteShield 0 0.004892563%
+Book 0 0.088704242335%
+Ringmail 0 0.00489255%
+LightPlate 0 0.00589255%
+SplintMail 0 0.00589255%
+RobeOfPoison 0 0.000854534%
+FullPlate 0 0.000989255%
+TitanClaymore 0 0.000556305630118684%
+Katar 0 0.0048952567154159%
+Stiletto 0 0.0048952%
+ArcticRobe 0 0.000363012567154159%
+BootsOfBurning 0 0.00088622567154159%
+GauntletsOfBurning 0 0.00088622567154159%
+HelmOfBurning 0 0.00088622567154159%
+PlateOfBurning 0 0.00088622567154159%
+AchillesBlade 0 0.00082853125671125%
+RobeOfTheElements 0 0.000354534%
+CaledOfBurning 0 3.63012567154159E-05%
+KatanaOfBurning 0 0.000363011868372567%
+BowOfBurning 0 0.000963011868372567%
+BoneCrusher 0 0.00586225%
+SerpentsFang 0 0.00098625%
+HeavyChainmail 0 0.0140118683725672%
+Hatchet 0 0.0120118683725672%
+PinkPlate 0 0.000101186837%
+PinkHat 0 0.000101186837%
+PinkShield 0 0.000101186837%
+PinkRod 0 0.000101186837%
+PinkBoots 0 0.000101186837%
+PinkCrown 0 0.000101186837%
+DevilsRobe 0 0.000101186837%
+PinkBow 0 0.000101186837%
+Pinkscape 0 2.501186837E-05%
+PinkMourningstar 0 0.000101186837%
+DivineMourningstar 0 0.000101186837%
+PinkHandAxe 0 0.000101186837%
+PinkArcticBlade 0 0.000101186837%
+PinkSkullBlade 0 1.01186837E-05%
+PinkGloves 0 0.000101186837%
+DesertWarriorHelm 0 0.000501186837%
+Turban 0 0.000501186837%
+AxeOfBurning 0 0.000995256715415902%
+MerlinsStaff 0 0.000989525%
+Corsque 0 0.00088256%
+Poleaxe 0 0.000825671541590221%
+ArcticWitchHat 0 0.048952567154159%
+ShieldOfWealth 0 0.000363011868372567%
+BerserkerTalisman 0 0.0098952567154159%
+MageTalisman 0 0.00088952567154159%
+WarriorTalisman 0 0.00088952567154159%
+WizardryTalisman 0 0.0098952567154159%
+StaffOfFlames 0 0.0098952567154159%
+Horror 0 0.0048652567154159%
+StaffOfNova 0 0.000989256715415902%
+
+Forest Ooze Stats
+Experience: 112
+HP: 90
+Mana: 0
+Armor Class: 0
+Lore RAnge: 27 to 47
+Taming Range: 20 to 40
+Attack Speed (0 is fast): 1
+Damage Min: 9
+Damage Avg: 12
+Damage Max: 15
+Critical Hit Min: 18
+Critical Hit Max: 24
+Cold Resist: 60
+Fire Resist: 60
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 60
+Magic Resist: 60
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+Moonflower 5 10%
+Log 1 0.1002873%
+FirebrushSeed 2 0.0002853%
+Dagger 0 0.04853%
+Stiletto 0 0.00563011868372567%
+
+Lava Stats
+Experience: 700
+HP: 300
+Mana: 0
+Armor Class: 0
+Lore RAnge: 28 to 48
+Taming Range: 35 to 55
+Attack Speed (0 is fast): 1
+Damage Min: 12
+Damage Avg: 17
+Damage Max: 21
+Critical Hit Min: 25
+Critical Hit Max: 34
+Cold Resist: 0
+Fire Resist: 100
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+FlamingFeet 0 0.000630118683725672%
+FireMace 0 0.000630118683725672%
+TitanClaymore 0 0.000630563011868373%
+GoldPiece 6 2.0002803%
+
+Horse Stats
+Experience: 20
+HP: 60
+Mana: 0
+Armor Class: 0
+Lore RAnge: 29 to 49
+Taming Range: 40 to 60
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+LegOfChicken 4 0.100005630118684%
+
+Ice Stats
+Experience: 112
+HP: 90
+Mana: 0
+Armor Class: 0
+Lore RAnge: 28 to 48
+Taming Range: 30 to 50
+Attack Speed (0 is fast): 1
+Damage Min: 9
+Damage Avg: 12
+Damage Max: 15
+Critical Hit Min: 18
+Critical Hit Max: 24
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 100
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 100
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+IceDagger 0 0.008185%
+GlovesOfFrost 0 0.00485%
+Pendant 0 0.000156301186837257%
+Water 50 10%
+GlovesOfFrost 0 0.00630118683725672%
+
+Orc Archer Stats
+Experience: 500
+HP: 250
+Mana: 0
+Armor Class: 0
+Lore RAnge: 30 to 50
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 12
+Damage Avg: 17
+damage max: 21
+Critical Hit Min: 25
+Critical Hit Max: 34
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 3
+
+Item Drops
+AtlanteanPendant 0 0.000156301186837257%
+CyclopeanPendant 0 0.000156301186837257%
+ThePot 0 0.00563011868372567%
+BowOfLightning 0 0.000263011868372567%
+GoldPiece 3 4.700284%
+MiningHat 0 0.000263011868372567%
+Arrow 131 10%
+ArrowPlus1 211 3.3002832%
+ArrowPlus2 241 1.7002883%
+ArrowPlus3 215 0.8002843%
+GoldenHammer 10 0.005565%
+MetalTippedArrow 269 0.2002875%
+PoisonArrow 350 0.1002869%
+PlatinumArrow 341 0.000201569%
+GoldTippedArrow 219 0.005569%
+Shuriken 10 6.5002835%
+DeadlyShuriken 10 2.7002837%
+WuStar 10 0.405630118683726%
+ZerBlade 10 0.105630118683726%
+MithrilArrow 242 0.005525199021069%
+ElvenMithrilArrow 219 0.00563011868372567%
+ShortBow 0 0.005595%
+LongBow 0 0.00563011868372567%
+
+Orc Knight Stats
+Experience: 600
+HP: 165
+Mana: 0
+Armor Class: 0
+Lore RAnge: 40 to 60
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 11
+Damage Avg: 15
+Damage Max: 18
+Critical Hit Min: 22
+Critical Hit Max: 30
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+AtlanteanPendant 0 0.000163011868372567%
+CyclopeanPendant 0 0.000163011868372567%
+AgileRing 0 0.0363011868372567%
+WizardryRing 0 0.0363011868372567%
+Ruin 0 0.00363011868372567%
+ThePot 0 0.00163011868372567%
+AxeOfBurning 0 0.0002536%
+GoldPiece 3 4.4002844%
+Katar 0 0.00563011868372567%
+MiningHat 0 0.00563011868372567%
+Ring3 0 0.1002538%
+GoldenHammer 10 0.0002565%
+Ring4 0 0.00559%
+
+Dire Wolf Stats
+Experience: 10500
+HP: 2200
+Mana: 0
+Armor Class: 55
+Lore RAnge: 38 to 58
+Taming Range: 151 to 171
+Attack Speed (0 is fast): 0
+Damage Min: 31
+Damage Avg: 42
+Damage Max: 52
+Critical Hit Min: 63
+Critical Hit Max: 84
+Cold Resist: 25
+Fire Resist: 15
+Lightning Resist: 25
+Physical Resist: 15
+Poison Resist: 25
+Holy Resist: 80
+Magic Resist: 25
+Religion: 3
+Religion Kills pts: 3
+
+Item Drops
+Fur 2 10%
+BattleGauntlets 0 0.000455519902106%
+RoundShield 0 0.0055539%
+Ringmail 0 0.00555256711990221%
+WolfskinRobe 0 0.00048525%
+BastardSword 0 0.03559%
+FragileBladeOfChaos 0 0.000856301186837257%
+BerserkRing 0 0.003555199021%
+ScutumShield 0 0.0355519902210351%
+Pitchfork 0 0.005555199021%
+SpikedGauntlets 0 0.0485519902210351%
+GoldPiece 5 10%
+Ring 0 0.0004555%
+Ring2 0 0.00045555199021%
+Stiletto 0 0.000455256715199022%
+SpikedGauntlets 0 0.00555519902210358%
+Claymore 0 0.001551990221035%
+BastardSword 0 0.00555519902109%
+Chainmail 0 0.00555519902210357%
+SpartanArmor 0 0.000455301256715199%
+SpartanHelm 0 0.000455301256715199%
+SpartanStaff 0 0.000455301256715199%
+SpartanGloves 0 0.000455301256715199%
+SpartanSword 0 0.000455301256715199%
+AssassinBlade 0 0.000155301186837257%
+ArcticBlade 0 0.000455301186837257%
+SkullBlade 0 5.55301186837257E-05%
+BlueSkullBlade 0 5.55301186837257E-05%
+BlackSkullBlade 0 5.53011868372567E-05%
+HalloweenBlade 0 5.53011868372567E-05%
+Zangetsu 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+PinkSkullBlade 0 5.55301186837257E-05%
+IceDagger 0 0.000952%
+TitanClaymore 0 0.000701550566737257%
+WyvernClaws 0 0.000501550566737257%
+SpartanBow 0 0.00045536715199021%
+Slayer 0 0.000825%
+WarMageScimitar 0 0.000825%
+AchillesBlade 0 0.00082853125671125%
+BowOfLightning 0 0.000463011868372567%
+GoldPiece 4 4.7004854%
+MiningHat 0 0.00563011868372567%
+Mourningstar 0 0.00045553012567152%
+IceDagger 0 0.000952%
+ElixirOfHealing 25 0.40048536%
+Quake 0 5.55530125671542E-06%
+BastardSword 0 0.0055558%
+Chainmail 0 0.0055558%
+
+Great Shaman Stats
+Experience: 1000
+HP: 130
+Mana: 200
+Armor Class: 0
+Lore RAnge: 3 to 23
+Taming Range: 60 to 80
+Attack Speed (0 is fast): 0
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 33
+Fire Resist: 25
+Lightning Resist: 25
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 25
+Spells:
+Spell: BurningRain Level: 5
+Spell: Fireball Level: 7
+Spell: Weaken Level: 1
+Spell: Decrepify Level: 10
+Religion: 2
+Religion Kills pts: 2
+
+Item Drops
+Moonflower 5 0.3002805%
+GoldPiece 2 7.5002881%
+PileOfBones 1 9.2002896%
+PotionOfMana 25 1.20000563011868%
+BatWing 3 0.2002869%
+Emerald 1 0.24815%
+HandsOfWizardry 0 0.00563011868372567%
+Torch 0 0.00563011868372567%
+Ring 0 0.1002826%
+Ring2 0 0.04859%
+
+Daija Stats
+Experience: 3500
+HP: 700
+Mana: 130
+Armor Class: 17
+Lore RAnge: 38 to 58
+Taming Range: 122 to 142
+Attack Speed (0 is fast): 0
+Damage Min: 17
+Damage Avg: 23
+Damage Max: 28
+Critical Hit Min: 34
+Critical Hit Max: 46
+Cold Resist: 26
+Fire Resist: 36
+Lightning Resist: 36
+Physical Resist: 0
+Poison Resist: 36
+Holy Resist: 15
+Magic Resist: 36
+Spells:
+Spell: Lightning Level: 5
+Spell: EnergyBolt Level: 4
+Religion: 1
+Religion Kills pts: 3
+
+Item Drops
+SnakeSkin 8 10%
+GoldPiece 4 6.7002804%
+HeaterShield 0 0.04863%
+HeavyChainmail 0 0.00563011868372567%
+CyclopeanPendant 0 0.000563011868372567%
+BastardSword 0 0.00530118683725672%
+ScutumShield 0 0.00630118683725672%
+Pitchfork 0 0.00563011868372567%
+Poleaxe 0 0.00530118683725672%
+StaffOfFlames 0 0.04814%
+StaffOfNova 0 0.004843%
+Noblefire 0 0.000230118683725672%
+
+Spectre Stats
+Experience: 145
+HP: 64
+Mana: 0
+Armor Class: 0
+Lore RAnge: 18 to 38
+Taming Range: 16 to 36
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 0
+Fire Resist: 20
+Lightning Resist: 25
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 0
+Magic Resist: 20
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+Skull 1 4.6002813%
+GoldPiece 1 10%
+Buckler 0 0.04883%
+ShortSword 0 0.04837%
+WolfskinRobe 0 0.000463011868372567%
+Boots 0 0.00416301186837257%
+CloakOfDarkness 0 0.000263011868372567%
+HandsOfWizardry 0 0.00416301186837257%
+FishingRod 0 0.00563011868372567%
+FireMace 0 0.00416301186837257%
+ShockingSword 0 0.0141630118683726%
+Dagger 0 0.04849%
+Broadsword 0 0.04805%
+SerpentShield 0 0.00563011868372567%
+GlovesOfFrost 0 0.00416301186837257%
+SauronsShield 0 0.00416301186837257%
+
+Bug Stats
+Experience: 180
+HP: 96
+Mana: 0
+Armor Class: 0
+Lore RAnge: 33 to 53
+Taming Range: 16 to 36
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 9
+Damage Max: 11
+Critical Hit Min: 13
+Critical Hit Max: 18
+Cold Resist: 0
+Fire Resist: 33
+Lightning Resist: 16
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 33
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+VialOfVenom 1 2.8002894%
+GoldPiece 1 6.2002866%
+ElixirOfHealing 10 0.100284%
+CurePotion 5 0.14836%
+EyeOfNewt 4 0.00563011868372567%
+Boots 0 0.00563011868372567%
+Ring 0 0.00563011868372567%
+
+Blue Dragon Stats
+Experience: 6000
+HP: 1250
+Mana: 0
+Armor Class: 150
+Lore RAnge: 45 to 65
+Taming Range: 75 to 95
+Attack Speed (0 is fast): 1
+Damage Min: 22
+Damage Avg: 30
+Damage Max: 37
+Critical Hit Min: 45
+Critical Hit Max: 60
+Cold Resist: 0
+Fire Resist: 75
+Lightning Resist: 10
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 99
+Magic Resist: 75
+Religion: 1
+Religion Kills pts: 3
+
+Item Drops
+DragonScale 2 10%
+GoldPiece 8 10%
+VialOfDragonBlood 3 9.9792%
+ThievesShadowCloak 0 0.000510125671519902%
+AxeOfBurning 0 5.01256715199022E-05%
+Stiletto 0 0.000492567151990221%
+SpikedGauntlets 0 0.000350125671519902%
+FishingRod 0 0.0025199021%
+Pitchfork 0 0.002519902108%
+Corsque 0 0.00925671519902109%
+RoyalMageRobe 0 2.59001186837256E-05%
+Royalscape 0 0.000155900118683726%
+TitanClaymore 0 0.000201256715415902%
+Claymore 0 0.00049501256715199%
+SpartanClaymore 0 0.000850125671519902%
+BastardSword 0 0.00051519902109%
+DoubleAxe 0 0.000683011868372567%
+WarAxe 0 0.000483011868372567%
+Sagaris 0 0.000511830118683726%
+ZeusFury 0 0.000183011868372567%
+Gada 0 0.000513301186837257%
+RobeOfTheElements 0 5.254534E-05%
+Chainmail 0 0.02519902210357%
+DragonEgg 1 0.900515011868373%
+SpartanArmor 0 0.000515012567154159%
+GauntletsOfCasting 0 0.000315012567154159%
+BlueSuadeShoes 0 5.58630118683726E-05%
+MageRobe 0 0.00658630118683726%
+GreaterMageRobe 0 0.000513486301186837%
+ArcticRobe 0 0.000945863011868373%
+BloodRobe 0 5.58630118683726E-05%
+MithrilRobe 0 0.000184586301186837%
+SoulsRobe 0 0.000614586301186837%
+WizardsStaff 0 0.00958630118683726%
+MerlinsStaff 0 0.000758630118683726%
+Book 0 0.0305586301186837%
+VulturesHelm 0 0.00238630118683726%
+RobeOfPoison 0 0.000654534%
+SpartanHelm 0 0.000125012567154159%
+SpartanStaff 0 0.000125012567154159%
+Mindblade 0 0.000112501256715416%
+Windblade 0 0.00015012567154159%
+CrystalDagger 0 0.000514501256715416%
+MagicShard 0 0.000515501256715416%
+FurysStone 0 0.000515501256715416%
+SpartanSword 0 0.000425012567154159%
+SpartanBow 0 0.00045012567154159%
+HandCrossbow 0 0.000825012567154159%
+HeavyCrossbow 0 5.5012567154159E-05%
+Mourningstar 0 5.5012567154159E-05%
+RoyalGlaive 0 0.000450118683725672%
+BerserkerTalisman 0 0.02550125671%
+ArcticWitchHat 0 0.000626301186837257%
+Angrboda 0 0.000916301186837257%
+AngelicHelm 0 0.000716301186837257%
+Bliss 0 0.000816301186837257%
+ArchMagiHeadDress 0 0.000426301186837257%
+DarkHelmet 0 2.51630118683726E-05%
+PinkCrown 0 0.000163011868372567%
+PinkShield 0 0.000163011868372567%
+PinkRod 0 0.000163011868372567%
+FloppyHat 0 0.000630118683725672%
+HelmOfEnlightenment 0 0.000416301186837257%
+PinkHat 0 0.000416301186837257%
+PlagueCrown 0 0.000516301186837257%
+SorcererHat 0 0.000316301186837257%
+WizardryTalisman 0 0.002550125671%
+
+Vile Rodent Stats
+Experience: 900
+HP: 500
+Mana: 75
+Armor Class: 0
+Lore RAnge: 9 to 29
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 9
+Damage Avg: 12
+Damage Max: 15
+Critical Hit Min: 18
+Critical Hit Max: 24
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: PoisonCloud Level: 1
+Spell: Restoration Level: 1
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 1 9.8002867%
+GoldPiece 2 1.7002883%
+StrawHat 0 0.0002803%
+GoldOre 1 0.0002897%
+GhoulsLantern 0 0.000263011868372567%
+MithrilRobe 0 0.000263011868372567%
+MagicShard 0 0.000263011868372567%
+
+Green Slime Stats
+Experience: 290
+HP: 108
+Mana: 0
+Armor Class: 0
+Lore RAnge: 27 to 47
+Taming Range: 25 to 45
+Attack Speed (0 is fast): 1
+Damage Min: 9
+Damage Avg: 13
+Damage Max: 16
+Critical Hit Min: 19
+Critical Hit Max: 26
+Cold Resist: 0
+Fire Resist: 60
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 0
+Magic Resist: 60
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+GoldPiece 4 3.9002898%
+
+Bone Knight Stats
+Experience: 6000
+HP: 3400
+Mana: 0
+Armor Class: 85
+Lore RAnge: 41 to 61
+Taming Range: 80 to 100
+Attack Speed (0 is fast): 0
+Damage Min: 24
+Damage Avg: 32
+Damage Max: 40
+Critical Hit Min: 48
+Critical Hit Max: 64
+Cold Resist: 60
+Fire Resist: 60
+Lightning Resist: 90
+Physical Resist: 15
+Poison Resist: 90
+Holy Resist: 0
+Magic Resist: 60
+Religion: 2
+Religion Kills pts: 4
+
+Item Drops
+PileOfBones 2 8.8449%
+GoldPiece 3 5.7219%
+FlamingIvy 2 0.800201186837257%
+DemonSkull 2 0.0385420118683726%
+
+Elder Dragon Stats
+Experience: 4000
+HP: 700
+Mana: 0
+Armor Class: 20
+Lore RAnge: 15 to 35
+Taming Range: 65 to 85
+Attack Speed (0 is fast): 0
+Damage Min: 14
+Damage Avg: 19
+Damage Max: 23
+Critical Hit Min: 28
+Critical Hit Max: 38
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 20
+Holy Resist: 0
+Magic Resist: 0
+Religion: 1
+Religion Kills pts: 2
+
+Item Drops
+PhoenixFeather 5 10%
+GoldPiece 1 10%
+HeaterShield 0 0.0486%
+LokisGuardian 0 0.00563011868372567%
+RadiantCap 0 0.00563011868372567%
+Rapier 0 0.0482%
+Hatchet 0 0.04859%
+VialOfDragonBlood 4 10%
+StaffOfFlames 0 0.048%
+SmallAxe 0 0.0488%
+Hatchet 0 0.0483%
+ChaosHatchet 0 0.048%
+BattleGauntlets 0 0.00563011868372567%
+Boots 0 0.0482%
+
+Critter Stats
+Experience: 5
+HP: 5
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 0
+Damage Avg: 1
+Damage Max: 1
+Critical Hit Min: 1
+Critical Hit Max: 2
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Cookie 1 0.000285%
+
+Pumpkin Man Stats
+Experience: 140
+HP: 62
+Mana: 0
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 20 to 40
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 0
+Fire Resist: 20
+Lightning Resist: 10
+Physical Resist: 0
+Poison Resist: 10
+Holy Resist: 0
+Magic Resist: 0
+Religion: 1
+Religion Kills pts: 1
+
+Item Drops
+Cookie 1 0.0002849%
+GoldPiece 1 9.0002852%
+PurpleDandelion 5 0.0002877%
+ClothCap 0 5.63011868372567E-06%
+FirebrushLeaf 3 8.00000563011868%
+FloppyHat 0 5.63011868372567E-06%
+StrawHat 0 0.34882%
+PotionOfHealing 1 0.0002897%
+CurativeElixir 1 0.048432%
+HalloweenBlade 0 0.0002295%
+PotionOfMetabolism 1 0.00563011868372567%
+WitchHat 0 5.63011868372567E-06%
+BerserkRing 0 0.00563011868372567%
+Mageguard 0 0.00163011868372567%
+GlovesOfFrost 0 0.00163011868372567%
+SnakeSkin 10 0.00163011868372567%
+ClothGloves 0 0.00563011868372567%
+
+Great Pumpkin Stats
+Experience: 900
+HP: 450
+Mana: 0
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 45 to 65
+Attack Speed (0 is fast): 0
+Damage Min: 11
+Damage Avg: 15
+Damage Max: 18
+Critical Hit Min: 22
+Critical Hit Max: 30
+Cold Resist: 0
+Fire Resist: 20
+Lightning Resist: 10
+Physical Resist: 0
+Poison Resist: 10
+Holy Resist: 0
+Magic Resist: 0
+Religion: 1
+Religion Kills pts: 2
+
+Item Drops
+Cookie 1 0.0002849%
+GoldPiece 2 9.9002852%
+PurpleDandelion 5 0.0002877%
+ClothCap 0 0.00530118683725672%
+FirebrushLeaf 4 8.00000563011868%
+FloppyHat 0 0.00563011868372567%
+StrawHat 0 0.34882%
+PotionOfHealing 1 0.04897%
+CurativeElixir 1 0.04895%
+HalloweenBlade 0 0.0002295%
+PotionOfMetabolism 1 0.00530118683725672%
+WitchHat 0 0.00563011868372567%
+BerserkRing 0 0.00563011868372567%
+Mageguard 0 0.00163011868372567%
+GlovesOfFrost 0 0.00163011868372567%
+SnakeSkin 10 0.00563011868372567%
+ClothGloves 0 0.00563011868372567%
+
+Mecha-Pumpkin Stats
+Experience: 300000
+HP: 487500
+Mana: 5000
+Armor Class: 2500
+Lore RAnge: 215 to 235
+Taming Range: 290 to 310
+Attack Speed (0 is fast): 1
+Damage Min: 525
+Damage Avg: 700
+Damage Max: 875
+Critical Hit Min: 1050
+Critical Hit Max: 1400
+Cold Resist: 75
+Fire Resist: 75
+Lightning Resist: 120
+Physical Resist: 95
+Poison Resist: 120
+Holy Resist: 120
+Magic Resist: 120
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: PoisonCloud Level: 20
+Spell: Banish Level: 20
+Spell: Bane Level: 20
+Spell: Earthquake Level: 20
+Spell: FlameStrike Level: 20
+Spell: EnergyBolt Level: 20
+Spell: SlowedActions Level: 20
+Spell: Weaken Level: 20
+Spell: Curse Level: 20
+Religion: 3
+Religion Kills pts: 25
+
+Item Drops
+GoldPiece 20 9.90026883%
+GoldPiece 300 0.0002682025024575%
+Bliss 0 0.00026820250224575%
+FirebrushLeaf 100 9.900268%
+BloodCrown 0 0.00026820250224575%
+ArchMagiHeadDress 0 0.00026820250224575%
+HelmOfBurning 0 0.00026820250224575%
+VulturesHelm 0 0.00026820250224575%
+SantaHat 0 0.00026820250224575%
+HelmOfEnlightenment 0 0.00026820250224575%
+CrownOfDarkness 0 0.00026820250224575%
+CrownOfFrost 0 0.00026820250224575%
+HazzHat 0 0.00026820250224575%
+DarkVaderHelm 0 0.00026820250224575%
+MithrilMask 0 0.00026820250224575%
+MagmaBlade 0 0.00026820250224575%
+DarkBow 0 0.000213512836%
+CrystalDagger 0 0.00026820250224575%
+MerlinsStaff 0 0.00026820250224575%
+SwordOfFrost 0 0.00026820250224575%
+SpartanSword 0 0.00026820250224575%
+SpartanBow 0 0.00026820250224575%
+Mindblade 0 0.00026820250224575%
+Excalibur 0 0.00026820250224575%
+Caledfwlch 0 0.00026820250224575%
+CaledOfBurning 0 0.00026820250224575%
+DivineArcticBlade 0 0.00026820250224575%
+ArcticBow 0 0.00026820250224575%
+WarBow 0 0.0002682025021%
+GoldenAxe 0 0.00026820250224575%
+AxeOfDarkness 0 0.00026820250224575%
+Mourningstar 0 0.00026820250224575%
+IceStaff 0 0.00026820250224575%
+RoyalGlaive 0 0.00026820250224575%
+HalloweenBlade 0 0.00026895%
+SnowPartizan 0 0.00026820250224575%
+MaceOfRoyalty 0 0.00026820250224575%
+SceptreOfTheGates 0 0.00026820250224575%
+ThorsHammer 0 0.00026820250224575%
+BowOfLightning 0 0.00026820250224575%
+MithrilKatana 0 0.00026820250224575%
+SoulBlade 0 0.00026820250224575%
+
+Holocaust Stats
+Experience: 17500
+HP: 5000
+Mana: 255
+Armor Class: 550
+Lore RAnge: 125 to 145
+Taming Range: 156 to 176
+Attack Speed (0 is fast): 0
+Damage Min: 33
+Damage Avg: 45
+Damage Max: 56
+Critical Hit Min: 67
+Critical Hit Max: 90
+Cold Resist: 0
+Fire Resist: 99
+Lightning Resist: 25
+Physical Resist: 10
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 50
+Spells:
+Spell: Fireball Level: 8
+Spell: BurningRain Level: 8
+Spell: FlameStrike Level: 8
+Religion: 2
+Religion Kills pts: 15
+
+Item Drops
+PileOfBones 10 10%
+GoldPiece 32 10%
+PhoenixFeather 32 10%
+AssassinBlade 0 5.25530118683726E-05%
+SkullBlade 0 5.55301186837257E-06%
+BlueSkullBlade 0 5.55301186837257E-06%
+BlackSkullBlade 0 5.53011868372567E-05%
+HalloweenBlade 0 5.53011868372567E-05%
+Zangetsu 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+HelmOfLostSouls 0 5.53011868372567E-05%
+SoulsStaff 0 0.000255056673725671%
+HandsOfLostSouls 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+BootsOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+HelmOfLostSouls 0 5.53011868372567E-05%
+PlateOfLostSouls 0 5.53011868372567E-05%
+PinkSkullBlade 0 5.55301186837257E-06%
+RadiantCap 0 0.045%
+ShiningForce 0 0.000253012567154159%
+Angrboda 0 0.00553012567154159%
+DemonSkull 1 0.035%
+VialOfDragonBlood 1 10%
+MithrilOre 1 0.00559%
+BattleGauntlets 0 0.0455301186837257%
+Nightscape 0 0.000255301186837257%
+
+Turkey Stats
+Experience: 110
+HP: 58
+Mana: 0
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 18 to 38
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 25
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+Feather 50 10%
+LegOfTurkey 2 10%
+Egg 1 2.3002883%
+ScutumShield 0 0.00416301186837257%
+FloppyHat 0 0.00416301186837257%
+CapedBattleDress 0 0.00416301186837257%
+PotionOfMetabolism 1 0.000289%
+ElixirOfMetabolism 1 0.0002886%
+FireMace 0 0.00416301186837257%
+SerpentRing 0 0.00563011868372567%
+Pickaxe 0 0.00563011868372567%
+WolfskinRobe 0 0.000416301186837257%
+Scimitar 0 0.00416301186837257%
+HandsOfWizardry 0 0.00563011868372567%
+Ring2 0 0.04828%
+
+Burnt Turkey Stats
+Experience: 150
+HP: 70
+Mana: 0
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 25 to 45
+Attack Speed (0 is fast): 0
+Damage Min: 12
+Damage Avg: 16
+Damage Max: 20
+Critical Hit Min: 24
+Critical Hit Max: 32
+Cold Resist: 0
+Fire Resist: 25
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+Feather 50 10%
+LegOfTurkey 2 10%
+Egg 1 2.3002883%
+ScutumShield 0 5.63011868372567E-06%
+RoastTurkey 1 0.0002897%
+FloppyHat 0 5.63011868372567E-06%
+CapedBattleDress 0 5.63011868372567E-06%
+PotionOfMetabolism 1 5.63011868372567E-06%
+ElixirOfMetabolism 1 5.63011868372567E-06%
+FireMace 0 5.63011868372567E-06%
+SerpentRing 0 5.63011868372567E-06%
+Pickaxe 0 5.63011868372567E-06%
+WolfskinRobe 0 5.63011868372567E-06%
+Scimitar 0 5.63011868372567E-06%
+HandsOfWizardry 0 5.63011868372567E-06%
+
+Super Turkey Stats
+Experience: 5000
+HP: 640
+Mana: 0
+Armor Class: 25
+Lore RAnge: 50 to 70
+Taming Range: 80 to 100
+Attack Speed (0 is fast): 0
+Damage Min: 37
+Damage Avg: 50
+Damage Max: 62
+Critical Hit Min: 75
+Critical Hit Max: 100
+Cold Resist: 30
+Fire Resist: 30
+Lightning Resist: 30
+Physical Resist: 0
+Poison Resist: 30
+Holy Resist: 30
+Magic Resist: 30
+Religion: 3
+Religion Kills pts: 3
+
+Item Drops
+Feather 500 10%
+LegOfChicken 2 10%
+Egg 10 10%
+PotionOfMetabolism 1 0.00563011868372567%
+ElixirOfMetabolism 1 0.00563011868372567%
+FireMace 0 0.00316301186837257%
+SerpentRing 0 0.00563011868372567%
+Pickaxe 0 0.00563011868372567%
+WolfskinRobe 0 0.000316301186837257%
+Scimitar 0 0.00316301186837257%
+HandsOfWizardry 0 0.00316301186837257%
+
+Penguin Stats
+Experience: 650
+HP: 550
+Mana: 0
+Armor Class: 0
+Lore RAnge: 35 to 55
+Taming Range: 50 to 70
+Attack Speed (0 is fast): 0
+Damage Min: 18
+Damage Avg: 24
+Damage Max: 30
+Critical Hit Min: 36
+Critical Hit Max: 48
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 100
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 2
+
+Item Drops
+IceDagger 0 0.00316301186837257%
+ArcticBoots 0 0.00363011868372567%
+
+Death Knight Stats
+Experience: 6000
+HP: 1700
+Mana: 0
+Armor Class: 42
+Lore RAnge: 41 to 61
+Taming Range: 80 to 100
+Attack Speed (0 is fast): 1
+Damage Min: 24
+Damage Avg: 32
+Damage Max: 40
+Critical Hit Min: 48
+Critical Hit Max: 64
+Cold Resist: 60
+Fire Resist: 60
+Lightning Resist: 80
+Physical Resist: 15
+Poison Resist: 90
+Holy Resist: 0
+Magic Resist: 60
+Religion: 2
+Religion Kills pts: 4
+
+Item Drops
+PileOfBones 2 6.70569%
+GoldPiece 1 5.7219%
+CapeOfLegends 0 0.000201683725671%
+EyeOfNewt 2 2.40525%
+FlamingIvy 3 2.10507%
+DemonSkull 2 0.02846%
+
+Tiger Stats
+Experience: 15000
+HP: 3500
+Mana: 0
+Armor Class: 300
+Lore RAnge: 38 to 58
+Taming Range: 130 to 150
+Attack Speed (0 is fast): 0
+Damage Min: 45
+Damage Avg: 60
+Damage Max: 75
+Critical Hit Min: 90
+Critical Hit Max: 120
+Cold Resist: 15
+Fire Resist: 15
+Lightning Resist: 15
+Physical Resist: 20
+Poison Resist: 15
+Holy Resist: 15
+Magic Resist: 15
+Religion: 3
+Religion Kills pts: 4
+
+Item Drops
+Fur 2 9.900289%
+TigerClaws 0 0.0007551990221035%
+WyvernClaws 0 0.0004551990221035%
+GoldPiece 6 10%
+ChaosHammer 0 0.00563011868372567%
+Claymore 0 0.0071551990221035%
+Zanba 0 0.00756068372567152%
+TigerBlade 0 0.00025606837256715%
+TigerGlaive 0 0.000256068372567154%
+TigerKatar 0 0.000756068372567152%
+TigerClaws 0 0.00075068372567152%
+MithrilKatana 0 0.000256068372567154%
+HeaterShield 0 0.00556837256715199%
+SpartanShield 0 0.00556068372567152%
+WardingRing 0 0.0055519902210355%
+Sakana 0 0.000256837256715199%
+
+Bengal Tiger Stats
+Experience: 25000
+HP: 6500
+Mana: 0
+Armor Class: 200
+Lore RAnge: 38 to 58
+Taming Range: 170 to 190
+Attack Speed (0 is fast): 0
+Damage Min: 63
+Damage Avg: 85
+Damage Max: 106
+Critical Hit Min: 127
+Critical Hit Max: 170
+Cold Resist: 25
+Fire Resist: 25
+Lightning Resist: 40
+Physical Resist: 15
+Poison Resist: 25
+Holy Resist: 25
+Magic Resist: 25
+Religion: 3
+Religion Kills pts: 5
+
+Item Drops
+Fur 1 10%
+GoldPiece 6 10%
+ApplePie 3 3.7%
+ElixirOfMetabolism 5 2%
+LargeRejuvenationPotion 25 0.2%
+LegOfTurkey 1 0.2051%
+Katana 0 0.000256837256711259%
+Nodachi 0 0.000256837256711259%
+TouchOfDeath 0 0.000201186837256711%
+ZerBlade 200 0.000201186837256711%
+Bliss 0 0.000201186837256711%
+BloodCrown 0 0.000206837256711259%
+ArchMagiHeadDress 0 0.000201186837256711%
+HelmOfBurning 0 0.000206837256711259%
+VulturesHelm 0 0.000256837256711259%
+ZerBlade 250 0.09%
+WuStar 250 0.000201186837256715%
+Shuriken 1000 3.00552%
+DeadlyShuriken 150 0.100201186837257%
+GuardianTalisman 0 0.000206837256711259%
+WarriorTalisman 0 0.000206837256711259%
+MageTalisman 0 0.000212585%
+SmokedSalmon 8 0.00587%
+LegOfChicken 8 0.100201186837257%
+TigerClaws 0 0.000206837256715199%
+WarriorTalisman 0 0.000206837256715199%
+MageTalisman 0 0.000206837256715199%
+Ring3 0 0.00528%
+Ring3 0 0.00528%
+Ring2 0 0.02519902210351%
+CatbertCloak 0 3.63011868372567E-05%
+Sakana 0 2.51990221035E-05%
+Caledfwlch 0 4.11868372567154E-05%
+Saidzuchi 0 0.0251990221035%
+Tree 0 0.0251990221035%
+
+Sabre Tooth Stats
+Experience: 175000
+HP: 64000
+Mana: 0
+Armor Class: 1400
+Lore RAnge: 138 to 158
+Taming Range: 220 to 240
+Attack Speed (0 is fast): 0
+Damage Min: 300
+Damage Avg: 400
+Damage Max: 500
+Critical Hit Min: 600
+Critical Hit Max: 800
+Cold Resist: 0
+Fire Resist: 75
+Lightning Resist: 100
+Physical Resist: 45
+Poison Resist: 75
+Holy Resist: 50
+Magic Resist: 80
+Religion: 3
+Religion Kills pts: 20
+
+Item Drops
+Fur 49 10%
+RadiantCap 0 0.025%
+RoastTurkey 1 0.085%
+LeatherGloves 0 0.0754%
+LeatherCap 0 0.0804%
+CyclopeanPendant 0 0.00018%
+Ultima 0 5.5852E-05%
+Katana 0 0.0059902210356%
+Nodachi 0 0.02519902210356%
+Sakana 0 0.0002519902210351%
+GauntletsOfCasting 0 0.00021068372567155%
+TouchOfDeath 0 0.000281868372567152%
+Zanba 0 0.000281868372567152%
+SagittariusGaunts 0 0.000206837256715416%
+SwordOfSagittarius 0 0.000206837256715416%
+StormBreaker 0 0.000206837256715416%
+SagittariusGaunts 0 0.000206837256715416%
+SagittariusPlate 0 0.000206837256715416%
+BootsOfSagittarius 0 0.000206837256715416%
+SagittariusHelm 0 0.000281868372567154%
+Flametongue 0 0.000281868372567154%
+Caledfwlch 0 1.81868372567154E-05%
+ArcticBlade 0 0.000281868372567152%
+DivineArcticBlade 0 0.000206837256715416%
+AngelicBlade 0 0.000206837256715416%
+Mindblade 0 0.000206837256715416%
+Magebane 0 0.000281868372567154%
+ArmorOfHelios 0 0.000281868372567154%
+WizardryTalisman 0 0.0306837256715416%
+BerserkerTalisman 0 0.0306837256715416%
+GuardianTalisman 0 0.0368372567154159%
+ShiningForce 0 0.000281868372567154%
+OldBoots 0 0.025199022103556%
+HolyCape 0 0.000206837256715199%
+Claymore 0 0.02519902210357%
+VikingSword 0 0.025199022103519%
+WyvernClaws 0 0.000281868372567152%
+GoldPiece 71 9.8057%
+Caledfwlch 0 1.81868372567154E-05%
+TigerBlade 0 0.000449%
+TigerGlaive 0 0.000406837256715416%
+TigerKatar 0 0.000670683725671542%
+TigerClaws 0 0.000706837256715416%
+Excalibur 0 0.000281868372567154%
+BlackRazor 0 0.000281868372567154%
+AssassinBlade 0 4.81868372567154E-05%
+MagmaBlade 0 0.000206837256715416%
+MithrilKatana 0 0.000206837256715416%
+HazzHat 0 0.000206837256715416%
+CatbertsArmour 0 0.00025%
+GamemasterPlate 0 3.12502210351259E-05%
+DivineCaledfwlch 0 0.000239001186837257%
+CatbertCloak 0 1.63011868372567E-05%
+SnowPartizan 0 0.000206837256715416%
+SoulBlade 0 0.000806837256715416%
+Angrboda 0 0.00506837256715416%
+BloodCrown 0 0.00506837256715416%
+SagittariusHelm 0 0.000206837256715416%
+SagittariusPlate 0 0.000206837256715416%
+BootsOfSagittarius 0 0.000206837256715416%
+SantaHat 0 0.000206837256715416%
+Bliss 0 0.00506837256715199%
+
+Polar Bear Stats
+Experience: 12000
+HP: 4900
+Mana: 0
+Armor Class: 122
+Lore RAnge: 35 to 55
+Taming Range: 88 to 108
+Attack Speed (0 is fast): 1
+Damage Min: 93
+Damage Avg: 125
+Damage Max: 156
+Critical Hit Min: 187
+Critical Hit Max: 250
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 50
+Physical Resist: 20
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 70
+Religion: 3
+Religion Kills pts: 4
+
+Item Drops
+ArcticWinterBoots 0 0.00916301186837257%
+ArcticRingmail 0 0.000931630118683726%
+ArcticBlade 0 0.000963011868372567%
+GoldPiece 10 10%
+SwordOfFrost 0 0.00663011868372567%
+ShieldOfFrost 0 0.00663011868372567%
+DivineArcticBlade 0 0.000263011868372567%
+Fur 10 10%
+
+Were-Bear Stats
+Experience: 3000
+HP: 950
+Mana: 125
+Armor Class: 23
+Lore RAnge: 90 to 110
+Taming Range: 150 to 170
+Attack Speed (0 is fast): 1
+Damage Min: 75
+Damage Avg: 100
+Damage Max: 125
+Critical Hit Min: 150
+Critical Hit Max: 200
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 100
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 25
+Spells:
+Spell: Restoration Level: 10
+Spell: MedusasStare Level: 1
+Spell: Curse Level: 8
+Spell: Weaken Level: 10
+Spell: SlowedActions Level: 6
+Religion: 2
+Religion Kills pts: 5
+
+Item Drops
+AxeOfDarkness 0 0.000263011868372567%
+MithrilRobe 0 0.000263011868372567%
+GoldPiece 10 4.80000563011868%
+Fur 3 10%
+DemonSkull 1 0.0128304835%
+NecromancersWrath 0 0.000263011868372567%
+ElixirOfRejuvenation 5 0.100005630118684%
+
+Brown Bear Stats
+Experience: 2000
+HP: 300
+Mana: 0
+Armor Class: 0
+Lore RAnge: 35 to 55
+Taming Range: 70 to 90
+Attack Speed (0 is fast): 2
+Damage Min: 30
+Damage Avg: 40
+Damage Max: 50
+Critical Hit Min: 60
+Critical Hit Max: 80
+Cold Resist: 30
+Fire Resist: 0
+Lightning Resist: 30
+Physical Resist: 0
+Poison Resist: 20
+Holy Resist: 0
+Magic Resist: 30
+Religion: 3
+Religion Kills pts: 2
+
+Item Drops
+Sardine 3 1.0002853%
+Catfish 2 0.3002819%
+Salmon 1 8.1002811%
+Herring 1 0.4002823%
+Fur 3 10%
+
+Grizzly Bear Stats
+Experience: 7500
+HP: 950
+Mana: 0
+Armor Class: 37
+Lore RAnge: 85 to 105
+Taming Range: 140 to 160
+Attack Speed (0 is fast): 1
+Damage Min: 82
+Damage Avg: 110
+Damage Max: 137
+Critical Hit Min: 165
+Critical Hit Max: 220
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 25
+Religion: 3
+Religion Kills pts: 3
+
+Item Drops
+Fur 3 10%
+
+Black Bear Stats
+Experience: 75000
+HP: 16000
+Mana: 0
+Armor Class: 1500
+Lore RAnge: 135 to 155
+Taming Range: 73 to 93
+Attack Speed (0 is fast): 1
+Damage Min: 187
+Damage Avg: 250
+Damage Max: 312
+Critical Hit Min: 375
+Critical Hit Max: 500
+Cold Resist: 50
+Fire Resist: 50
+Lightning Resist: 20
+Physical Resist: 50
+Poison Resist: 50
+Holy Resist: 50
+Magic Resist: 50
+Religion: 3
+Religion Kills pts: 10
+
+Item Drops
+Salmon 1 12.000561%
+Trout 1 16.8005658%
+Catfish 2 4.2005614%
+Fur 3 20%
+
+Green Dragon Stats
+Experience: 16000
+HP: 3000
+Mana: 0
+Armor Class: 80
+Lore RAnge: 60 to 80
+Taming Range: 120 to 140
+Attack Speed (0 is fast): 0
+Damage Min: 41
+Damage Avg: 55
+Damage Max: 68
+Critical Hit Min: 82
+Critical Hit Max: 110
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 99
+Holy Resist: 50
+Magic Resist: 25
+Spells:
+Spell: GreaterHeal Level: 10
+Spell: PoisonCloud Level: 10
+Spell: Lightning Level: 10
+Religion: 1
+Religion Kills pts: 4
+
+Item Drops
+DragonScale 10 10%
+GoldPiece 10 10%
+VialOfDragonBlood 6 9.6792%
+LeatherGloves 0 0.085%
+Stiletto 0 0.0244%
+SpikedGauntlets 0 0.00055%
+NatureShield 0 0.000434012567154159%
+Pitchfork 0 0.0033%
+Corsque 0 0.00053%
+RobeOfPoison 0 2.53E-05%
+PlagueCrown 0 2.53E-05%
+PlagueBoots 0 2.53E-05%
+PlagueGaunts 0 2.53E-05%
+PlagueRobe 0 2.53E-05%
+Corsque 0 0.00053%
+Crown 0 0.000234012567154159%
+SerpentsFang 0 0.000323401256715416%
+AssassinBlade 0 2.53234012567154E-05%
+DruidVestment 0 0.000234012567154159%
+DruidBoots 0 0.000234012567154159%
+DruidHelm 0 0.000234012567154159%
+DruidicStaff 0 0.000234012567154159%
+ShieldOfTheForest 0 0.000434012567154159%
+DruidGauntlets 0 0.000434012567154159%
+Stiletto 0 0.0241%
+Chainmail 0 0.00583%
+DragonEgg 1 3.9702%
+Katar 0 0.00546%
+Book 0 0.000536%
+LargeAxe 0 0.00536%
+Tree 0 0.043%
+
+Gold Dragon Stats
+Experience: 8500
+HP: 2200
+Mana: 0
+Armor Class: 55
+Lore RAnge: 60 to 80
+Taming Range: 100 to 120
+Attack Speed (0 is fast): 0
+Damage Min: 33
+Damage Avg: 45
+Damage Max: 56
+Critical Hit Min: 67
+Critical Hit Max: 90
+Cold Resist: -25
+Fire Resist: 75
+Lightning Resist: 75
+Physical Resist: 15
+Poison Resist: 50
+Holy Resist: 50
+Magic Resist: -25
+Religion: 1
+Religion Kills pts: 3
+
+Item Drops
+GoldPiece 25 10%
+DragonEgg 1 5.0758%
+Emerald 1 1.573%
+DragonScale 10 10%
+Amethyst 1 1.3055%
+Ruby 1 0.946%
+Sapphire 1 0.4294%
+AgileRing 0 0.0057%
+WisdomRing 0 0.0059%
+Ring 0 0.0706%
+Ring2 0 0.0706%
+Ring3 0 0.0706%
+VialOfDragonBlood 8 9.98%
+Goldscape 0 1.20118683725672E-05%
+GoldenSword 0 1.01256715125022E-05%
+ZeusFury 0 5.41256711250221E-06%
+LuckBracelet 0 0.000680125671115902%
+GoldenAxe 0 0.000680118683725672%
+GoldenCrown 0 0.002801256715%
+GoldenRobe 0 0.0006801256715%
+GoldPlate 0 0.0006801256715%
+GoldenBoots 0 0.000601256715%
+GoldenRod 0 0.0006801256715%
+GoldenHammer 0 0.0006801256715%
+GoldenMortarAndPestle 0 0.0006801256715%
+GoldenPickaxe 0 0.0006801256715%
+GoldenSaw 0 0.0006801256715%
+GoldenShield 0 0.0006801256715%
+GoldenGlaive 0 0.0006801256715%
+GoldenStaff 0 0.0006801256715%
+GoldenKatana 0 8.201256715E-05%
+GoldPlate 0 0.00501256715%
+GoldOre 132 3.3458%
+GoldIngot 217 3.3458%
+
+Headless Stats
+Experience: 200
+HP: 120
+Mana: 20
+Armor Class: 0
+Lore RAnge: 20 to 40
+Taming Range: 22 to 42
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 0
+Fire Resist: 15
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 6
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: DarkTouch Level: 1
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 5.1002862%
+GoldPiece 3 3.2002864%
+ElixirOfHealing 1 0.2002809%
+LeatherGloves 0 0.00563011868372567%
+LightGauntlets 0 0.00563011868372567%
+ClothCap 0 0.00563011868372567%
+Ring 0 0.00563011868372567%
+CurePotion 1 0.0878%
+
+Headless Stats
+Experience: 280
+HP: 120
+Mana: 50
+Armor Class: 0
+Lore RAnge: 25 to 45
+Taming Range: 29 to 49
+Attack Speed (0 is fast): 0
+Damage Min: 5
+Damage Avg: 7
+Damage Max: 8
+Critical Hit Min: 10
+Critical Hit Max: 14
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 9
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: DarkTouch Level: 2
+Spell: Nova Level: 3
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 2.7002837%
+PotionOfMana 1 0.700005630118684%
+PotionOfRejuvenation 1 0.200005630118684%
+GauntletsOfCasting 0 5.63011868372567E-06%
+
+Silver Dragon Stats
+Experience: 30000
+HP: 2400
+Mana: 600
+Armor Class: 150
+Lore RAnge: 70 to 90
+Taming Range: 100 to 120
+Attack Speed (0 is fast): 1
+Damage Min: 63
+Damage Avg: 85
+Damage Max: 106
+Critical Hit Min: 127
+Critical Hit Max: 170
+Cold Resist: 99
+Fire Resist: -20
+Lightning Resist: -20
+Physical Resist: 10
+Poison Resist: 40
+Holy Resist: 90
+Magic Resist: 70
+Spells:
+Spell: GreaterHeal Level: 15
+Spell: Blizzard Level: 8
+Spell: Icebolt Level: 8
+Spell: IceNova Level: 6
+Religion: 1
+Religion Kills pts: 10
+
+Item Drops
+SilverOre 2 8.0407%
+SilverIngot 2 7.005%
+ReflectingPlate 0 0.0005%
+FullPlate 0 0.0025%
+DragonScale 10 10%
+VialOfDragonBlood 12 9.98%
+DragonCarapace 0 0.000801181%
+RedMageRobe 0 0.000451868372567154%
+GrayMageRobe 0 0.000351868372567154%
+DruidicRobe 0 0.000151868372567154%
+Burningscape 0 0.000151868372567154%
+GreaterMageRobe 0 0.000801256715415902%
+SpartanStaff 0 0.00018012567154159%
+Frostscape 0 7.8012567154159E-05%
+MasterSword 0 4.8012567154159E-05%
+GoldPiece 35 10%
+ShiningPlatemail 0 0.00080125671%
+CrystalDagger 0 0.000801256715415902%
+SpartanClaymore 0 0.000201256715415902%
+GoldPiece 7 10%
+
+Dragon Ghost Stats
+Experience: 16000
+HP: 2500
+Mana: 0
+Armor Class: 80
+Lore RAnge: 90 to 110
+Taming Range: 185 to 205
+Attack Speed (0 is fast): 0
+Damage Min: 56
+Damage Avg: 75
+Damage Max: 93
+Critical Hit Min: 112
+Critical Hit Max: 150
+Cold Resist: 90
+Fire Resist: 90
+Lightning Resist: 55
+Physical Resist: 45
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 90
+Religion: 2
+Religion Kills pts: 8
+
+Item Drops
+GoldPiece 12 10%
+MerlinsStaff 0 0.0063012567154159%
+VialOfDragonBlood 10 9.90028%
+VulturesHelm 0 0.0382567154159022%
+RedMageRobe 0 0.000251868372567154%
+GrayMageRobe 0 0.000251868372567154%
+DruidicRobe 0 0.000251868372567154%
+Burningscape 0 5.51868372567154E-05%
+ArcticHelm 0 0.000162551868372567%
+DemonSkull 3 0.0650091%
+NecromancerHat 0 0.000255056673725671%
+CapeOfLegends 0 0.000255056673725671%
+EyeOfNewt 2 2.40525%
+FlamingIvy 3 2.10507%
+EvilRingOfEvil 0 0.000255056673725671%
+Soulshield 0 0.000255056673725671%
+Quake 0 0.000255056673725671%
+MagicShard 0 0.000255056673725671%
+WarMageGloves 0 0.000255056673725671%
+BloodGlaive 0 2.56E-05%
+PhoenixBow 0 0.000255056673725671%
+NecromancersWrath 0 0.000255056673725671%
+BatWing 2 4.7743%
+WarMageTalisman 0 0.000255056673725671%
+WarMagesCloak 0 0.000255056673725671%
+WarMagesPlate 0 0.000255056673725671%
+WarMagesShield 0 0.000255056673725671%
+WarMageBoots 0 0.000855056673725671%
+LightningBlade 0 0.000255056673725671%
+ArchMagiHeadDress 0 0.000255056673725671%
+ArchMagiHeadDress 0 0.000255056673725671%
+ArchmagiRobe 0 0.000255056673725671%
+DruidVestment 0 0.000255056673725671%
+DruidBoots 0 0.000855056673725671%
+DruidHelm 0 0.000255056673725671%
+BlackDagger 0 0.000255056673725671%
+DruidicStaff 0 0.000255056673725671%
+DruidGauntlets 0 0.000255056673725671%
+SoulsHelm 0 0.000255056673725671%
+HelmOfEnlightenment 0 0.000255056673725671%
+BootsOfEnlightenment 0 0.000855056673725671%
+StaffOfEnlightenment 0 0.000255056673725671%
+CrystalDagger 0 0.000255056673725671%
+Windblade 0 0.000255056673725671%
+SnowPartizan 0 0.000255056673725671%
+StormSpear 0 0.000255056673725671%
+SceptreOfTheGates 0 0%
+GauntletsOfCasting 0 9E-05%
+IceStaff 0 0.000255056673725671%
+DruidicStaff 0 0.000255056673725671%
+SoulsRobe 0 0.000255056673725671%
+RoyalGlaive 0 0.000255056673725671%
+MagePlate 0 0.000255056673725671%
+GreaterMageRobe 0 0.000255056673725671%
+Mindblade 0 0.000255056673725671%
+FireStaff 0 0.000255056673725671%
+ThorsHammer 0 0.000755056673725671%
+BowOfLightning 0 0.000255056673725671%
+SagittariusPlate 0 0.000255056673725671%
+SagittariusHelm 0 0.000255056673725671%
+BootsOfSagittarius 0 0.000855056673725671%
+DruidicStaff 0 0.000255056673725671%
+FireStaff 0 0.000255056673725671%
+BlackRazor 0 0.000255056673725671%
+MithrilKatana 0 0.000255056673725671%
+Mindblade 0 0.000255056673725671%
+Masamune 0 0.000255056673725671%
+KingPlate 0 0.000255056673725671%
+ElvenMithrilArrow 1500 0.1875%
+SoulBlade 0 0.000255056673725671%
+WuStar 200 0.000255056673725671%
+MithrilArrow 1000 0.000255056673725671%
+BowOfLightning 0 0.000255056673725671%
+WarBow 0 0.000255056673725671%
+ThievesShadowCloak 0 0.000255056673725671%
+Voidscape 0 5E-06%
+KingPlate 0 5E-06%
+VoidHelm 0 5E-06%
+VoidBoots 0 0.00035%
+Excalibur 0 3.5505667372567E-05%
+Nightscape 0 0.00025505667372567%
+Angrboda 0 0.00025505667372567%
+BloodCrown 0 0.000255056673725671%
+SagittariusHelm 0 0.000255056673725671%
+SagittariusPlate 0 0.000255056673725671%
+BootsOfSagittarius 0 0.000855056673725671%
+SantaHat 0 0.000255056673725671%
+ZerBlade 1000 0.09%
+WuStar 1000 0.00553%
+Shuriken 1000 3.00552%
+DeadlyShuriken 1500 1.00025505667373%
+GuardianTalisman 0 0.000255056673725671%
+WarriorTalisman 0 0.000255056673725671%
+MageTalisman 0 0.000255056673725671%
+SwordOfFrost 0 0.000855056673725671%
+SpartanArmor 0 0.000255056673725671%
+SpartanHelm 0 0.000255056673725671%
+SpartanSword 0 0.000255056673725671%
+SpartanBow 0 0.000255056673725671%
+RingOfFire 0 0.000255056673725671%
+RingOfWizardry 0 0.000255056673725671%
+RingOfCelerity 0 0.000255056673725671%
+RingOfAbjuration 0 0.000255056673725671%
+Excalibur 0 0.000255056673725671%
+GreaterMageRobe 0 0.000255056673725671%
+Masamune 0 0.000255056673725671%
+DarkVaderHelm 0 0.000255056673725671%
+KingPlate 0 0.000255056673725671%
+ArchmagiRobe 0 0.000255056673725671%
+Caledfwlch 0 3.55056673725671E-06%
+ArcticBow 0 0.000255056673725671%
+MasterRobe 0 0.000255056673725671%
+KrakenScales 0 0.000255056673725671%
+MithrilKatana 0 0.000255056673725671%
+GamemasterRobe 0 5.20125683725675E-05%
+MasterRobe 0 0.00020125683725675%
+AssassinBlade 0 2.55056673725671E-05%
+SwordOfFrost 0 0.000855056673725671%
+ArcticBlade 0 0.000255056673725671%
+DivineArcticBlade 0 0.000255056673725671%
+WyvernClaws 0 0.000255056673725671%
+BerserkerShield 0 0.000255056673725671%
+GuildBroach 0 0.000205667372567115%
+Soulscape 0 5.43011868372567E-06%
+BerserkerTalisman 0 0.000205667372567115%
+GuardianTalisman 0 0.000205667372567115%
+WizardryTalisman 0 0.000205667372567115%
+WarriorTalisman 0 0.000205667372567115%
+PlagueGaunts 0 0.000255056673725671%
+PlagueRobe 0 0.000255056673725671%
+PlagueCrown 0 0.000255056673725671%
+DivineGlaive 0 0.000255056673725671%
+MageTalisman 0 0.000205667372567115%
+Ring 0 0.00563012567154159%
+Ring2 0 0.00563012567154159%
+Ring3 0 0.00563012567154159%
+
+Walking Bones Stats
+Experience: 100
+HP: 30
+Mana: 0
+Armor Class: 0
+Lore RAnge: 9 to 29
+Taming Range: 20 to 40
+Attack Speed (0 is fast): 1
+Damage Min: 3
+Damage Avg: 5
+Damage Max: 6
+Critical Hit Min: 7
+Critical Hit Max: 10
+Cold Resist: 25
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 25
+Holy Resist: 0
+Magic Resist: 0
+Religion: 2
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 10%
+GoldPiece 3 8.1002862%
+Moonflower 40 9.900281257%
+PurpleDandelion 44 9.9002801257%
+CapedChainmail 0 0.0048257%
+BoneCrusher 0 0.00563011868372567%
+LongSword 0 0.1002836%
+DemonSkull 1 0.00346%
+Dagger 0 0.1002836%
+Spear 0 0.100005630118684%
+LightChainmail 0 0.0485%
+Buckler 0 0.04829%
+
+Stone Golem Stats
+Experience: 30000
+HP: 7150
+Mana: 0
+Armor Class: 178
+Lore RAnge: 80 to 100
+Taming Range: 190 to 210
+Attack Speed (0 is fast): 1
+Damage Min: 60
+Damage Avg: 80
+Damage Max: 100
+Critical Hit Min: 120
+Critical Hit Max: 160
+Cold Resist: 90
+Fire Resist: 0
+Lightning Resist: 100
+Physical Resist: 90
+Poison Resist: 100
+Holy Resist: 100
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 10
+
+Item Drops
+Bliss 0 0.00463011868372567%
+Gauntlets 0 0.00563011868372567%
+GoldPiece 6 8.6002841%
+Aegis 0 0.00316301186837257%
+ElixirOfHealing 1 3.5002879%
+Saidzuchi 0 0.00563011868372567%
+
+Wyrm Stats
+Experience: 150000
+HP: 45000
+Mana: 500
+Armor Class: 2500
+Lore RAnge: 150 to 170
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 337
+Damage Avg: 450
+Damage Max: 562
+Critical Hit Min: 675
+Critical Hit Max: 900
+Cold Resist: 100
+Fire Resist: 25
+Lightning Resist: 100
+Physical Resist: 75
+Poison Resist: 80
+Holy Resist: 100
+Magic Resist: 55
+Spells:
+Spell: GreaterHeal Level: 10
+Spell: Fireball Level: 10
+Spell: Curse Level: 10
+Spell: Weaken Level: 10
+Spell: FlameStrike Level: 10
+Spell: MedusasStare Level: 10
+Religion: 1
+Religion Kills pts: 10
+
+Item Drops
+WyrmHeart 1 9.9988%
+GoldPiece 45 9.9899%
+VialOfDragonBlood 3 9.90503%
+DragonScale 10 8.9999%
+PhoenixFeather 15 2.50025683725672%
+Sakana 0 0.000256837256715416%
+GauntletsOfCasting 0 0.00020683725675%
+TouchOfDeath 0 0.000206837256715416%
+Zanba 0 0.000256837256715416%
+SagittariusGaunts 0 0.000206837256715416%
+SwordOfSagittarius 0 0.000206837256715416%
+SagittariusGaunts 0 0.000206837256715416%
+SagittariusPlate 0 0.000206837256715416%
+BootsOfSagittarius 0 0.000206837256715416%
+SagittariusHelm 0 0.000206837256715416%
+Flametongue 0 0.000206837256715416%
+Caledfwlch 0 0.000201186837256715%
+ArcticBlade 0 0.000256837256715416%
+Mindblade 0 0.000206837256715416%
+Magebane 0 0.000206837256715416%
+WizardryTalisman 0 0.00506837256715416%
+BerserkerTalisman 0 0.00506837256715416%
+GuardianTalisman 0 0.00506837256715416%
+ShiningForce 0 0.000206837256715416%
+OldBoots 0 0.00206837256715416%
+HolyCape 0 0.000206837256715416%
+Claymore 0 0.00306837256715416%
+VikingSword 0 0.00410683725671542%
+WyvernClaws 0 0.000910683725671542%
+SkullBlade 0 5.55301186837512E-06%
+PinkSkullBlade 0 5.951250221E-06%
+BlackSkullBlade 0 5.951250221E-06%
+DivineHelmet 0 0.000201186837256715%
+DivineBow 0 0.000201186837256715%
+DivineBoots 0 0.000201186837256715%
+DivineCape 0 0.000201186837256715%
+DivineShield 0 0.000201186837256715%
+DivineBlade 0 0.000201186837256715%
+DivineGauntlets 0 0.000201186837256715%
+DivineClaw 0 0.000201186837256715%
+ArcticBow 0 1.25E-05%
+PinkBow 0 0.000225%
+PhoenixBow 0 0.000225%
+SoulsBow 0 0.000225%
+WarBow 0 0.000225%
+HandCrossbow 0 0.000263011868372567%
+Voidscape 0 0.000281868372567154%
+VoidHelm 0 0.000281868372567154%
+VoidBoots 0 0.000281868372567154%
+KingPlate 0 0.000281868372567154%
+Excalibur 0 0.000281868372567154%
+GoldenSword 0 0.000281868372567154%
+HalloweenBlade 0 0.000281868372567154%
+SoulsStaff 0 0.000255056673725671%
+Aegis 0 0.000206837256715416%
+Gada 0 0.000206837256715416%
+
+Rabbit Stats
+Experience: 55
+HP: 25
+Mana: 0
+Armor Class: 0
+Lore RAnge: 7 to 27
+Taming Range: 9 to 29
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 2 10%
+StrawHat 0 0.500005630118684%
+PotionOfHealing 1 0.600005630118684%
+StrawHat 0 0.04886%
+
+Bunny Stats
+Experience: 250
+HP: 120
+Mana: 0
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 17 to 37
+Attack Speed (0 is fast): 1
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 3 10%
+PotionOfMana 10 0.2002809%
+PotionOfEnergy 10 0.200005630118684%
+ElixirOfEnergy 10 0.04801%
+
+Wraith Stats
+Experience: 300
+HP: 200
+Mana: 0
+Armor Class: 0
+Lore RAnge: 22 to 42
+Taming Range: 25 to 45
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 50
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 90
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Shuriken 1 6.5002835%
+DeadlyShuriken 1 2.7002837%
+WuStar 1 0.405630118683726%
+VulturesHelm 0 0.00563011868372567%
+
+Blue Bunny Stats
+Experience: 200
+HP: 500
+Mana: 0
+Armor Class: 0
+Lore RAnge: 7 to 27
+Taming Range: 25 to 45
+Attack Speed (0 is fast): 2
+Damage Min: 4
+Damage Avg: 6
+Damage Max: 7
+Critical Hit Min: 9
+Critical Hit Max: 12
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+PotionOfLight 3 0.1002858%
+ElixirOfLight 3 0.1002807%
+Egg 1 0.7002835%
+EasterCrown 0 0.000358055155824125%
+BloodStar 0 0.000358055155824125%
+PinkMageRobe 0 0.000358055155824125%
+LegOfChicken 1 0.500005630118684%
+PotionOfMetabolism 1 0.02808%
+BlueSuadeShoes 0 0.000386301186837257%
+RoastSuperTurkey 1 5.63011868372567E-06%
+PotionOfEnergy 1 0.100005630118684%
+
+Peter Rabbit Stats
+Experience: 500
+HP: 200
+Mana: 0
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 50
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 20
+Poison Resist: 50
+Holy Resist: 50
+Magic Resist: 50
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+StrawHat 0 0.5002858%
+LeatherGloves 0 0.5002858%
+Ring2 0 0.5002858%
+FurysBlade 0 0.0002858%
+FurysStone 0 0.0002858%
+MagicShard 0 0.0002858%
+Boots 0 0.5002855%
+
+Bunnie Stats
+Experience: 100000
+HP: 15164
+Mana: 2500
+Armor Class: 500
+Lore RAnge: 38 to 58
+Taming Range: 194 to 214
+Attack Speed (0 is fast): 0
+Damage Min: 206
+Damage Avg: 275
+Damage Max: 343
+Critical Hit Min: 412
+Critical Hit Max: 550
+Cold Resist: 100
+Fire Resist: 80
+Lightning Resist: 60
+Physical Resist: 40
+Poison Resist: 80
+Holy Resist: 80
+Magic Resist: 80
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: MedusasStare Level: 20
+Spell: Curse Level: 20
+Spell: Weaken Level: 20
+Spell: ChainLightning Level: 20
+Spell: FlameStrike Level: 20
+Spell: Fireball Level: 20
+Spell: IceNova Level: 20
+Spell: Earthquake Level: 20
+Spell: ChargedBolt Level: 20
+Spell: MeteorStorm Level: 20
+Spell: Decrepify Level: 20
+Spell: ChaosBolt Level: 20
+Spell: Banish Level: 20
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 20 10%
+EvilRingOfEvil 0 0.000263011868372567%
+
+Ornlu The Wolf Stats
+Experience: 150000
+HP: 130000
+Mana: 15000
+Armor Class: 1200
+Lore RAnge: 185 to 205
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 150
+Damage Avg: 200
+Damage Max: 250
+Critical Hit Min: 300
+Critical Hit Max: 400
+Cold Resist: 100
+Fire Resist: 100
+Lightning Resist: 0
+Physical Resist: 60
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 100
+Spells:
+Spell: GreaterHeal Level: 15
+Spell: ChainLightning Level: 15
+Spell: EnergyBolt Level: 15
+Spell: Nauseate Level: 15
+Spell: PoisonCloud Level: 15
+Spell: DarkTouch Level: 15
+Spell: DeathDarts Level: 15
+Spell: Curse Level: 15
+Spell: Weaken Level: 15
+Spell: MedusasStare Level: 15
+Spell: SlowedActions Level: 15
+Spell: Icebolt Level: 15
+Spell: IceNova Level: 15
+Religion: 2
+Religion Kills pts: 30
+
+Item Drops
+GoldPiece 500 9.9796%
+GoldPiece 100 0.30523%
+AxeOfBurning 0 0.000653436837256711%
+HelmOfBurning 0 0.000653436837256711%
+TitanClaymore 0 0.000634368372567112%
+PlateOfBurning 0 0.000653436837256711%
+FragileBladeOfChaos 0 0.000453436837256711%
+CrystalDagger 0 0.000653436837256711%
+SauronsShield 0 0.000653436837256711%
+ChaosHammer 0 0.000653436837256711%
+BloodCrown 0 0.000653436837256711%
+EliteGauntlets 0 0.000653436837256711%
+Pavis 0 0.000653436837256711%
+Aegis 0 0.000653436837256711%
+Caledfwlch 0 2.53436837256711E-05%
+Claymore 0 0.000653436837256711%
+ShiningPlatemail 0 0.000653436837256711%
+PinkPlate 0 0.000653436837256711%
+ReflectingPlate 0 0.000653436837256711%
+PlatedBoots 0 0.000653436837256711%
+CombustionPendant 0 0.000653436837256711%
+BerserkerTalisman 0 0.025%
+WizardryTalisman 0 0.025%
+GuardianTalisman 0 0.025%
+MithrilMask 0 0.000653436837256711%
+AxeOfDarkness 0 0.000653436837256711%
+MaceOfRoyalty 0 0.000653436837256711%
+BootsOfBurning 0 0.000653436837256711%
+BootsOfDarkness 0 0.000653436837256711%
+MasterRobe 0 0.000653436837256711%
+GamemasterRobe 0 1E-05%
+MagmaBlade 0 0.000653436837256711%
+ZeusFury 0 0.000653436837256711%
+PlagueBoots 0 0.000653436837256711%
+SovereignBoots 0 0.000653436837256711%
+BowOfLightning 0 0.000653436837256711%
+ThorsHammer 8 0.000653436837256711%
+Noblefire 0 0.000653436837256711%
+ArchMagiHeadDress 0 0.000653436837256711%
+KrakenScales 0 0.000653436837256711%
+Bliss 0 0.000653436837256711%
+DivineArcticBlade 0 0.000653436837256711%
+ArcticBow 0 0.000653436837256711%
+ArchmagiRobe 0 0.000653436837256711%
+KingPlate 0 0.000653436837256711%
+KnightPlate 0 0.000653436837256711%
+GauntletsOfCasting 0 0.000653436837256711%
+ShieldOfBurning 0 0.000653436837256711%
+ShieldOfWealth 0 0.000653436837256711%
+MagmaStaff 0 5.82412502101251E-06%
+ShieldOfHeaven 0 0.000653436837256711%
+ShieldOfRoyalty 0 2.8E-05%
+HolyCape 0 0.000653436837256711%
+ShiningForce 0 0.000653436837256711%
+RoyalBoots 0 0.000653436837256711%
+BootsOfApollo 0 0.000653436837256711%
+FlamingFeet 0 0.000653436837256711%
+PinkBoots 0 0.000653436837256711%
+BootsOfEnlightenment 0 0.000653436837256711%
+AssassinBlade 0 2.53436837256711E-05%
+BowOfLightning 0 0.000653436837256711%
+MithrilKatana 0 0.000653436837256711%
+AchillesSkin 0 0.000653436837256711%
+
+Mongoose Stats
+Experience: 400
+HP: 400
+Mana: 0
+Armor Class: 0
+Lore RAnge: 30 to 50
+Taming Range: 29 to 49
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 30
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 100
+Holy Resist: 0
+Magic Resist: 0
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+RodentFur 1 9.8002867%
+GoldPiece 3 1.7002883%
+Robe 0 0.04814%
+Water 10 4.00028%
+BarmaidsBattleDress 0 0.00563011868372567%
+
+Giant Scorpion Stats
+Experience: 7000
+HP: 2200
+Mana: 100
+Armor Class: 0
+Lore RAnge: 50 to 70
+Taming Range: 150 to 170
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 40
+Fire Resist: 55
+Lightning Resist: 33
+Physical Resist: 10
+Poison Resist: 90
+Holy Resist: 45
+Magic Resist: 40
+Spells:
+Spell: PoisonCloud Level: 4
+Religion: 3
+Religion Kills pts: 4
+
+Item Drops
+VialOfVenom 3 7.0002861%
+VialOfVenom 1 3.0002852%
+
+Rock Titan Stats
+Experience: 60000
+HP: 12500
+Mana: 0
+Armor Class: 1500
+Lore RAnge: 120 to 140
+Taming Range: 210 to 230
+Attack Speed (0 is fast): 1
+Damage Min: 112
+Damage Avg: 150
+Damage Max: 187
+Critical Hit Min: 225
+Critical Hit Max: 300
+Cold Resist: 0
+Fire Resist: 100
+Lightning Resist: 100
+Physical Resist: 75
+Poison Resist: 100
+Holy Resist: 100
+Magic Resist: 0
+Religion: 1
+Religion Kills pts: 4
+
+Item Drops
+Bliss 0 0.00416301186837257%
+Gauntlets 0 0.00563011868372567%
+GoldPiece 12 8.6002841%
+ElixirOfHealing 4 3.5002879%
+LightningMace 0 0.000863011868372567%
+SwordOfKings 0 0.000863011868372567%
+ZeusFury 0 0.000763011868372567%
+Windblade 0 0.000863011868372567%
+DivineSword 0 0.000263011868372567%
+GoldenCrown 0 0.00363011868372567%
+ShieldOfHeaven 0 0.000463011868372567%
+CapeOfLegends 0 0.000263011868372567%
+FlamingFeet 0 0.00663011868372567%
+TitanClaymore 0 0.00363011868372567%
+WardingRing 0 0.00530118683725672%
+CynicRing 0 0.00530118683725672%
+Ring 0 0.00530118683725672%
+BattleMace 0 0.00530118683725672%
+Mace 0 0.04829%
+
+Witch Stats
+Experience: 65000
+HP: 10500
+Mana: 8000
+Armor Class: 325
+Lore RAnge: 80 to 100
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 120
+Damage Avg: 160
+Damage Max: 200
+Critical Hit Min: 240
+Critical Hit Max: 320
+Cold Resist: 75
+Fire Resist: 100
+Lightning Resist: 50
+Physical Resist: 75
+Poison Resist: 75
+Holy Resist: 75
+Magic Resist: 75
+Spells:
+Spell: GreaterHeal Level: 15
+Spell: ChainLightning Level: 15
+Spell: BurningRain Level: 15
+Spell: Apocalypse Level: 15
+Spell: Curse Level: 15
+Spell: EnergyBolt Level: 15
+Spell: Weaken Level: 15
+Spell: MedusasStare Level: 15
+Spell: FlamingArrow Level: 15
+Spell: FlameStrike Level: 15
+Spell: DeathDarts Level: 15
+Spell: Bane Level: 15
+Spell: SummonSlimes Level: 15
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+NecromancerHat 0 0.0052%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.40525%
+FlamingIvy 3 2.10507%
+EvilRingOfEvil 0 0.000655186837256715%
+Soulshield 0 0.000655186837256715%
+Quake 0 0.000655186837256715%
+MagicShard 0 0.000655186837256715%
+WarMageGloves 0 0.000655186837256715%
+BloodGlaive 0 2.56E-05%
+PhoenixBow 0 0.000655186837256715%
+NecromancersWrath 0 0.000655186837256715%
+BatWing 2 4.7743%
+WarMageTalisman 0 0.000655186837256715%
+WarMagesCloak 0 0.000655186837256715%
+WarMagesShield 0 0.000655186837256715%
+WarMageBoots 0 0.000655186837256715%
+LightningBlade 0 0.000655186837256715%
+ArchMagiHeadDress 0 0.000655186837256715%
+HolyCape 0 0.000658453118683726%
+CapeOfLegends 0 0.000658453118683726%
+FieldPlate 0 0.0484525671%
+FullPlate 0 0.00584531256715416%
+Usurper 0 0.00584531256715%
+ShieldOfHeaven 0 0.000658453118683726%
+ShieldOfRoyalty 0 0.000658453118683726%
+MaceOfRoyalty 0 0.000659845311868373%
+Royalscape 0 5.48453118683726E-06%
+RoyalMageRobe 0 5.59001186837256E-06%
+BootsOfRoyalty 0 5.84531186837257E-06%
+BladeOfRoyalty 0 5.84531186837257E-06%
+HelmOfRoyalty 0 0.000658453118683726%
+ShieldOfWealth 0 0.00484531186837257%
+ShieldOfBurning 0 0.00484531186837257%
+Book 0 0.0158453118683726%
+ArchMagiHeadDress 0 0.000655186837256715%
+ArchmagiRobe 0 0.000655186837256715%
+DruidVestment 0 0.000655186837256715%
+DruidBoots 0 0.000655186837256715%
+DruidHelm 0 0.000655186837256715%
+BlackDagger 0 0.000655186837256715%
+DruidicStaff 0 0.000655186837256715%
+DruidGauntlets 0 0.000655186837256715%
+SoulsHelm 0 0.000655186837256715%
+HelmOfEnlightenment 0 0.000655186837256715%
+BootsOfApollo 0 0.000655186837256715%
+HandsOfApollo 0 0.000655186837256715%
+HelmetOfApollo 0 0.000655186837256715%
+ApollosGuardian 0 0.000655186837256715%
+ApolloRobes 0 0.000655186837256715%
+GoldenSword 0 0.000655186837256715%
+GoldenClaymore 0 0.000655186837256715%
+BootsOfEnlightenment 0 0.000655186837256715%
+StaffOfEnlightenment 0 0.000655186837256715%
+CrystalDagger 0 0.000655186837256715%
+Windblade 0 0.000955186837256715%
+SnowPartizan 0 0.000651868372567154%
+StormSpear 0 0.000651868372567154%
+GoldPiece 200 9.90065883%
+GoldPiece 500 0.30065875%
+VulturesHelm 0 5.63011868372567E-06%
+SantaHat 0 5.63011868372567E-06%
+HelmOfEnlightenment 0 5.63011868372567E-06%
+CrownOfDarkness 0 5.63011868372567E-06%
+CrownOfFrost 0 5.63011868372567E-06%
+HazzHat 0 5.63011868372567E-06%
+CrystalDagger 0 0.00630118683725672%
+MerlinsStaff 0 0.00630118683725672%
+Mourningstar 0 0.00630118683725672%
+IceStaff 0 5.63011868372567E-06%
+RoyalGlaive 0 5.63011868372567E-06%
+SnowPartizan 0 5.63011868372567E-06%
+MaceOfRoyalty 0 5.63011868372567E-06%
+SceptreOfTheGates 0 5.63011868372567E-06%
+ThorsHammer 0 5.63011868372567E-06%
+BowOfLightning 0 5.63011868372567E-06%
+GoldPiece 10 5.00065858%
+ZerBlade 1000 0.048%
+WuStar 1000 0.04853%
+SceptreOfTheGates 0 0%
+GauntletsOfCasting 0 9E-05%
+Soulscape 0 5.43011868372567E-06%
+IceStaff 0 0.000425518683725672%
+DruidicStaff 0 0.000425518683725672%
+SoulsRobe 0 0.000342551868372567%
+RoyalGlaive 0 0.000142551868372567%
+DivineGlaive 0 0.000242551868372567%
+StaffOfValour 0 0.000142551868372567%
+GoldenGlaive 0 0.000242551868372567%
+GoldenStaff 0 0.000242551868372567%
+SoulsStaff 0 0.000162425518683726%
+MagmaStaff 0 0.000142551868372567%
+SnowPartizan 0 0.000342551868372567%
+StaffOfEnlightenment 0 0.000142551868372567%
+StormSpear 0 0.000342551868372567%
+TigerGlaive 0 0.000242551868372567%
+Windblade 0 0.000942551868372567%
+CrystalDagger 0 0.000625518683725672%
+BloodBlade 0 0.000262551868372567%
+Shuriken 1000 3.00065852%
+DeadlyShuriken 1500 1.00000563011868%
+GreaterMageRobe 0 5.63011868372567E-06%
+GoldPiece 10 9.90065823%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.40065825%
+FlamingIvy 3 2.10065807%
+BatWing 2 4.70065843%
+GMRUNE 0 5.63011868372567E-06%
+SceptreOfTheGates 0 0%
+GauntletsOfCasting 0 9E-05%
+Soulscape 0 5.43011868372567E-06%
+IceStaff 0 0.000655186837256715%
+DruidicStaff 0 0.000655186837256715%
+SoulsRobe 0 0.000655186837256715%
+RoyalGlaive 0 0.000655186837256715%
+MagePlate 0 0.000655186837256715%
+GreaterMageRobe 0 0.000655186837256715%
+Mindblade 0 0.000655186837256715%
+FireStaff 0 0.000658186837256715%
+GoldPiece 20 9.90523%
+
+Arch Magi Stats
+Experience: 52000
+HP: 7500
+Mana: 3000
+Armor Class: 760
+Lore RAnge: 80 to 100
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 112
+Damage Avg: 150
+Damage Max: 187
+Critical Hit Min: 225
+Critical Hit Max: 300
+Cold Resist: 75
+Fire Resist: 50
+Lightning Resist: 80
+Physical Resist: 50
+Poison Resist: 50
+Holy Resist: 75
+Magic Resist: 75
+Spells:
+Spell: Earthquake Level: 20
+Spell: Icebolt Level: 20
+Spell: EnergyBolt Level: 20
+Spell: GreaterHeal Level: 20
+Spell: DarkTouch Level: 20
+Spell: Bane Level: 20
+Spell: DeathDarts Level: 20
+Spell: Curse Level: 20
+Spell: Weaken Level: 20
+Spell: SlowedActions Level: 20
+Spell: Apocalypse Level: 20
+Spell: MeteorStorm Level: 20
+Spell: Decrepify Level: 20
+Religion: 4
+Religion Kills pts: 10
+
+Item Drops
+NecromancerHat 0 0.0052%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.40525%
+FlamingIvy 3 2.10507%
+EvilRingOfEvil 0 0.000425518683725672%
+Soulshield 0 0.000425518683725672%
+Quake 0 0.000425518683725672%
+MagicShard 0 0.000425518683725672%
+WarMageGloves 0 0.000425518683725672%
+RobeOfPoison 0 0.000654534%
+DevilsRobe 0 0.0003601186837%
+RobeOfTheElements 0 0.0003154534%
+BloodGlaive 0 2.56E-05%
+PhoenixBow 0 0.000425518683725672%
+NecromancersWrath 0 0.000425518683725672%
+BatWing 2 4.7743%
+WarMageTalisman 0 0.000425518683725672%
+WarMagesCloak 0 0.000425518683725672%
+WarMagesShield 0 0.000425518683725672%
+WarMageBoots 0 0.000425518683725672%
+LightningBlade 0 0.000425518683725672%
+ArchMagiHeadDress 0 0.000425518683725672%
+Book 0 0.01526704242335%
+ArchMagiHeadDress 0 0.000425518683725672%
+ArchmagiRobe 0 0.000425518683725672%
+DruidVestment 0 0.000425518683725672%
+DruidBoots 0 0.000425518683725672%
+DruidHelm 0 0.000425518683725672%
+BlackDagger 0 0.000425518683725672%
+DruidicStaff 0 0.000425518683725672%
+DruidGauntlets 0 0.000425518683725672%
+SoulsHelm 0 0.000425518683725672%
+HelmOfEnlightenment 0 0.000425518683725672%
+BootsOfApollo 0 0.000425518683725672%
+HandsOfApollo 0 0.000425518683725672%
+HelmetOfApollo 0 0.000425518683725672%
+ApollosGuardian 0 0.000425518683725672%
+ApolloRobes 0 0.000425518683725672%
+GoldenSword 0 0.000425518683725672%
+GoldenClaymore 0 0.000425518683725672%
+BootsOfEnlightenment 0 0.000425518683725672%
+StaffOfEnlightenment 0 0.000425518683725672%
+CrystalDagger 0 0.000925518683725672%
+Windblade 0 0.000425518683725672%
+SnowPartizan 0 0.000425186837256715%
+StormSpear 0 0.000425186837256715%
+SceptreOfTheGates 0 0%
+GauntletsOfCasting 0 9E-05%
+Soulscape 0 5.43011868372567E-06%
+IceStaff 0 0.000425518683725672%
+DruidicStaff 0 0.000425518683725672%
+SoulsRobe 0 0.000342551868372567%
+RoyalGlaive 0 0.000142551868372567%
+DivineGlaive 0 0.000242551868372567%
+StaffOfValour 0 0.000142551868372567%
+GoldenGlaive 0 0.000242551868372567%
+GoldenStaff 0 0.000242551868372567%
+SoulsStaff 0 0.000162425518683726%
+MagmaStaff 0 0.000142551868372567%
+SnowPartizan 0 0.000342551868372567%
+StaffOfEnlightenment 0 0.000142551868372567%
+StormSpear 0 0.000342551868372567%
+TigerGlaive 0 0.000242551868372567%
+Windblade 0 0.000342551868372567%
+CrystalDagger 0 0.00262551868372567%
+BloodBlade 0 0.000262551868372567%
+MagePlate 0 0.000425518683725672%
+GreaterMageRobe 0 0.000425518683725672%
+RedMageRobe 0 0.000425518683725672%
+GrayMageRobe 0 0.000425518683725672%
+DruidicRobe 0 0.000425518683725672%
+Burningscape 0 5.51868372567154E-05%
+Mindblade 0 0.000425518683725672%
+FireStaff 0 0.000425818683725672%
+GoldPiece 20 9.90523%
+
+Small Scorpion Stats
+Experience: 200
+HP: 200
+Mana: 30
+Armor Class: 0
+Lore RAnge: 50 to 70
+Taming Range: 25 to 45
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 5
+Damage Max: 6
+Critical Hit Min: 7
+Critical Hit Max: 10
+Cold Resist: 0
+Fire Resist: 5
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+VialOfVenom 1 7.0002861%
+GoldPiece 1 1.00000563011868%
+
+Lost Spirit Stats
+Experience: 65000
+HP: 1500
+Mana: 255
+Armor Class: 325
+Lore RAnge: 100 to 120
+Taming Range: 165 to 185
+Attack Speed (0 is fast): 0
+Damage Min: 150
+Damage Avg: 200
+Damage Max: 250
+Critical Hit Min: 300
+Critical Hit Max: 400
+Cold Resist: 40
+Fire Resist: 40
+Lightning Resist: 46
+Physical Resist: 22
+Poison Resist: 40
+Holy Resist: 0
+Magic Resist: 40
+Spells:
+Spell: FlameStrike Level: 10
+Spell: DarkTouch Level: 10
+Spell: MedusasStare Level: 10
+Spell: Curse Level: 10
+Spell: Weaken Level: 10
+Spell: SlowedActions Level: 10
+Spell: Teleport Level: 10
+Religion: 2
+Religion Kills pts: 7
+
+Item Drops
+SoulsRobe 0 0.000263011868372567%
+SoulBlade 0 0.000263011868372567%
+Soulscape 0 5.43011868372567E-06%
+MasterSword 0 5.16301186837257E-05%
+StormSpear 0 0.00363011868372567%
+GoldPiece 100 0.0002898%
+SoulsStaff 0 0.000255056673725671%
+ValourRing 0 0.00563011868372567%
+Ring 0 0.04898%
+CourageRing 0 0.00563011868372567%
+Ring3 0 0.00563011868372567%
+
+Nightblade Stats
+Experience: 30000
+HP: 4500
+Mana: 2500
+Armor Class: 500
+Lore RAnge: 70 to 90
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 56
+Damage Avg: 75
+Damage Max: 93
+Critical Hit Min: 112
+Critical Hit Max: 150
+Cold Resist: 20
+Fire Resist: 0
+Lightning Resist: 20
+Physical Resist: 15
+Poison Resist: 80
+Holy Resist: 80
+Magic Resist: 20
+Spells:
+Spell: GreaterHeal Level: 12
+Spell: SlowedActions Level: 12
+Spell: Fireball Level: 12
+Spell: PoisonCloud Level: 12
+Spell: DeathDarts Level: 12
+Spell: Curse Level: 12
+Spell: Weaken Level: 12
+Spell: SlowedActions Level: 12
+Religion: 5
+Religion Kills pts: 10
+
+Item Drops
+GoldPiece 50 10%
+Katana 0 0.105818683725672%
+GoldPiece 1000 0.105%
+WarMageKatana 0 5.21818683725671E-06%
+GoldenSword 0 5.81868372567112E-06%
+MithrilKatana 0 0.000218683725671542%
+SpartanKopis 0 0.00181868372567154%
+BloodCrown 0 0.00818683725671542%
+MaceAndChain 0 0.00563011868372567%
+Mourningstar 0 5.63011868372567E-06%
+DivineMourningstar 0 0.000563011868372567%
+PinkMourningstar 0 9.56301186837257E-05%
+AssassinBlade 0 5.53011868372567E-05%
+SkullBlade 0 5.55301186837257E-06%
+BlueSkullBlade 0 5.55301186837257E-06%
+BlackSkullBlade 0 5.53011868372567E-05%
+HalloweenBlade 0 5.53011868372567E-05%
+Zangetsu 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+SoulsStaff 0 0.000255056673725671%
+HelmOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+ThievesTome 0 5.25301186837257E-06%
+SwordOfLostSouls 0 5.53011868372567E-05%
+BootsOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+HelmOfLostSouls 0 5.53011868372567E-05%
+PlateOfLostSouls 0 5.53011868372567E-05%
+SagittariusHelm 0 5.81868372567154E-06%
+SagittariusPlate 0 0.00181868372567154%
+BootsOfSagittarius 0 0.00181868372567154%
+GoldPiece 10 5.0758%
+ThievesTome 0 5.25301186837257E-06%
+ZerBlade 1000 0.09%
+WuStar 1000 0.00553%
+Shuriken 1000 3.00552%
+DeadlyShuriken 1500 1.00000581868373%
+Sai 0 0.00581868372567154%
+Katana 0 0.00581868372567154%
+TouchOfDeath 0 0.00581868372567154%
+ThievesShadowCloak 0 0.000281868372567154%
+
+Assassin Stats
+Experience: 25000
+HP: 4500
+Mana: 1500
+Armor Class: 420
+Lore RAnge: 40 to 60
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 60
+Damage Avg: 80
+Damage Max: 100
+Critical Hit Min: 120
+Critical Hit Max: 160
+Cold Resist: 25
+Fire Resist: 0
+Lightning Resist: 25
+Physical Resist: 25
+Poison Resist: 80
+Holy Resist: 80
+Magic Resist: 25
+Spells:
+Spell: GreaterHeal Level: 5
+Religion: 5
+Religion Kills pts: 10
+
+Item Drops
+AssassinBlade 0 2.81868372567154E-05%
+MithrilKatana 0 0.000218683725671542%
+GoldenKatana 0 5.18683725671542E-05%
+ThinkingCap 0 0.00529%
+WarMageKatana 0 5.21818683725671E-06%
+SpartanKopis 0 0.00818683725671542%
+CloakOfDarkness 0 0.000218683725671542%
+BootsOfDarkness 0 0.000218683725671542%
+ThievesShadowCloak 0 0.00818683725671542%
+Nightscape 0 0.000218683725671542%
+GoldPiece 10 5.0758%
+MaceAndChain 0 0.00563011868372567%
+Mourningstar 0 0.00125630118683726%
+DivineMourningstar 0 0.000863011868372567%
+PinkMourningstar 0 0.000456301186837257%
+AssassinBlade 0 0.000255301186837257%
+SkullBlade 0 5.55301186837257E-06%
+BlueSkullBlade 0 5.55301186837257E-06%
+BlackSkullBlade 0 5.53011868372567E-05%
+HalloweenBlade 0 5.53011868372567E-05%
+Zangetsu 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+SoulsStaff 0 0.000255056673725671%
+HelmOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+ThievesTome 0 5.25301186837257E-06%
+SwordOfLostSouls 0 5.53011868372567E-05%
+BootsOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+HelmOfLostSouls 0 5.53011868372567E-05%
+PlateOfLostSouls 0 5.53011868372567E-05%
+ZerBlade 1000 0.09%
+WuStar 1000 0.00553%
+ThievesTome 0 5.25301186837257E-06%
+Shuriken 1000 3.00552%
+DeadlyShuriken 1500 1.00000581868373%
+Sai 0 0.00581868372567154%
+Katana 0 0.00581868372567154%
+
+Bandit Stats
+Experience: 2000
+HP: 750
+Mana: 0
+Armor Class: 18
+Lore RAnge: 10 to 30
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 25
+Fire Resist: -10
+Lightning Resist: 30
+Physical Resist: 15
+Poison Resist: 50
+Holy Resist: 0
+Magic Resist: 25
+Spells:
+Spell: LesserHeal Level: 5
+Spell: Fireball Level: 5
+Spell: PoisonCloud Level: 5
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+ShockingSword 0 0.004801%
+LeatherGloves 0 0.105630118683726%
+MaceAndChain 0 0.00563011868372567%
+Mourningstar 0 5.63011868372567E-06%
+DivineMourningstar 0 0.000863011868372567%
+PinkMourningstar 0 0.000356301186837257%
+AssassinBlade 0 5.25530118683726E-05%
+SkullBlade 0 5.55301186837257E-06%
+BlueSkullBlade 0 5.55301186837257E-06%
+BlackSkullBlade 0 5.53011868372567E-05%
+HalloweenBlade 0 5.53011868372567E-05%
+Zangetsu 0 5.53011868372567E-05%
+SwordOfLostSouls 0 5.53011868372567E-05%
+SoulsStaff 0 0.000255056673725671%
+HelmOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+PrintingPress 0 0.0580118683725672%
+ThievesTome 0 5.25301186837257E-06%
+SwordOfLostSouls 0 5.53011868372567E-05%
+BootsOfLostSouls 0 5.53011868372567E-05%
+HandsOfLostSouls 0 5.53011868372567E-05%
+HelmOfLostSouls 0 5.53011868372567E-05%
+PlateOfLostSouls 0 5.53011868372567E-05%
+PlatinumPiece 2 0.0259530118683726%
+PlatinumArrow 83 0.00495301186837257%
+GoldPiece 28 1.5002%
+
+Necromancer Stats
+Experience: 20000
+HP: 2350
+Mana: 255
+Armor Class: 100
+Lore RAnge: 80 to 100
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 37
+Damage Avg: 50
+Damage Max: 62
+Critical Hit Min: 75
+Critical Hit Max: 100
+Cold Resist: 25
+Fire Resist: 65
+Lightning Resist: 65
+Physical Resist: 25
+Poison Resist: 65
+Holy Resist: 0
+Magic Resist: 40
+Spells:
+Spell: LesserHeal Level: 10
+Spell: PoisonCloud Level: 10
+Spell: FlameStrike Level: 10
+Spell: DarkTouch Level: 10
+Spell: MedusasStare Level: 10
+Spell: Curse Level: 10
+Spell: Weaken Level: 10
+Spell: ChainLightning Level: 10
+Spell: DeathDarts Level: 10
+Spell: SlowedActions Level: 10
+Spell: Teleport Level: 5
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SoulBlade 0 0.000263011868372567%
+CombustionPendant 0 0.000156301186837257%
+PlateOfDarkness 0 0.00163011868372567%
+NecromancerHat 0 0.000263011868372567%
+BootsOfDarkness 0 0.000263011868372567%
+TouchOfDeath 0 0.00163011868372567%
+FragileBladeOfChaos 0 2.63011868372567E-05%
+GoldPiece 10 7.5002884%
+GoldPiece 500 0.004897%
+GauntletsOfDead 0 0.00163011868372567%
+
+Mage Guard Stats
+Experience: 0
+HP: 3500
+Mana: 255
+Armor Class: 0
+Lore RAnge: 10 to 30
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 37
+Damage Avg: 50
+Damage Max: 62
+Critical Hit Min: 75
+Critical Hit Max: 100
+Cold Resist: 10
+Fire Resist: 10
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 10
+Holy Resist: 50
+Magic Resist: 20
+Spells:
+Spell: GreaterHeal Level: 10
+Spell: PoisonCloud Level: 10
+Spell: Restoration Level: 10
+Spell: Exorcism Level: 10
+Spell: FlameStrike Level: 10
+Spell: MedusasStare Level: 10
+Spell: HealingWind Level: 10
+Spell: Banish Level: 1
+Spell: EnergyBolt Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+ElixirOfMana 15 10%
+MageRobe 0 0.00563011868372567%
+WizardHat 0 0.00563011868372567%
+ArcticBoots 0 0.00163011868372567%
+GauntletsOfCasting 0 0.000263011868372567%
+WizardsStaff 0 0.00563011868372567%
+
+High Centaur Stats
+Experience: 15000
+HP: 2200
+Mana: 750
+Armor Class: 350
+Lore RAnge: 168 to 188
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 2
+Damage Min: 48
+Damage Avg: 65
+Damage Max: 81
+Critical Hit Min: 97
+Critical Hit Max: 130
+Cold Resist: 75
+Fire Resist: 75
+Lightning Resist: 75
+Physical Resist: 50
+Poison Resist: 20
+Holy Resist: 90
+Magic Resist: 90
+Spells:
+Spell: GreaterHeal Level: 6
+Spell: Nova Level: 6
+Spell: EnergyBolt Level: 6
+Spell: Weaken Level: 6
+Spell: FlameStrike Level: 6
+Religion: 4
+Religion Kills pts: 6
+
+Item Drops
+Ruin 0 0.000286301186837257%
+EvilRingOfEvil 0 0.000286301186837257%
+SoulBlade 0 0.000286301186837257%
+EvilRingOfEvil 0 0.000286301186837257%
+GoldTippedArrow 600 0.0486301186837257%
+WizardryRing 0 0.00028553%
+Slayer 0 0.000886301186837257%
+HandCrossbow 0 0.000286301186837257%
+BowOfLightning 0 0.000886301186837257%
+WarBow 0 0.000486301186837257%
+ArcticBow 0 0.000486301186837257%
+PhoenixBow 0 0.000486301186837257%
+PinkBow 0 0.000286301186837257%
+MithrilArrow 200 0.00685%
+ShortBow 0 0.10028536%
+SpartanBow 0 0.000286301186837257%
+Slayer 0 0.0006125%
+ArcticBow 0 0.000525%
+Burningscape 0 0.0004125%
+Frostscape 0 0.0002125%
+Goldscape 0 0.0002425%
+Magmascape 0 0.00025125%
+Nightscape 0 0.0006125%
+Pinkscape 0 0.0002125%
+Royalscape 0 0.0003125%
+Soulscape 0 0.0005125%
+Voidscape 0 0.0002125%
+PinkBow 0 0.0006125%
+PhoenixBow 0 0.000825%
+SoulsBow 0 0.00050125%
+WarBow 0 0.000525%
+HandCrossbow 0 0.000286301186837257%
+BowOfLightning 0 0.000786301186837257%
+GoldPiece 3 4.7002854%
+SerpentShield 0 0.000286301186837257%
+GlovesOfFrost 0 0.000286301186837257%
+MiningHat 0 0.000286301186837257%
+Arrow 127 10%
+ArrowPlus1 345 3.30028532%
+ArrowPlus2 304 1.70028583%
+ArrowPlus3 296 0.80028543%
+GoldenHammer 10 0.0002865%
+MetalTippedArrow 280 0.50028575%
+PoisonArrow 316 0.30028569%
+PlatinumArrow 313 0.012501569%
+GoldTippedArrow 320 0.058569%
+MithrilArrow 323 0.0378525199021069%
+ElvenMithrilArrow 235 0.0452863011868373%
+ShortBow 0 0.068595%
+LongBow 0 0.0486301186837257%
+ElvenMithrilArrow 200 0.0385%
+BowOfLightning 0 0.000886301186837257%
+BowOfBurning 0 0.000886301186837257%
+SoulsBow 0 0.000286301186837257%
+GoldenBow 0 0.000286301186837257%
+SpartanBow 0 0.000285%
+DivineBow 0 2.15E-05%
+MagmaBow 0 0.000415%
+DarkBow 0 0.000313512836%
+GoldenBow 0 0.0001485%
+KnightPlate 0 0.000886301186837257%
+Spear 0 0.0486301186837257%
+GoldPiece 15 2.80028541%
+PlatedBoots 0 0.000286301186837257%
+Katana 0 0.048563%
+
+Monk Stats
+Experience: 7200
+HP: 1500
+Mana: 0
+Armor Class: 225
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 18
+Damage Avg: 25
+Damage Max: 31
+Critical Hit Min: 37
+Critical Hit Max: 50
+Cold Resist: 50
+Fire Resist: 20
+Lightning Resist: 50
+Physical Resist: 20
+Poison Resist: 50
+Holy Resist: 90
+Magic Resist: 80
+Religion: 4
+Religion Kills pts: 3
+
+Item Drops
+Bo 0 0.04808%
+ClothCap 0 0.004804%
+ClothGloves 0 0.004804%
+Boots 0 0.002804%
+GoldPiece 1 9.90028993011869%
+VioletDress 0 0.0002865%
+MonkRobe 0 0.00489930118683726%
+MithrilRobe 0 0.00289930125671542%
+HeavyChainmail 0 0.0481%
+FullPlate 0 0.00058993012567153%
+LightPlate 0 0.000382567105%
+GoldPlate 0 0.000382567181%
+LightGauntlets 0 0.00482567105%
+Broadsword 0 0.00482567105%
+GreatHelm 0 0.00482567166%
+NasalHelm 0 0.00482567105%
+KettleHelm 0 0.00022567105%
+HolyCape 0 0.000289930125671542%
+WitchingDress 0 0.000258812567154159%
+RoseRobe 0 0.000281256715415902%
+HolyCap 0 0.000489930125671916%
+DaemonSoccerBall 2 0.000489930125671542%
+BloodRobe 0 0.000299301256715416%
+WolfskinRobe 0 0.000299301256715416%
+MonkRobe 0 0.0009911%
+DevilsRobe 0 0.000151186837%
+SpidersilkRobe 0 0.000993012567195%
+ArcticBoots 0 0.00099301256719155%
+ArcticWinterBoots 0 0.00099301256719155%
+BlackLeatherSandals 0 0.0004891550221035%
+GoldenSword 0 0.000299301186837257%
+GoldenClaymore 0 0.000299301256715415%
+GoldenGlaive 0 0.000299301256715415%
+GoldenStaff 0 0.000299301256715415%
+BootsOfBurning 0 0.000567154155022103%
+BootsOfDarkness 0 0.000299301186837257%
+FlamingFeet 0 0.000299301256715415%
+PilgrimShoes 0 0.000299301186837257%
+PinkBoots 0 0.000389930118683726%
+PlagueBoots 0 0.000389930118683726%
+PlateBoots 0 0.000389930125671542%
+PlatedBoots 0 0.000389930125671542%
+Sandals 0 0.000291550221035%
+ThievesShadowCloak 0 0.000585993012567154%
+AngelicRobe 0 0.000289930118683726%
+MasterRobe 0 6.89930118683726E-05%
+GamemasterRobe 0 2.89930118683726E-05%
+MasterStrawHat 0 9.89930118683726E-05%
+RedMageRobe 0 0.0004895%
+SoulsRobe 0 0.0004895%
+GoldenRobe 0 0.00024895%
+DivineRobe 0 0.00034895%
+ArchmagiRobe 0 0.00034895%
+ApolloRobes 0 0.00034895%
+AngelicRobe 0 0.00024895%
+ChaosRobe 0 0.0004895%
+ArcticRobe 0 0.004895%
+ApolloRobes 0 0.000295%
+PlatinumRobe 0 4.895E-05%
+PlagueRobe 0 4.895E-05%
+GreaterMageRobe 0 0.0004895%
+MageRobe 0 0.004895%
+MageRobe 0 0.004895%
+OldBoots 0 0.00050485%
+GrayMageRobe 0 0.000299301256715125%
+
+Slave Stats
+Experience: 75
+HP: 55
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 40 to 60
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 5
+Damage Max: 6
+Critical Hit Min: 7
+Critical Hit Max: 10
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 20
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Dagger 0 2.5002826%
+ShortSword 0 0.2002812%
+Robe 0 10%
+ClothGloves 0 2.5002829%
+GoldPiece 1 5.0002804%
+Buckler 0 0.4002823%
+LeatherGloves 0 0.2002812%
+Boots 0 1.00563011868373%
+OldBoots 0 0.00563011868372567%
+Staff 0 0.00563011868372567%
+Pickaxe 0 0.04834%
+
+Winter Wolf Stats
+Experience: 45000
+HP: 9001
+Mana: 1000
+Armor Class: 900
+Lore RAnge: 65 to 85
+Taming Range: 172 to 192
+Attack Speed (0 is fast): 0
+Damage Min: 112
+Damage Avg: 150
+Damage Max: 187
+Critical Hit Min: 225
+Critical Hit Max: 300
+Cold Resist: 95
+Fire Resist: 25
+Lightning Resist: 50
+Physical Resist: 25
+Poison Resist: 50
+Holy Resist: 50
+Magic Resist: 50
+Spells:
+Spell: GreaterHeal Level: 10
+Spell: IceNova Level: 10
+Spell: EnergyBolt Level: 10
+Spell: Icebolt Level: 10
+Religion: 3
+Religion Kills pts: 6
+
+Item Drops
+GlovesOfFrost 0 0.000863011868372567%
+Fur 3 3.30563011868373%
+GoldPiece 15 9.90000563011868%
+GauntletsOfCasting 0 0.000263011868372567%
+CrownOfFrost 0 0.000756068372567154%
+SwordOfFrost 0 0.000756068372567154%
+ShieldOfFrost 0 0.000863011868372567%
+Frostscape 0 4.63011868372567E-05%
+ArcticBow 0 0.00026301186837%
+FrostyFace 0 0.000263011868372567%
+IceStaff 0 0.000256068372567154%
+CrystalDagger 0 0.000256068372567154%
+KnightPlate 0 0.000256068372567154%
+KrakenScales 0 0.000250683725671542%
+GlovesOfFrost 0 0.000650683725671542%
+CyclopeanPendant 0 0.000150683725671542%
+ArcticWitchHat 0 0.000356068372567154%
+ArcticRingmail 0 0.000356068372567154%
+DivineArcticBlade 0 0.000323011868372567%
+ArcticWinterBoots 0 0.000456068372567154%
+ArcticBlade 0 0.000456068372567154%
+
+Cobra Stats
+Experience: 400
+HP: 30
+Mana: 30
+Armor Class: 0
+Lore RAnge: 15 to 35
+Taming Range: 40 to 60
+Attack Speed (0 is fast): 0
+Damage Min: 7
+Damage Avg: 10
+Damage Max: 12
+Critical Hit Min: 15
+Critical Hit Max: 20
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: DarkTouch Level: 9
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+SnakeSkin 2 9.000286%
+SnakeSkin 1 0.500005630118684%
+SerpentShield 0 0.00163011868372567%
+AssassinBlade 0 0.000263011868372567%
+
+Hungry Dog Stats
+Experience: 50
+HP: 40
+Mana: 0
+Armor Class: 0
+Lore RAnge: 5 to 25
+Taming Range: 7 to 27
+Attack Speed (0 is fast): 1
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 5
+Holy Resist: 0
+Magic Resist: 5
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+PileOfBones 1 0.300281%
+Fur 1 10%
+Log 10 0.300005630118684%
+LegOfTurkey 1 1.3002865%
+LeatherCap 0 0.04822%
+LeatherJacket 0 0.00563011868372567%
+LeatherGloves 0 0.00563011868372567%
+Sandals 0 0.00563011868372567%
+OldBoots 0 0.00630118683725672%
+Ring 0 0.00563011868372567%
+
+Medusa Stats
+Experience: 15000
+HP: 950
+Mana: 255
+Armor Class: 75
+Lore RAnge: 80 to 100
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 56
+Damage Avg: 75
+Damage Max: 93
+Critical Hit Min: 112
+Critical Hit Max: 150
+Cold Resist: 99
+Fire Resist: 50
+Lightning Resist: 50
+Physical Resist: 50
+Poison Resist: 80
+Holy Resist: -10
+Magic Resist: 50
+Spells:
+Spell: LesserHeal Level: 10
+Spell: PoisonCloud Level: 10
+Spell: DarkTouch Level: 10
+Spell: MedusasStare Level: 10
+Spell: Weaken Level: 10
+Spell: Curse Level: 10
+Religion: 2
+Religion Kills pts: 5
+
+Item Drops
+SoulBlade 0 0.000230118683725672%
+GauntletsOfDead 0 0.000263011868372567%
+CombustionPendant 0 0.000156301186837257%
+GoldPiece 10 7.80028%
+TouchOfDeath 0 0.005825%
+DemonSkull 1 0.023804835%
+GauntletsOfCasting 0 5.63011868376715E-06%
+ReflectingPlate 0 0.00163011868372567%
+SnowPartizan 0 0.000263011868372567%
+ElixirOfMana 10 0.500005630118684%
+NecromancerHat 0 0.0052%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.40525%
+FlamingIvy 3 2.10507%
+EvilRingOfEvil 0 0.000251868372567154%
+Soulshield 0 0.000251868372567154%
+Quake 0 0.000251868372567154%
+MagicShard 0 0.000251868372567154%
+WarMageGloves 0 0.000251868372567154%
+BloodGlaive 0 2.56E-05%
+PhoenixBow 0 0.000251868372567154%
+NecromancersWrath 0 0.000251868372567154%
+BatWing 2 4.7743%
+WarMageTalisman 0 0.000251868372567154%
+WarMagesCloak 0 0.000251868372567154%
+WarMagesShield 0 0.000251868372567154%
+WarMageBoots 0 0.000251868372567154%
+LightningBlade 0 0.000251868372567154%
+ArchMagiHeadDress 0 0.000251868372567154%
+ArchMagiHeadDress 0 0.000251868372567154%
+ArchmagiRobe 0 0.000251868372567154%
+DruidVestment 0 0.000251868372567154%
+DruidBoots 0 0.000251868372567154%
+DruidHelm 0 0.000251868372567154%
+BlackDagger 0 0.000251868372567154%
+DruidicStaff 0 0.000251868372567154%
+DruidGauntlets 0 0.000251868372567154%
+SoulsHelm 0 0.000251868372567154%
+HelmOfEnlightenment 0 0.000251868372567154%
+BootsOfApollo 0 0.000251868372567154%
+HandsOfApollo 0 0.000251868372567154%
+HelmetOfApollo 0 0.000251868372567154%
+ApollosGuardian 0 0.000251868372567154%
+ApolloRobes 0 0.000251868372567154%
+GoldenSword 0 0.000251868372567154%
+GoldenClaymore 0 0.000251868372567154%
+BootsOfEnlightenment 0 0.000251868372567154%
+StaffOfEnlightenment 0 0.000251868372567154%
+CrystalDagger 0 0.000251868372567154%
+Windblade 0 0.000251868372567154%
+SnowPartizan 0 0.000218683725671542%
+StormSpear 0 0.000218683725671542%
+SceptreOfTheGates 0 0%
+GauntletsOfCasting 0 9E-05%
+Soulscape 0 5.43011868372567E-06%
+IceStaff 0 0.000251868372567154%
+DruidicStaff 0 0.000251868372567154%
+SoulsRobe 0 0.000251868372567154%
+RoyalGlaive 0 0.000251868372567154%
+MagePlate 0 0.000251868372567154%
+GreaterMageRobe 0 0.000251868372567154%
+Book 0 0.0066704242335%
+Mindblade 0 0.000251868372567154%
+FireStaff 0 0.000281868372567154%
+GoldPiece 20 9.90523%
+
+Mithril Slime Stats
+Experience: 4000
+HP: 820
+Mana: 0
+Armor Class: 20
+Lore RAnge: 0 to 20
+Taming Range: 155 to 175
+Attack Speed (0 is fast): 0
+Damage Min: 41
+Damage Avg: 55
+Damage Max: 68
+Critical Hit Min: 82
+Critical Hit Max: 110
+Cold Resist: 20
+Fire Resist: 50
+Lightning Resist: 100
+Physical Resist: 10
+Poison Resist: 70
+Holy Resist: 20
+Magic Resist: 50
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+MithrilRobe 0 0.00163011868372567%
+MithrilBattleAxe 0 0.00163011868372567%
+MithrilIngot 5 0.00530118683725672%
+GoldPiece 3 6.60028%
+MithrilKatana 0 0.000263011868372567%
+MithrilArrow 212 0.00530118683725672%
+ElvenMithrilArrow 208 0.00563011868372567%
+MithrilMask 0 0.000263011868372567%
+MithrilGauntlets 0 0.00163011868372567%
+MithrilOre 5 0.00563011868372567%
+
+Town Guard Stats
+Experience: 0
+HP: 125000
+Mana: 4000
+Armor Class: 0
+Lore RAnge: 20 to 40
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 300
+Damage Avg: 400
+Damage Max: 500
+Critical Hit Min: 600
+Critical Hit Max: 800
+Cold Resist: 65
+Fire Resist: 10
+Lightning Resist: -33
+Physical Resist: 80
+Poison Resist: 33
+Holy Resist: 100
+Magic Resist: 99
+Spells:
+Spell: GreaterHeal Level: 15
+Spell: ChainLightning Level: 10
+Spell: FlameStrike Level: 10
+Spell: FlamingArrow Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Doughnut 1 2.5002829%
+Cookie 1 2.5002826%
+Apple 1 2.5002829%
+FullPlate 0 5.63011868372567E-06%
+Ringmail 0 0.00028%
+KiteShield 0 0.00028%
+BastardSword 0 0.100284%
+ApplePie 1 2.5002829%
+
+Touched One Stats
+Experience: 150000
+HP: 42000
+Mana: 2500
+Armor Class: 1500
+Lore Range: 80 to 100
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 337
+Damage Avg: 450
+Damage Max: 562
+Critical Hit Min: 675
+Critical Hit Max: 900
+Cold Resist: 99
+Fire Resist: 15
+Lightning Resist: 99
+Physical Resist: 95
+Poison Resist: 99
+Holy Resist: 25
+Magic Resist: 99
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: MedusasStare Level: 20
+Spell: DeathDarts Level: 20
+Spell: Bane Level: 20
+Spell: Curse Level: 20
+Spell: Weaken Level: 20
+Spell: SlowedActions Level: 20
+Spell: FlameStrike Level: 20
+Spell: Apocalypse Level: 20
+Spell: Banish Level: 20
+Religion: 2
+Religion Kills pts: 20
+
+Item Drops
+GauntletsOfDead 0 0.00416301186837257%
+CapeOfLegends 0 5.63011868372567E-06%
+BlackLeatherSandals 0 5.63011868372567E-06%
+GoldPiece 100 9.6002894%
+GoldPiece 1000 0.1002821%
+DemonSkull 1 0.0563011868372567%
+MagmaStaff 0 0.000282412502101251%
+EliteGauntlets 0 0.00563011868372567%
+AxeOfDarkness 0 5.63011868372567E-06%
+NecromancerHat 0 5.63011868372567E-06%
+MasterRobe 0 5.63011868372567E-06%
+Caledfwlch 0 1.63011868372567E-05%
+SauronsShield 0 5.63011868372567E-06%
+PlateOfDarkness 0 5.63011868372567E-06%
+FlamingFeet 0 5.63011868372567E-06%
+GamemasterRobe 0 5.63011868372567E-06%
+GreatHelm 0 5.63011868372567E-06%
+TitanClaymore 0 5.63011868372567E-06%
+BloodCrown 0 5.63011868372567E-06%
+BlackRazor 0 5.63011868372567E-06%
+KrakenScales 0 5.63011868372567E-06%
+TigerCloak 0 5.63011868372567E-06%
+ArcticRobe 0 5.63011868372567E-06%
+ChaosHammer 0 0.00416301186837257%
+Katana 0 0.00563011868372567%
+Nodachi 0 0.00563011868372567%
+CrownOfDarkness 0 5.63011868372567E-06%
+BootsOfDarkness 0 5.63011868372567E-06%
+Nightscape 0 5.63011868372567E-06%
+GamemasterRobe 0 5.63011868372567E-06%
+ArmorOfHelios 0 5.63011868372567E-06%
+AssassinBlade 0 5.63011868372567E-06%
+AngelicRobe 0 5.63011868372567E-06%
+CloakOfDarkness 0 5.63011868372567E-06%
+MithrilKatana 0 5.63011868372567E-06%
+TouchOfDeath 0 5.63011868372567E-06%
+ZerBlade 200 0.0463011868372567%
+Bliss 0 0.00416301186837257%
+BloodCrown 0 0.00416301186837257%
+ArchMagiHeadDress 0 5.63011868372567E-06%
+HelmOfBurning 0 5.63011868372567E-06%
+VulturesHelm 0 5.63011868372567E-06%
+SantaHat 0 5.63011868372567E-06%
+HelmOfEnlightenment 0 5.63011868372567E-06%
+CrownOfDarkness 0 5.63011868372567E-06%
+CrownOfFrost 0 5.63011868372567E-06%
+HazzHat 0 5.63011868372567E-06%
+DarkVaderHelm 0 5.63011868372567E-06%
+MithrilMask 0 5.63011868372567E-06%
+MagmaBlade 0 5.63011868372567E-06%
+MasterRobe 0 5.63011868372567E-06%
+GamemasterRobe 0 6.12502210351259E-05%
+CrystalDagger 0 5.63011868372567E-06%
+MerlinsStaff 0 5.63011868372567E-06%
+SwordOfFrost 0 5.63011868372567E-06%
+SpartanSword 0 5.63011868372567E-06%
+SpartanBow 0 5.63011868372567E-06%
+Mindblade 0 5.63011868372567E-06%
+Excalibur 0 5.63011868372567E-06%
+Caledfwlch 0 5.63011868372567E-06%
+DivineArcticBlade 0 5.63011868372567E-06%
+ArcticBow 0 5.63011868372567E-06%
+WarBow 0 5.63011868372567E-06%
+GoldenAxe 0 5.63011868372567E-06%
+AxeOfDarkness 0 5.63011868372567E-06%
+Mourningstar 0 5.63011868372567E-06%
+IceStaff 0 5.63011868372567E-06%
+RoyalGlaive 0 5.63011868372567E-06%
+SnowPartizan 0 5.63011868372567E-06%
+MaceOfRoyalty 0 5.63011868372567E-06%
+SceptreOfTheGates 0 5.63011868372567E-06%
+ThorsHammer 0 5.63011868372567E-06%
+BowOfLightning 0 5.63011868372567E-06%
+SagittariusPlate 0 5.63011868372567E-06%
+SagittariusHelm 0 5.63011868372567E-06%
+BootsOfSagittarius 0 5.63011868372567E-06%
+DruidicStaff 0 5.63011868372567E-06%
+FireStaff 0 5.63011868372567E-06%
+BlackRazor 0 5.63011868372567E-06%
+MithrilKatana 0 5.63011868372567E-06%
+Mindblade 0 5.63011868372567E-06%
+Masamune 0 5.63011868372567E-06%
+KingPlate 0 5.63011868372567E-06%
+ElvenMithrilArrow 1500 0.1002875%
+SoulBlade 0 5.63011868372567E-06%
+WuStar 200 5.63011868372567E-06%
+MithrilArrow 1000 5.63011868372567E-06%
+BowOfLightning 0 5.63011868372567E-06%
+WarBow 0 5.63011868372567E-06%
+ThievesShadowCloak 0 5.63011868372567E-06%
+Voidscape 0 5.63011868372567E-06%
+VoidBoots 0 5.63011868372567E-06%
+VoidHelm 0 5.63011868372567E-06%
+KingPlate 0 5.63011868372567E-06%
+Excalibur 0 5.63011868372567E-06%
+Nightscape 0 5.63011868372567E-06%
+Angrboda 0 5.63011868372567E-06%
+BloodCrown 0 5.63011868372567E-06%
+SagittariusHelm 0 5.63011868372567E-06%
+SagittariusPlate 0 5.63011868372567E-06%
+BootsOfSagittarius 0 5.63011868372567E-06%
+SantaHat 0 5.63011868372567E-06%
+ZerBlade 1000 0.00028%
+WuStar 1000 0.0002853%
+Shuriken 1000 3.0002852%
+DeadlyShuriken 1500 1.00000563011868%
+GuardianTalisman 0 0.00563011868372567%
+WarriorTalisman 0 0.00563011868372567%
+MageTalisman 0 0.00563011868372567%
+SwordOfFrost 0 0.00316301186837257%
+SpartanArmor 0 0.00416301186837257%
+SpartanHelm 0 0.00416301186837257%
+SpartanSword 0 0.00416301186837257%
+SpartanBow 0 0.00416301186837257%
+RingOfFire 0 5.63011868372567E-06%
+RingOfWizardry 0 5.63011868372567E-06%
+RingOfCelerity 0 5.63011868372567E-06%
+RingOfAbjuration 0 5.63011868372567E-06%
+Excalibur 0 5.63011868372567E-06%
+GreaterMageRobe 0 5.63011868372567E-06%
+Masamune 0 5.63011868372567E-06%
+DarkVaderHelm 0 5.63011868372567E-06%
+KingPlate 0 5.63011868372567E-06%
+ArchmagiRobe 0 5.63011868372567E-06%
+Caledfwlch 0 5.63011868372567E-06%
+ArcticBow 0 5.63011868372567E-06%
+MasterRobe 0 5.63011868372567E-06%
+KrakenScales 0 5.63011868372567E-06%
+Windblade 0 5.63011868372567E-06%
+FragileBladeOfChaos 0 0.000263011868372567%
+CatbertCloak 0 5.63011868372567E-06%
+
+Undead Guard Stats
+Experience: 7000
+HP: 2000
+Mana: 0
+Armor Class: 50
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 22
+Damage Avg: 30
+Damage Max: 37
+Critical Hit Min: 45
+Critical Hit Max: 60
+Cold Resist: 0
+Fire Resist: 80
+Lightning Resist: 48
+Physical Resist: 0
+Poison Resist: 80
+Holy Resist: 0
+Magic Resist: 80
+Spells:
+Spell: LesserHeal Level: 10
+Spell: FlameStrike Level: 10
+Spell: SlowedActions Level: 1
+Spell: Dissipate Level: 10
+Religion: 2
+Religion Kills pts: 4
+
+Item Drops
+BerserkRing 0 0.00416301186837257%
+LargeHealingPotion 1 0.0002804%
+GreatHelm 0 0.00416301186837257%
+MasterSword 0 5.63011868372567E-05%
+FullPlate 0 0.00416301186837257%
+EliteGauntlets 0 0.00463011868372567%
+PlatedBoots 0 0.00416301186837257%
+PlatinumPlate 0 0.000346301186837257%
+
+Water Blob Stats
+Experience: 60
+HP: 30
+Mana: 0
+Armor Class: 0
+Lore RAnge: 8 to 28
+Taming Range: 15 to 35
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 4
+Damage Max: 5
+Critical Hit Min: 6
+Critical Hit Max: 8
+Cold Resist: 0
+Fire Resist: 80
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Water 30 10%
+PotionOfHealing 1 2.0002803%
+PotionOfMana 1 2.0002803%
+GoldPiece 2 2.5002826%
+
+Orc War Boss Stats
+Experience: 25000
+HP: 4500
+Mana: 0
+Armor Class: 125
+Lore RAnge: 88 to 108
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 82
+Damage Avg: 110
+Damage Max: 137
+Critical Hit Min: 165
+Critical Hit Max: 220
+Cold Resist: 30
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 20
+Poison Resist: 0
+Holy Resist: 30
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 14
+
+Item Drops
+AtlanteanPendant 0 0.000563011868372567%
+CyclopeanPendant 0 0.00563011868372567%
+EliteGauntlets 0 0.00563011868372567%
+PlatedBoots 0 0.00563011868372567%
+Spear 0 0.00563011868372567%
+ThePot 0 0.00316301186837257%
+Rapier 0 0.1002836%
+GoldPiece 10 4.400282%
+GoldenHammer 10 0.000285%
+PlatinumPlate 0 0.000316301186837257%
+BattleAxe 0 0.00316301186837257%
+WardingRing 0 0.04828%
+WarAxe 0 0.00563011868372567%
+ZeusFury 0 0.0002837%
+
+Orc Shaman Stats
+Experience: 2000
+HP: 600
+Mana: 50
+Armor Class: 15
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 20
+Fire Resist: 20
+Lightning Resist: 60
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 0
+Magic Resist: 35
+Spells:
+Spell: LesserHeal Level: 2
+Spell: Exorcism Level: 1
+Spell: MagicMissile Level: 1
+Religion: 4
+Religion Kills pts: 4
+
+Item Drops
+PotionOfMana 25 4.2002813%
+ElixirOfMana 25 0.100281%
+Book 0 0.065704242335%
+MiningHat 0 0.00163011868372567%
+ArcticWitchHat 0 0.00163011868372567%
+StaffOfFlames 0 0.00163011868372567%
+CombustionPendant 0 0.00163011868372567%
+WizardryTalisman 0 0.00163011868372567%
+SnowPartizan 0 0.000263011868372567%
+GoldPiece 10 4.400282%
+WizardsStaff 0 0.04853%
+GoldenHammer 10 0.004865%
+WizardryRing 0 0.0484%
+VulturesHelm 0 0.00563011868372567%
+LongBow 0 0.0002837%
+
+Red Dragon Stats
+Experience: 40000
+HP: 6000
+Mana: 2500
+Armor Class: 800
+Lore RAnge: 60 to 80
+Taming Range: 185 to 205
+Attack Speed (0 is fast): 0
+Damage Min: 97
+Damage Avg: 130
+Damage Max: 162
+Critical Hit Min: 195
+Critical Hit Max: 260
+Cold Resist: 0
+Fire Resist: 99
+Lightning Resist: 35
+Physical Resist: 25
+Poison Resist: 50
+Holy Resist: 85
+Magic Resist: 50
+Spells:
+Spell: GreaterHeal Level: 4
+Spell: Fireball Level: 6
+Spell: FlameStrike Level: 4
+Religion: 1
+Religion Kills pts: 8
+
+Item Drops
+PhoenixFeather 10 10%
+GoldPiece 3 10%
+HeaterShield 0 0.036%
+RadiantCap 0 0.0401186837256715%
+CaledOfBurning 0 8.3012567154159E-05%
+HeavyChainmail 0 0.0401186837256715%
+Hatchet 0 0.0401186837256715%
+PinkPlate 0 0.0005501186837%
+PinkHat 0 0.0005501186837%
+PinkShield 0 0.0005501186837%
+PinkRod 0 0.0005501186837%
+PinkBoots 0 0.0005501186837%
+PinkCrown 0 0.0005501186837%
+DevilsRobe 0 0.0005501186837%
+PinkBow 0 0.0005501186837%
+Pinkscape 0 5.01186837E-05%
+PinkMourningstar 0 0.0005501186837%
+DivineMourningstar 0 0.0005501186837%
+PinkHandAxe 0 0.0005501186837%
+PinkArcticBlade 0 0.0005501186837%
+PinkSkullBlade 0 2.01186837E-05%
+PinkGloves 0 0.0005501186837%
+DesertWarriorHelm 0 0.00501186837%
+Turban 0 0.00501186837%
+StaffOfFlames 0 7E-05%
+SmallAxe 0 0.0401186837256715%
+MonkRobe 0 0.00401186837256715%
+CloseHelm 0 0.0401186837256715%
+BattleGauntlets 0 0.0401186837%
+Boots 0 0.0240118683725672%
+MithrilGauntlets 0 0.00071501186837%
+SpartanArmor 0 0.00501186837%
+SpartanShield 0 0.00501186837%
+SpartanBow 0 0.00501186837%
+SpartanSword 0 0.00501186837%
+SteelHeaterShield 0 0.00501186837%
+Bliss 0 0.00401186837%
+MithrilKatana 0 0.0005501186837%
+ArcticBlade 0 0.0005501186837%
+WyvernClaws 0 0.0005501186837%
+HazzHat 0 0.000550118683725671%
+BerserkerShield 0 0.00501186837%
+BerserkerTalisman 0 0.00401186837%
+GuardianTalisman 0 0.00401186837%
+WizardryTalisman 0 0.00401186837%
+WarriorTalisman 0 0.00301186837%
+MageTalisman 0 0.00301186837%
+
+Greater Vampire Stats
+Experience: 200000
+HP: 54000
+Mana: 6000
+Armor Class: 1800
+Lore RAnge: 190 to 210
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 412
+Damage Avg: 550
+Damage Max: 687
+Critical Hit Min: 825
+Critical Hit Max: 1100
+Cold Resist: 100
+Fire Resist: 40
+Lightning Resist: 75
+Physical Resist: 90
+Poison Resist: 100
+Holy Resist: 40
+Magic Resist: 80
+Spells:
+Spell: Earthquake Level: 20
+Spell: EnergyBolt Level: 20
+Spell: FlameStrike Level: 20
+Spell: DarkTouch Level: 20
+Spell: Curse Level: 20
+Spell: Weaken Level: 20
+Spell: SlowedActions Level: 20
+Spell: MeteorStorm Level: 20
+Spell: Banish Level: 20
+Religion: 2
+Religion Kills pts: 25
+
+Item Drops
+GoldPiece 50 9.7998%
+SoulsRobe 0 0.000215683725671542%
+SoulBlade 0 0.000215683725671542%
+FullPlate 0 0.0338%
+Slayer 0 0.000215683725671542%
+LargeRejuvenationPotion 20 0.00515683725671542%
+BootsOfDarkness 0 0.000215683725671542%
+DevilsRobe 0 0.000521186837%
+WarBow 0 0.000215683725671542%
+SpartanBow 0 0.000215683725671542%
+ArcticBow 0 0.000215683725671542%
+WizardryTalisman 0 0.000215683725671542%
+BerserkerTalisman 0 0.000215683725671542%
+EvilRingOfEvil 0 0.000215683725671542%
+WeddingRing 0 0.00553%
+GoldPiece 1000 0.0834%
+WizardryTalisman 0 0.000215683725671542%
+BerserkerTalisman 0 0.000215683725671542%
+CapeOfLegends 0 9E-05%
+EvilRingOfEvil 0 0.000215683725671542%
+NecromancersWrath 0 0.000215683725671542%
+ArchmagiRobe 0 0.000215683725671542%
+HelmOfEnlightenment 0 0.000215683725671542%
+BootsOfEnlightenment 0 0.000215683725671542%
+StaffOfEnlightenment 0 0.000215683725671542%
+CrystalDagger 0 0.000215683725671542%
+Windblade 0 0.000215683725671542%
+SceptreOfTheGates 0 0.000215683725671542%
+GauntletsOfCasting 0 0.0002%
+RoyalGlaive 0 0.00515683725671542%
+WizardryRing 0 0.00515683725671542%
+
+Vampire Stats
+Experience: 100000
+HP: 32000
+Mana: 5000
+Armor Class: 2000
+Lore RAnge: 80 to 100
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 187
+Damage Avg: 250
+Damage Max: 312
+Critical Hit Min: 375
+Critical Hit Max: 500
+Cold Resist: 100
+Fire Resist: 35
+Lightning Resist: 100
+Physical Resist: 85
+Poison Resist: 100
+Holy Resist: 35
+Magic Resist: 100
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: Bane Level: 20
+Spell: Banish Level: 20
+Spell: DarkTouch Level: 20
+Spell: Curse Level: 20
+Spell: Weaken Level: 20
+Spell: Decrepify Level: 20
+Religion: 2
+Religion Kills pts: 20
+
+Item Drops
+GoldPiece 50 9.7998%
+SoulsRobe 0 0.000612683725671025%
+SoulBlade 0 0.000812683725671025%
+FullPlate 0 0.0338%
+GoldenSkullBlade 0 7.80625E-05%
+HalloweenBlade 0 7.80625E-05%
+LargeRejuvenationPotion 20 0.00512683725671025%
+BootsOfDarkness 0 0.000812683725671025%
+WarBow 0 0.000212683725671025%
+DevilsRobe 0 0.000401186837%
+Slayer 0 0.000212683725671025%
+SpartanBow 0 0.000212683725671025%
+ArcticHelm 0 0.000362551868372567%
+HolyCape 0 0.00525683725671542%
+CapeOfLegends 0 0.000225683725671542%
+ArcticRobe 0 0.00525683725671542%
+FieldPlate 0 0.0925671%
+FullPlate 0 0.092567154159021%
+KnightPlate 0 0.00525683725671125%
+ShiningForce 0 0.000225683725671125%
+ArcticBow 0 0.000212683725671025%
+WizardryTalisman 0 0.00512683725671025%
+BerserkerTalisman 0 0.00512683725671025%
+EvilRingOfEvil 0 0.000212683725671025%
+WeddingRing 0 0.00553%
+Usurper 0 0.0002256715%
+Pavis 0 0.0002256715%
+Aegis 0 0.0002256837256715%
+WarMagesShield 0 0.000225683725671542%
+WarMageBoots 0 0.000825683725671542%
+WarMagesCloak 0 0.000225683725671542%
+RoseRobe 0 0.00022567191590221%
+ShieldOfHeaven 0 0.0002256837256715%
+ShieldOfRoyalty 0 0.0002256837256715%
+ShieldOfWealth 0 0.0002256837256715%
+ShieldOfBurning 0 0.0002256837256715%
+BerserkerShield 0 0.0002256715%
+DivineSword 0 0.000225683725671503%
+DivineHelmet 0 0.000225683725671503%
+DivineBow 0 0.000225683725671503%
+DivineBoots 0 0.000825683725671503%
+DivineCape 0 0.000225683725671503%
+DivineShield 0 0.000225683725671503%
+DivineBlade 0 0.000225683725671503%
+DivineGauntlets 0 0.000225683725671503%
+DivineClaw 0 0.000256837256715025%
+GreatHelm 0 0.092567166%
+Voidscape 0 0.00022568374%
+MithrilRobe 0 0.000225671541590211%
+GoldPiece 1000 0.0834%
+BootsOfApollo 0 0.000856837256715415%
+HandsOfApollo 0 0.000225683725671542%
+HelmetOfApollo 0 0.000225683725671542%
+ApollosGuardian 0 0.000225683725671542%
+ApolloRobes 0 0.000225683725671542%
+GoldenSword 0 0.000225683725671542%
+BootsOfBurning 0 9.25671541550221E-05%
+BootsOfDarkness 0 0.000825683725671542%
+BootsOfEnlightenment 0 0.000825683725671542%
+BootsOfSagittarius 0 0.000825683725671542%
+ChaosBoots 0 0.000825683725671542%
+DragonBoots 0 0.000825683725671542%
+FlamingFeet 0 0.000825671541550221%
+GoldenBoots 0 0.000825683725671542%
+PilgrimShoes 0 0.000825683725671916%
+PinkBoots 0 0.000825683725671542%
+PlagueBoots 0 0.000825683725671542%
+PlateBoots 0 0.000825671541550221%
+PlatedBoots 0 0.000825671541550221%
+RoyalBoots 0 0.000825671541550221%
+Mourningstar 0 0.00022567154159021%
+DivineMourningstar 0 0.00062567154159021%
+PinkMourningstar 0 0.00022567154159021%
+RoyalGlaive 0 0.000225683725671542%
+BloodGlaive 0 0.000225683725671542%
+TigerGlaive 0 0.000225683725671542%
+DivineGlaive 0 2.5199021046E-05%
+DivineSword 0 0.00023199021046%
+RingOfFire 0 0.000225683725671542%
+RingOfWizardry 0 0.000225683725671542%
+RingOfCelerity 0 2.51990221035646E-05%
+RingOfAbjuration 0 2.51990221035663E-05%
+Excalibur 0 0.000231990221035663%
+SkullBlade 0 5.55301186837512E-06%
+PinkSkullBlade 0 5.951250221E-06%
+BlackSkullBlade 0 5.951250221E-06%
+DivineHelmet 0 0.000201186837256715%
+DivineBow 0 0.000201186837256715%
+DivineBoots 0 0.000701186837256715%
+DivineCape 0 0.000201186837256715%
+DivineShield 0 0.000201186837256715%
+DemonSkull 1 0.0251630118683726%
+DivineBlade 0 0.000201186837256715%
+DivineGauntlets 0 0.000201186837256715%
+ArcticBow 0 1.25E-05%
+PinkBow 0 0.000225%
+PhoenixBow 0 0.000225%
+SoulsBow 0 0.000225%
+WarBow 0 0.000225%
+HandCrossbow 0 0.000263011868372567%
+Voidscape 0 5.81868372567154E-06%
+VoidHelm 0 5.81868372567154E-06%
+VoidBoots 0 0.000458186837256715%
+KingPlate 0 5.81868372567154E-06%
+Excalibur 0 5.81868372567154E-06%
+GreaterMageRobe 0 0.000215199022103566%
+Masamune 0 0.000215199022103566%
+WizardryTalisman 0 0.00512683725671025%
+BerserkerTalisman 0 0.00512683725671025%
+CapeOfLegends 0 0.0002%
+EvilRingOfEvil 0 0.000212683725671025%
+NecromancersWrath 0 0.000212683725671025%
+ArchmagiRobe 0 0.000212683725671025%
+HelmOfEnlightenment 0 0.000212683725671025%
+BootsOfEnlightenment 0 0.000812683725671025%
+StaffOfEnlightenment 0 0.000212683725671025%
+CrystalDagger 0 0.000212683725671025%
+Windblade 0 0.000612683725671025%
+SceptreOfTheGates 0 0.000212683725671025%
+GauntletsOfCasting 0 0.0002%
+SoulsStaff 0 0.000255056673725671%
+RoyalGlaive 0 0.000212683725671025%
+BloodGlaive 0 2.56E-06%
+WizardryRing 0 0.00512683725671025%
+
+Magma Golem Stats
+Experience: 500000
+HP: 500000
+Mana: 25000
+Armor Class: 4000
+Lore RAnge: 200 to 220
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 1200
+Damage Avg: 1600
+Damage Max: 2000
+Critical Hit Min: 2400
+Critical Hit Max: 3200
+Cold Resist: 85
+Fire Resist: 130
+Lightning Resist: 125
+Physical Resist: 120
+Poison Resist: 125
+Holy Resist: 85
+Magic Resist: 125
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: Curse Level: 20
+Spell: Weaken Level: 20
+Spell: Decrepify Level: 20
+Spell: SlowedActions Level: 20
+Spell: FlameStrike Level: 20
+Spell: FlamingArrow Level: 20
+Spell: Apocalypse Level: 20
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+GoldPiece 1000 9.94055155883%
+GoldPiece 5000 0.0405515582575%
+DemonSkull 11 0.840551563011868%
+DemonSkull 100 9.92540551563012%
+Bliss 0 0.0405515582412502%
+BloodCrown 0 0.0405515582412502%
+FurysBlade 0 0.0405515582412502%
+RoyalMageRobe 0 0.00359001186837257%
+HelmOfBurning 0 0.0405515582412502%
+Slayer 0 0.0405515582412502%
+HandCrossbow 0 0.0405515582412502%
+BowOfLightning 0 0.0405515582412502%
+WarBow 0 0.0405515582412502%
+ArcticBow 0 0.0405515582412502%
+PhoenixBow 0 0.0405515582412502%
+PinkBow 0 0.0405515582412502%
+MithrilArrow 200 0.040551558%
+ElvenMithrilArrow 200 0.040551558%
+BowOfLightning 0 0.0405515582412502%
+SpartanBow 0 0.040551558%
+KnightPlate 0 0.0405515582412502%
+HelmOfEnlightenment 0 0.0405515582412502%
+HazzHat 0 0.0405515582412502%
+GoldPiece 1000 0.0405515582412502%
+CrownOfDarkness 0 0.0405515582412502%
+BootsOfDarkness 0 0.0405515582412502%
+Nightscape 0 0.0405515582412502%
+GamemasterRobe 0 0.00725630118683726%
+GoldPiece 250 0.000205%
+ArmorOfHelios 0 0.0405515582412502%
+AssassinBlade 0 0.000755155824125021%
+AngelicRobe 0 0.0405515582412502%
+CloakOfDarkness 0 0.0405515582412502%
+MithrilKatana 0 0.0405515582412502%
+TouchOfDeath 0 0.0405515582412502%
+ZerBlade 200 0.0405515582412502%
+GoldPiece 200 9.94055155883%
+GoldPiece 500 0.300275%
+Bliss 0 0.0405515582412502%
+BloodCrown 0 0.0405515582412502%
+ArchMagiHeadDress 0 0.0405515582412502%
+HelmOfBurning 0 0.0405515582412502%
+VulturesHelm 0 0.0405515582412502%
+SantaHat 0 0.0405515582412502%
+HelmOfEnlightenment 0 0.0405515582412502%
+CrownOfDarkness 0 0.0405515582412502%
+CrownOfFrost 0 0.0405515582412502%
+HazzHat 0 0.0405515582412502%
+DarkVaderHelm 0 0.0405515582412502%
+MithrilMask 0 0.0405515582412502%
+MagmaBlade 0 0.0405515582412502%
+MagmaStaff 0 0.0405515582412502%
+MasterRobe 0 0.0405515582412502%
+Goldscape 0 1.20118683725672E-05%
+GoldenSword 0 1.01256715125022E-05%
+ZeusFury 0 0.00525412567112502%
+LuckBracelet 0 0.0405515801256711%
+GoldenAxe 0 0.0405515801186837%
+GoldenCrown 0 0.002801256715%
+GoldenRobe 0 0.0405515801256715%
+GoldPlate 0 0.0405515801256715%
+GoldenBoots 0 0.000201256715%
+GoldenRod 0 0.0405515801256715%
+GoldenHammer 0 0.0405515801256715%
+GoldenMortarAndPestle 0 0.0405515801256715%
+GoldenPickaxe 0 0.0405515801256715%
+GoldenShield 0 0.0405515801256715%
+GoldenGlaive 0 0.0405515801256715%
+GoldenStaff 0 0.0405515801256715%
+GoldPlate 0 0.0405515501256715%
+GamemasterRobe 0 0.00715630118683726%
+CrystalDagger 0 0.0405515582412502%
+MerlinsStaff 0 0.0405515582412502%
+SwordOfFrost 0 0.0405515582412502%
+SpartanSword 0 0.0405515582412502%
+SpartanBow 0 0.0405515582412502%
+Mindblade 0 0.0405515582412502%
+Excalibur 0 0.0405515582412502%
+Caledfwlch 0 0.0405515582412502%
+DivineArcticBlade 0 0.0405515582412502%
+ArcticBow 0 0.0405515582412502%
+WarBow 0 0.0405515582412502%
+GoldenAxe 0 0.0405515582412502%
+AxeOfDarkness 0 0.0405515582412502%
+Mourningstar 0 0.0405515582412502%
+IceStaff 0 0.0405515582412502%
+RoyalGlaive 0 0.0405515582412502%
+SnowPartizan 0 0.0405515582412502%
+MaceOfRoyalty 0 0.0405515582412502%
+SceptreOfTheGates 0 0.0405515582412502%
+ThorsHammer 0 0.0405515582412502%
+BowOfLightning 0 0.0405515582412502%
+SagittariusPlate 0 0.0405515582412502%
+SagittariusHelm 0 0.0405515582412502%
+BootsOfSagittarius 0 0.0405515582412502%
+DruidicStaff 0 0.0405515582412502%
+FireStaff 0 0.0405515582412502%
+BlackRazor 0 0.0405515582412502%
+MithrilKatana 0 0.0405515582412502%
+Mindblade 0 0.0405515582412502%
+Masamune 0 0.0405515582412502%
+KingPlate 0 0.0405515582412502%
+ElvenMithrilArrow 1500 0.14055155875%
+SoulBlade 0 0.0405515582412502%
+WuStar 200 0.0405515582412502%
+MithrilArrow 1000 0.0405515582412502%
+BowOfLightning 0 0.0405515582412502%
+WarBow 0 0.0405515582412502%
+ThievesShadowCloak 0 0.0405515582412502%
+Voidscape 0 0.0405515582412502%
+KingPlate 0 0.0405515582412502%
+Excalibur 0 0.0405515582412502%
+Nightscape 0 0.0405515582412502%
+Angrboda 0 0.0405515582412502%
+BloodCrown 0 0.0405515582412502%
+SagittariusHelm 0 0.0405515582412502%
+SagittariusPlate 0 0.0405515582412502%
+BootsOfSagittarius 0 0.0405515582412502%
+SantaHat 0 0.0405515582412502%
+GoldPiece 10 5.04055155858%
+ZerBlade 1000 0.040551558%
+WuStar 1000 0.04055155853%
+Shuriken 1000 3.04055155852%
+DeadlyShuriken 1500 1.04055155824125%
+GuardianTalisman 0 0.0405515582412502%
+WarriorTalisman 0 0.0405515582412502%
+MageTalisman 0 0.0405515582412502%
+SwordOfFrost 0 0.0405515582412502%
+SpartanArmor 0 0.0405515582412502%
+SpartanHelm 0 0.0405515582412502%
+SpartanSword 0 0.0405515582412502%
+SpartanBow 0 0.0405515582412502%
+RingOfFire 0 0.0405515582412502%
+RingOfWizardry 0 0.0405515582412502%
+RingOfCelerity 0 0.0405515582412502%
+RingOfAbjuration 0 0.0405515582412502%
+Excalibur 0 0.0405515582412502%
+GreaterMageRobe 0 0.0405515582412502%
+Masamune 0 0.0405515582412502%
+DarkVaderHelm 0 0.0405515582412502%
+KingPlate 0 0.0405515582412502%
+ArchmagiRobe 0 0.0405515582412502%
+Caledfwlch 0 0.0405515582412502%
+ArcticBow 0 0.0405515582412502%
+MasterRobe 0 0.0405515582412502%
+KrakenScales 0 0.0405515582412502%
+Windblade 0 0.0405515582412502%
+StormBreaker 0 0.0405515582412502%
+MithrilMask 0 0.0405515582412502%
+MagmaBlade 0 0.0405515582412502%
+MasterRobe 0 0.0405515582412502%
+SpartanSword 0 0.0405515582412502%
+BloodGlaive 0 0.0405515582412502%
+SpartanBow 0 0.0405515582412502%
+Excalibur 0 0.0405515582412502%
+DivineArcticBlade 0 0.0405515582412502%
+ArcticBow 0 0.0405515582412502%
+WarBow 0 0.0405515582412502%
+GoldenAxe 0 0.0405515582412502%
+AxeOfDarkness 0 0.0405515582412502%
+Mourningstar 0 0.0405515582412502%
+RoyalGlaive 0 0.0405515582412502%
+MaceOfRoyalty 0 0.0405515582412502%
+ThorsHammer 0 0.0405515582412502%
+BowOfLightning 0 0.0405515582412502%
+SagittariusPlate 0 0.0405515582412502%
+SagittariusHelm 0 0.0405515582412502%
+BootsOfSagittarius 0 0.0405515582412502%
+DruidicStaff 0 0.0405515582412502%
+FireStaff 0 0.0405515582412502%
+AssassinBlade 0 0.000755155824125021%
+ZeusFury 0 0.0405515582412502%
+BlackRazor 0 0.0405515582412502%
+MithrilKatana 0 0.0405515582412502%
+Masamune 0 0.0405515582412502%
+KingPlate 0 0.0405515582412502%
+ElvenMithrilArrow 1000 6.14055155875%
+SoulBlade 0 0.0405515582412502%
+
+Wild Cat Stats
+Experience: 40
+HP: 30
+Mana: 0
+Armor Class: 0
+Lore RAnge: 38 to 58
+Taming Range: 5 to 25
+Attack Speed (0 is fast): 0
+Damage Min: 3
+Damage Avg: 5
+Damage Max: 6
+Critical Hit Min: 7
+Critical Hit Max: 10
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 5
+Holy Resist: 0
+Magic Resist: 10
+Religion: 3
+Religion Kills pts: 1
+
+Item Drops
+Fur 1 10%
+Sardine 1 0.100005630118684%
+Candle 0 0.00563011868372567%
+RodentFur 1 2.0002803%
+RatFurGloves 0 0.00563011868372567%
+
+Spider Stats
+Experience: 0
+HP: 300
+Mana: 235
+Armor Class: 300
+Lore RAnge: 30 to 50
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 13
+Damage Avg: 18
+Damage Max: 22
+Critical Hit Min: 27
+Critical Hit Max: 36
+Cold Resist: 40
+Fire Resist: 0
+Lightning Resist: 40
+Physical Resist: 40
+Poison Resist: 40
+Holy Resist: 40
+Magic Resist: 40
+Spells:
+Spell: PoisonCloud Level: 12
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+VialOfVenom 2 2.5002845%
+
+Radioinactive Stats
+Experience: 60
+HP: 33
+Mana: 0
+Armor Class: 0
+Lore RAnge: 0 to 20
+Taming Range: 14 to 34
+Attack Speed (0 is fast): 3
+Damage Min: 8
+Damage Avg: 11
+Damage Max: 13
+Critical Hit Min: 16
+Critical Hit Max: 22
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+SnakeSkin 1 10%
+GoldPiece 1 1.9002852%
+Ring 0 0.2002812%
+
+Ice Skater Stats
+Experience: 130
+HP: 58
+Mana: 0
+Armor Class: 0
+Lore RAnge: 60 to 80
+Taming Range: 30 to 50
+Attack Speed (0 is fast): 0
+Damage Min: 6
+Damage Avg: 8
+Damage Max: 10
+Critical Hit Min: 12
+Critical Hit Max: 16
+Cold Resist: 0
+Fire Resist: 0
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 0
+Holy Resist: 0
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+LightGauntlets 0 5.63011868372567E-06%
+GoldPiece 1 5.4002878%
+RodentFur 1 1.9002899%
+StrawHat 0 0.00563011868372567%
+FishingRod 0 0.00563011868372567%
+Sai 0 0.00563011868372567%
+Sandals 0 0.0556301186837257%
+ShockingSword 0 0.0153011868372567%
+Buckler 0 0.00563011868372567%
+Catfish 1 1.00000563011868%
+
+Elf Stats
+Experience: 25000
+HP: 8000
+Mana: 2000
+Armor Class: 900
+Lore RAnge: 0 to 20
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 75
+Damage Avg: 100
+Damage Max: 125
+Critical Hit Min: 150
+Critical Hit Max: 200
+Cold Resist: 75
+Fire Resist: 0
+Lightning Resist: 80
+Physical Resist: 45
+Poison Resist: 0
+Holy Resist: 55
+Magic Resist: 70
+Religion: 4
+Religion Kills pts: 6
+
+Item Drops
+Katana 0 0.000563011868372567%
+Nodachi 0 0.000563011868372567%
+TouchOfDeath 0 0.000563011868372567%
+ZerBlade 200 0.000563011868372567%
+GoldPiece 200 9.9002883%
+RedMageRobe 0 0.000251868372567154%
+GrayMageRobe 0 0.000251868372567154%
+DruidicRobe 0 0.000251868372567154%
+Burningscape 0 0.000551868372567154%
+ArcticHelm 0 0.000262551868372567%
+GoldPiece 500 0.3002875%
+VulturesHelm 0 0.000563011868372567%
+SantaHat 0 0.000563011868372567%
+HelmOfEnlightenment 0 0.000563011868372567%
+CrownOfDarkness 0 0.000563011868372567%
+CrownOfFrost 0 0.000563011868372567%
+HazzHat 0 0.000563011868372567%
+CrystalDagger 0 0.000930118683725672%
+MerlinsStaff 0 0.000630118683725671%
+Mourningstar 0 0.000630118683725671%
+IceStaff 0 0.000563011868372567%
+RoyalGlaive 0 0.000563011868372567%
+SnowPartizan 0 0.000563011868372567%
+MaceOfRoyalty 0 0.000563011868372567%
+SceptreOfTheGates 0 0.000563011868372567%
+ThorsHammer 0 0.000563011868372567%
+BowOfLightning 0 0.000563011868372567%
+GoldPiece 10 5.0002858%
+ZerBlade 1000 0.048%
+WuStar 1000 0.04853%
+Shuriken 1000 3.0002852%
+DeadlyShuriken 1500 1.00056301186837%
+GreaterMageRobe 0 0.000563011868372567%
+GoldPiece 10 9.9002823%
+CapeOfLegends 0 0.0009%
+EyeOfNewt 2 2.4002825%
+FlamingIvy 3 2.1002807%
+BatWing 2 4.7002843%
+GMRUNE 0 0.000563011868372567%
+GoldPiece 10 9.9002823%
+
+Elf Superior Stats
+Experience: 30000
+HP: 14000
+Mana: 2500
+Armor Class: 350
+Lore RAnge: 200 to 220
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 90
+Damage Avg: 120
+Damage Max: 150
+Critical Hit Min: 180
+Critical Hit Max: 240
+Cold Resist: 99
+Fire Resist: -10
+Lightning Resist: 50
+Physical Resist: 55
+Poison Resist: -10
+Holy Resist: 99
+Magic Resist: 100
+Spells:
+Spell: GreaterHeal Level: 8
+Spell: ChainLightning Level: 8
+Spell: Icebolt Level: 8
+Spell: IceNova Level: 8
+Spell: ChargedBolt Level: 8
+Spell: EnergyBolt Level: 8
+Spell: Curse Level: 8
+Spell: MedusasStare Level: 8
+Spell: Weaken Level: 8
+Spell: ChaosBolt Level: 8
+Spell: HolyStrike Level: 8
+Religion: 4
+Religion Kills pts: 12
+
+Item Drops
+Katana 0 6.63011868372567E-05%
+Nodachi 0 6.63011868372567E-05%
+TouchOfDeath 0 6.63011868372567E-05%
+ZerBlade 200 6.63011868372567E-05%
+GoldPiece 200 9.9002883%
+RedMageRobe 0 0.000251868372567154%
+GrayMageRobe 0 0.000251868372567154%
+DruidicRobe 0 0.000251868372567154%
+Burningscape 0 0.000251868372567154%
+GoldPiece 500 0.3002875%
+VulturesHelm 0 0.00563011868372567%
+SantaHat 0 6.63011868372567E-05%
+HelmOfEnlightenment 0 6.63011868372567E-05%
+CrownOfDarkness 0 6.63011868372567E-05%
+CrownOfFrost 0 6.63011868372567E-05%
+HazzHat 0 6.63011868372567E-05%
+CrystalDagger 0 6.63011868372567E-05%
+MerlinsStaff 0 0.00630118683725672%
+Mourningstar 0 0.00630118683725672%
+IceStaff 0 6.63011868372567E-05%
+RoyalGlaive 0 6.63011868372567E-05%
+SnowPartizan 0 6.63011868372567E-05%
+MaceOfRoyalty 0 6.63011868372567E-05%
+SceptreOfTheGates 0 6.63011868372567E-05%
+ThorsHammer 0 6.63011868372567E-05%
+BowOfLightning 0 0.000966301186837257%
+GoldPiece 10 5.0002858%
+ZerBlade 1000 0.00028%
+WuStar 1000 0.0002853%
+Shuriken 1000 3.0002852%
+DeadlyShuriken 1500 1.00006630118684%
+GreaterMageRobe 0 6.63011868372567E-05%
+GoldPiece 10 9.9002823%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.4002825%
+FlamingIvy 3 2.1002807%
+BatWing 2 4.7002843%
+GMRUNE 0 0.000230118683725672%
+GoldPiece 10 9.9002823%
+
+Ladybug Stats
+Experience: 15000
+HP: 9001
+Mana: 0
+Armor Class: 225
+Lore RAnge: 92 to 112
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 67
+Damage Avg: 90
+Damage Max: 112
+Critical Hit Min: 135
+Critical Hit Max: 180
+Cold Resist: 20
+Fire Resist: 0
+Lightning Resist: 50
+Physical Resist: 40
+Poison Resist: 40
+Holy Resist: 40
+Magic Resist: 40
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+DoomedTalisman 0 0.000263011868372567%
+PlateOfBurning 0 0.00463011868372567%
+AxeOfBurning 0 0.00463011868372567%
+BootsOfBurning 0 0.00463011868372567%
+KatanaOfBurning 0 0.000263011868372567%
+ShieldOfBurning 0 0.00463011868372567%
+HelmOfBurning 0 0.00463011868372567%
+WyvernClaws 0 0.000863011868372567%
+GoldPiece 3 6.9002854%
+GoldPiece 5 3.1002859%
+
+Daijou Stats
+Experience: 12000
+HP: 1800
+Mana: 40
+Armor Class: 60
+Lore RAnge: 82 to 102
+Taming Range: 143 to 163
+Attack Speed (0 is fast): 0
+Damage Min: 47
+Damage Avg: 63
+Damage Max: 78
+Critical Hit Min: 94
+Critical Hit Max: 126
+Cold Resist: 0
+Fire Resist: 70
+Lightning Resist: 70
+Physical Resist: 0
+Poison Resist: 60
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: Lightning Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+VaderHelmet 0 0.000230118683725672%
+DarkHelmet 0 0.000230118683725672%
+BootsOfDarkness 0 0.000230118683725672%
+GoldPiece 3 8.1002815%
+KrakenScales 0 0.00163011868372567%
+
+Serpent Stats
+Experience: 40000
+HP: 5800
+Mana: 250
+Armor Class: 400
+Lore RAnge: 38 to 58
+Taming Range: 166 to 186
+Attack Speed (0 is fast): 0
+Damage Min: 90
+Damage Avg: 120
+Damage Max: 150
+Critical Hit Min: 180
+Critical Hit Max: 240
+Cold Resist: 0
+Fire Resist: 75
+Lightning Resist: 75
+Physical Resist: 10
+Poison Resist: 60
+Holy Resist: 0
+Magic Resist: 0
+Spells:
+Spell: GreaterHeal Level: 12
+Spell: ChainLightning Level: 15
+Spell: PoisonCloud Level: 12
+Spell: Fireball Level: 20
+Religion: 1
+Religion Kills pts: 8
+
+Item Drops
+DarkVaderHelm 0 0.000263011868372567%
+CapeOfLegends 0 0.000230118683725672%
+MasterSword 0 4.63011868372567E-05%
+VialOfDragonBlood 3 9.90503%
+DragonScale 31 8.9999%
+PhoenixFeather 15 2.50025683725672%
+Sakana 0 0.000256837256715416%
+GauntletsOfCasting 0 0.00020683725675%
+TouchOfDeath 0 5.06837256715416E-06%
+Zanba 0 0.000256837256715416%
+SagittariusGaunts 0 5.06837256715416E-06%
+SwordOfSagittarius 0 5.06837256715416E-06%
+SagittariusGaunts 0 5.06837256715416E-06%
+SagittariusPlate 0 5.06837256715416E-06%
+BootsOfSagittarius 0 5.06837256715416E-06%
+SagittariusHelm 0 0.000206837256715416%
+Flametongue 0 5.06837256715416E-06%
+Caledfwlch 0 5.01186837256715E-06%
+ArcticBlade 0 0.000256837256715416%
+Mindblade 0 0.000206837256715416%
+Magebane 0 0.000206837256715416%
+WizardryTalisman 0 0.00506837256715416%
+BerserkerTalisman 0 0.00506837256715416%
+GuardianTalisman 0 0.00506837256715416%
+ShiningForce 0 5.06837256715416E-06%
+OldBoots 0 0.0206837256715416%
+HolyCape 0 5.06837256715416E-06%
+Claymore 0 0.00306837256715416%
+VikingSword 0 0.00410683725671542%
+WyvernClaws 0 0.00310683725671542%
+SkullBlade 0 5.55301186837512E-06%
+PinkSkullBlade 0 5.951250221E-06%
+BlackSkullBlade 0 5.951250221E-06%
+DivineHelmet 0 5.01186837256715E-06%
+DivineBow 0 5.01186837256715E-06%
+DivineBoots 0 5.01186837256715E-06%
+DivineCape 0 5.01186837256715E-06%
+DivineShield 0 5.01186837256715E-06%
+DivineBlade 0 5.01186837256715E-06%
+DivineGauntlets 0 5.01186837256715E-06%
+DivineClaw 0 5.01186837256715E-06%
+ArcticBow 0 1.25E-05%
+PinkBow 0 0.000225%
+PhoenixBow 0 0.000225%
+SoulsBow 0 0.000225%
+WarBow 0 0.000225%
+HandCrossbow 0 0.000263011868372567%
+Voidscape 0 5.81868372567154E-06%
+VoidHelm 0 5.81868372567154E-06%
+VoidBoots 0 5.81868372567154E-06%
+KingPlate 0 5.81868372567154E-06%
+Excalibur 0 5.81868372567154E-06%
+GoldenSword 0 5.81868372567154E-06%
+HalloweenBlade 0 5.81868372567154E-06%
+SoulsStaff 0 5.55056673725671E-06%
+GoldPiece 4 8.0002811%
+AlectosWrath 0 0.000263011868372567%
+
+Doom Beetle Stats
+Experience: 2800
+HP: 240
+Mana: 0
+Armor Class: 0
+Lore RAnge: 67 to 87
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 15
+Damage Avg: 20
+Damage Max: 25
+Critical Hit Min: 30
+Critical Hit Max: 40
+Cold Resist: 0
+Fire Resist: 33
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 33
+Magic Resist: 0
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+Noblefire 0 5.63011868372567E-06%
+GoldPiece 1 7.4002877%
+GoldPiece 5 2.4002822%
+VialOfVenom 3 2.5002871%
+ShiningForce 0 0.000230118683725672%
+GauntletsOfCasting 0 0.000230118683725672%
+MerlinsStaff 0 0.00630118683725672%
+ShieldOfHeaven 0 0.000230118683725672%
+HandsOfWizardry 0 0.00630118683725672%
+
+Dung Beetle Stats
+Experience: 3400
+HP: 270
+Mana: 30
+Armor Class: 0
+Lore RAnge: 67 to 87
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 17
+Damage Avg: 23
+Damage Max: 28
+Critical Hit Min: 34
+Critical Hit Max: 46
+Cold Resist: 0
+Fire Resist: 33
+Lightning Resist: 0
+Physical Resist: 0
+Poison Resist: 40
+Holy Resist: 33
+Magic Resist: 0
+Spells:
+Spell: PoisonCloud Level: 5
+Spell: Weaken Level: 1
+Spell: SlowedActions Level: 1
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+GoldPiece 1 7.9002837%
+Noblefire 0 0.000230118683725672%
+NatureShield 0 0.000630118683725672%
+GoldPiece 3 2.0002803%
+MerlinsStaff 0 0.000630118683725672%
+BootsOfDarkness 0 5.63011868372567E-06%
+Angrboda 0 0.000630118683725672%
+
+Warrior Stats
+Experience: 45000
+HP: 16000
+Mana: 0
+Armor Class: 1200
+Lore RAnge: 120 to 140
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 0
+Damage Min: 131
+Damage Avg: 175
+Damage Max: 218
+Critical Hit Min: 262
+Critical Hit Max: 350
+Cold Resist: 75
+Fire Resist: 75
+Lightning Resist: 75
+Physical Resist: 60
+Poison Resist: 75
+Holy Resist: 99
+Magic Resist: 75
+Religion: 4
+Religion Kills pts: 8
+
+Item Drops
+AtlanteanPendant 0 0.000256301186837257%
+CyclopeanPendant 0 0.000256301186837257%
+ThePot 0 0.00563011868372567%
+BowOfLightning 0 0.000543011868372567%
+SkullBlade 0 8.30118683725672E-05%
+Flametongue 0 0.000201186837256715%
+PhoenixBow 0 0.000354630118683726%
+ArcticBow 0 0.000463011868372567%
+DarkBow 0 0.0002553512836%
+GoldenBow 0 0.000105630118683726%
+HandCrossbow 0 0.000355630118683726%
+Slayer 0 0.000863011868372567%
+GoldPiece 3 4.700484%
+MiningHat 0 0.000463011868372567%
+Arrow 39 10%
+ArrowPlus1 317 3.3004832%
+ArrowPlus2 339 1.7004883%
+ArrowPlus3 249 0.8004843%
+GoldenHammer 10 0.005565%
+MetalTippedArrow 209 0.4004875%
+PoisonArrow 273 0.2004869%
+PlatinumArrow 349 0.00501569%
+GoldTippedArrow 226 0.105569%
+Shuriken 10 3.5004835%
+DeadlyShuriken 10 2.7004837%
+WuStar 10 0.405630118683726%
+ZerBlade 10 0.105630118683726%
+MithrilArrow 285 0.03525199021069%
+ElvenMithrilArrow 250 0.0253011868372567%
+ShortBow 0 0.005595%
+LongBow 0 0.00563011868372567%
+
+Archer Stats
+Experience: 45000
+HP: 6500
+Mana: 255
+Armor Class: 350
+Lore RAnge: 100 to 120
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 112
+Damage Avg: 150
+Damage Max: 187
+Critical Hit Min: 225
+Critical Hit Max: 300
+Cold Resist: 60
+Fire Resist: 20
+Lightning Resist: 20
+Physical Resist: 45
+Poison Resist: 75
+Holy Resist: 99
+Magic Resist: 75
+Spells:
+Spell: GreaterHeal Level: 20
+Spell: Curse Level: 15
+Spell: Weaken Level: 15
+Spell: SlowedActions Level: 15
+Religion: 4
+Religion Kills pts: 12
+
+Item Drops
+AtlanteanPendant 0 0.000256301186837257%
+CyclopeanPendant 0 0.000256301186837257%
+ThePot 0 0.00563011868372567%
+BowOfLightning 0 0.000843011868372567%
+SoulsBow 0 0.000830118683725672%
+WarBow 0 0.000801186837256715%
+PhoenixBow 0 0.000854630118683726%
+ArcticBow 0 0.000863011868372567%
+DarkBow 0 0.00056553512836%
+GoldenBow 0 0.000305630118683726%
+HandCrossbow 0 0.000355630118683726%
+Slayer 0 0.000863011868372567%
+GoldPiece 3 4.700484%
+MiningHat 0 0.000463011868372567%
+Arrow 109 10%
+ArrowPlus1 343 3.3004832%
+ArrowPlus2 297 1.7004883%
+ArrowPlus3 348 0.8004843%
+GoldenHammer 10 0.005565%
+MetalTippedArrow 200 0.8004875%
+PoisonArrow 313 0.6004869%
+PlatinumArrow 252 0.10501569%
+GoldTippedArrow 299 1.105569%
+Shuriken 10 3.5004835%
+DeadlyShuriken 10 2.7004837%
+WuStar 10 0.405630118683726%
+ZerBlade 10 0.105630118683726%
+MithrilArrow 267 0.53525199021069%
+ElvenMithrilArrow 247 0.225301186837257%
+ShortBow 0 0.005595%
+LongBow 0 0.00563011868372567%
+
+Mage Stats
+Experience: 40000
+HP: 7500
+Mana: 1500
+Armor Class: 200
+Lore RAnge: 10 to 30
+Taming Range: 0 to 20
+Attack Speed (0 is fast): 1
+Damage Min: 75
+Damage Avg: 100
+Damage Max: 125
+Critical Hit Min: 150
+Critical Hit Max: 200
+Cold Resist: 35
+Fire Resist: 95
+Lightning Resist: 95
+Physical Resist: 50
+Poison Resist: 25
+Holy Resist: 95
+Magic Resist: 95
+Spells:
+Spell: GreaterHeal Level: 10
+Spell: ChainLightning Level: 10
+Spell: Banish Level: 10
+Spell: Apocalypse Level: 10
+Spell: Nauseate Level: 10
+Spell: EnergyBolt Level: 10
+Spell: MeteorStorm Level: 10
+Spell: Decrepify Level: 10
+Spell: FlameStrike Level: 10
+Spell: PoisonCloud Level: 10
+Religion: 4
+Religion Kills pts: 1
+
+Item Drops
+NecromancerHat 0 0.0052%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.40525%
+RobeOfPoison 0 0.000854534%
+ArcticHelm 0 0.000262551868372567%
+RobeOfTheElements 0 0.000254534%
+DevilsRobe 0 0.000401186837%
+FlamingIvy 3 2.10507%
+EvilRingOfEvil 0 0.000451868372567154%
+Soulshield 0 0.000451868372567154%
+Quake 0 0.000451868372567154%
+MagicShard 0 0.000451868372567154%
+WarMageGloves 0 0.000451868372567154%
+BloodGlaive 0 2.56E-05%
+PhoenixBow 0 0.000451868372567154%
+NecromancersWrath 0 0.000451868372567154%
+BatWing 2 4.7743%
+WarMageTalisman 0 0.000451868372567154%
+WarMagesCloak 0 0.000451868372567154%
+WarMagesShield 0 0.000451868372567154%
+WarMageBoots 0 0.000451868372567154%
+LightningBlade 0 0.000451868372567154%
+ArchMagiHeadDress 0 0.000451868372567154%
+HolyCape 0 0.000484531186837257%
+CapeOfLegends 0 0.000484531186837257%
+FieldPlate 0 0.0484525671%
+FullPlate 0 0.00584531256715416%
+Usurper 0 0.00584531256715%
+ShieldOfHeaven 0 0.000484531186837257%
+ShieldOfRoyalty 0 0.000484531186837257%
+MaceOfRoyalty 0 0.000498453118683726%
+Royalscape 0 5.48453118683726E-06%
+RoyalMageRobe 0 5.59001186837256E-06%
+BootsOfRoyalty 0 5.84531186837257E-06%
+BladeOfRoyalty 0 5.84531186837257E-06%
+HelmOfRoyalty 0 0.000484531186837257%
+ShieldOfWealth 0 0.00484531186837257%
+ShieldOfBurning 0 0.00484531186837257%
+Book 0 0.0158453118683726%
+ArchMagiHeadDress 0 0.000451868372567154%
+ArchmagiRobe 0 0.000451868372567154%
+DruidVestment 0 0.000451868372567154%
+DruidBoots 0 0.000451868372567154%
+DruidHelm 0 0.000451868372567154%
+BlackDagger 0 0.000451868372567154%
+DruidicStaff 0 0.000451868372567154%
+DruidGauntlets 0 0.000451868372567154%
+SoulsHelm 0 0.000451868372567154%
+HelmOfEnlightenment 0 0.000451868372567154%
+BootsOfApollo 0 0.000451868372567154%
+HandsOfApollo 0 0.000451868372567154%
+HelmetOfApollo 0 0.000451868372567154%
+ApollosGuardian 0 0.000451868372567154%
+ApolloRobes 0 0.000451868372567154%
+GoldenSword 0 0.000451868372567154%
+GoldenClaymore 0 0.000451868372567154%
+BootsOfEnlightenment 0 0.000451868372567154%
+StaffOfEnlightenment 0 0.000451868372567154%
+CrystalDagger 0 0.00951868372567154%
+Windblade 0 0.000751868372567154%
+SnowPartizan 0 0.000418683725671542%
+StormSpear 0 0.000418683725671542%
+GoldPiece 200 9.9004883%
+GoldPiece 500 0.3004875%
+VulturesHelm 0 5.63011868372567E-06%
+SantaHat 0 5.63011868372567E-06%
+HelmOfEnlightenment 0 5.63011868372567E-06%
+CrownOfDarkness 0 5.63011868372567E-06%
+CrownOfFrost 0 5.63011868372567E-06%
+HazzHat 0 5.63011868372567E-06%
+CrystalDagger 0 0.00930118683725671%
+MerlinsStaff 0 0.00630118683725672%
+Mourningstar 0 0.00630118683725672%
+IceStaff 0 5.63011868372567E-06%
+RoyalGlaive 0 5.63011868372567E-06%
+SnowPartizan 0 5.63011868372567E-06%
+MaceOfRoyalty 0 5.63011868372567E-06%
+SceptreOfTheGates 0 5.63011868372567E-06%
+ThorsHammer 0 5.63011868372567E-06%
+BowOfLightning 0 5.63011868372567E-06%
+GoldPiece 10 5.0004858%
+ZerBlade 1000 0.048%
+WuStar 1000 0.04853%
+Shuriken 1000 3.0004852%
+DeadlyShuriken 1500 1.00000563011868%
+GreaterMageRobe 0 5.63011868372567E-06%
+GoldPiece 10 9.9004823%
+CapeOfLegends 0 9E-05%
+EyeOfNewt 2 2.4004825%
+FlamingIvy 3 2.1004807%
+BatWing 2 4.7004843%
+GMRUNE 0 5.63011868372567E-06%
+SceptreOfTheGates 0 0%
+GauntletsOfCasting 0 9E-05%
+Soulscape 0 5.43011868372567E-06%
+IceStaff 0 0.000451868372567154%

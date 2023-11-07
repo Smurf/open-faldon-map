@@ -1,4 +1,4 @@
-# Open Faldon Object Scraper
+# Open Faldon 
 
 This python script takes the objects.dat file used by Open Faldon and converts it to a SQLite database.
 
@@ -24,7 +24,47 @@ You can browse the DB with the [SQLite Online IDE](https://sqliteonline.com/).
 
 ![](./img/items-db-schema.png)
 
-## Example Queries
+# Querying the DB
+
+The DB contains scraped data from the Open Faldon objects.dat and the drops.txt supplied by Catbert on Discord.
+
+This data is not well normalized and some items may be missing from the drop table due to parsing errors.
+
+## Monsters
+
+Resistances field is a JSON type see the [Equipables and Weapons](#equipables-and-weapons) section to see examples of filtering on a JSON field.
+
+See all monster data.
+```
+SELECT 	*
+	FROM monsters;
+```
+
+
+## Drops
+
+See basic data about all drops.
+```
+SELECT 	m.id,
+		m.name,
+        m.hit_points,
+        m.mana_points,
+        m.exp,
+        i.name,
+		m_d.amount,
+        m_d.chance  
+    FROM monster_drops m_d inner join monsters m on m_d.monster_id = m.id Inner Join items i on m_d.item_id = i.id;
+```
+
+See all drop data.
+```
+SELECT 	*
+    FROM monster_drops m_d inner join monsters m on m_d.monster_id = m.id Inner Join items i on m_d.item_id = i.id;
+```
+
+## Equipables and Weapons
+
+All items are equipable but not all equipable items are weapons.
 
 Select all equippable items.
 
@@ -38,6 +78,12 @@ SELECT 	i.id,
         e.resistances,
         i_t.type
         FROM items i INNER JOIN item_type i_t ON i.type = i_t.id JOIN equipable e USING (id);
+```
+
+Select all weapons.
+```
+SELECT *
+    FROM items i INNER JOIN item_type i_t ON i.type = i_t.id JOIN equipable e USING (id) where i.type = 1;
 ```
 
 Stat requirements and resists are stored as JSON objects. They can be turned into rows to ease querying.

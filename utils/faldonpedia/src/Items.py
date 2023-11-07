@@ -1,22 +1,14 @@
-#! env python3
-
 from ItemParserMixin import ItemParserMixin
+
 from enum import Enum
-from typing import ByteString, Tuple, ForwardRef
-import json
-from sqlalchemy import Boolean, MetaData, Integer, String, Table
+from sqlalchemy import Boolean, Integer, String
 
 from sqlalchemy import ForeignKey
 from sqlalchemy import String, Integer, JSON
-from sqlalchemy import create_engine
-from sqlalchemy import select
-from sqlalchemy.orm import Session, declarative_base
 from sqlalchemy.orm import Mapped
 from sqlalchemy.orm import mapped_column
-from sqlalchemy.orm import relationship
-#from sqlalchemy.schema import MetaData
 
-Base = declarative_base()
+from AbstractBase import Base
 
 class ItemType(Enum):
     NORMAL = 0
@@ -71,7 +63,6 @@ class Item(ItemParserMixin,Base):
         self.id = obj_id
         self.name = self.item_data['name']
         self.type = self.item_data['item_type']
-        print(self.type)
         self.plural_name = self.item_data['plural_name']
         self.weight = self.item_data['weight']
 
@@ -118,100 +109,3 @@ class Weapon(Equipable):
         self.type_attributes = self.item_data['type_attributes']
 
 
-def read_file(filename:str)->bytes:
-    with open(filename, "rb") as f:
-        data = f.read()
-
-    return data
-
-# read bin data until a specific byte
-def read_until(bin_data:bytes, search_byte:bytes)-> Tuple[bytearray, bytes] | None:
-    data = bytearray()
-    for i in range(len(bin_data)):
-        byte = bin_data[i].to_bytes()
-        rest_bytes = bin_data[i:]
-        if byte.hex() == search_byte.hex():
-            print('found end byte')
-            break
-        byte = int.from_bytes(byte, byteorder='big', signed=False)
-        data.append(byte)
-    return (data, rest_bytes)
-
-def chunkify(object_data:bytearray):
-    """Splits a bytearray into 499 byte chunks.
-
-    Args:
-        object_data : A bytearray object.
-
-    Returns:
-        A list of bytearray objects, each containing 499 bytes.
-    """
-
-    num_chunks = len(object_data) // 499
-    chunks = []
-
-    for i in range(num_chunks):
-        start = i * 499
-        end = start + 499
-        chunk = object_data[start:end]
-        chunks.append(chunk)
-
-    return chunks
-
-def init_item_type_table(session):
-
-    for idx,current_type in enumerate(ItemType):
-        session.add(ItemTypeTable(type=current_type.name, id=idx))
-
-    session.commit()
-
-def init_relationships():
-    Item.equipable = relationship(
-        Equipable,
-        back_populates="item",
-        uselist=False,
-    )
-
-    Equipable.item = relationship(
-        Item,
-        back_populates="equipable",
-        uselist=False,
-    )
-
-    Weapon.equipable = relationship(
-        Equipable,
-        back_populates="equipable",
-        uselist=False,
-    )
-def main():
-    objects = read_file('./data/objects.dat')
-    with open('./json/object-schema.json', 'r') as f:
-        schema_dict = json.loads(f.read())
-
-    init_relationships()
-    chunks = chunkify(objects)
-    weapons = []
-    equipable = []
-    armor = []
-    accessories = []
-    for obj_id, obj in enumerate(chunks):
-        parsed_object = Item(obj_id+1, obj, schema_dict)
-        match ItemType(parsed_object.item_data['item_type']):
-            case ItemType.WEAPON:
-                weapons.append(Weapon(obj_id+1, obj, schema_dict))
-            case _:
-                equipable.append(Equipable(obj_id+1, obj, schema_dict))
-    engine = create_engine("sqlite:///./db/objects.sqlite", echo=True)
-    Base.metadata.create_all(engine)
-    with Session(engine) as session:
-        init_item_type_table(session)
-        session.add_all(equipable)
-        session.add_all(weapons)
-        session.commit()
-
-    with engine.connect() as conn:
-        stmt = select(Item)
-        #for row in conn.execute(stmt):
-            #print(row)
-if __name__ == "__main__":
-    main()
