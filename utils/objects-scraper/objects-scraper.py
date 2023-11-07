@@ -9,9 +9,7 @@ import json
 
 # sqlalchemy imports
 from sqlalchemy import create_engine
-from sqlalchemy import select
 from sqlalchemy.orm import Session
-from sqlalchemy.orm import relationship
 
 # class imports
 from Items import Item, ItemTypeTable, ItemType, Equipable, Weapon
@@ -76,7 +74,6 @@ def main():
     # If this isn't done the tables aren't automatically created
     from Items import Item, ItemTypeTable, ItemType, Equipable, Weapon
 
-    #init_relationships()
     chunks = chunkify(objects)
     weapons = []
     equipable = []
