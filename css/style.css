@@ -2,6 +2,13 @@ body{
 	background-color:black;
 }
 
+a {
+  color: #00BFFF;
+}
+
+a:hover {
+  color: white;
+}
 label {
   color: white;
 }
