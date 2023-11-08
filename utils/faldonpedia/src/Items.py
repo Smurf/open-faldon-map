@@ -75,6 +75,7 @@ class Equipable(Item):
     requirements: Mapped[JSON] = mapped_column(JSON)
     stat_mods: Mapped[JSON] = mapped_column(JSON)
     resistances: Mapped[JSON] = mapped_column(JSON)
+    block: Mapped[int] = mapped_column(Integer())
 
     def __init__(self, obj_id, bin_data:bytearray, schema:dict):
         super().__init__(obj_id, bin_data, schema)
@@ -87,6 +88,7 @@ class Equipable(Item):
         self.requirements = self.item_data['requirements']
         self.stat_mods = self.item_data['stat_mods']
         self.resistances = self.item_data['resistances']
+        self.block = self.item_data['block']
 
 class Weapon(Equipable):
     __tablename__ = "weapons"

@@ -27,7 +27,11 @@
             "length": "0x04",
             "format": "uint8"
         },
-
+        "block" :{
+            "address": "0x43",
+            "length": "0x02",
+            "format": "uint16"
+        },
         "lost_artifact" :{
             "address": "0xAD",
             "length": "0x01",
