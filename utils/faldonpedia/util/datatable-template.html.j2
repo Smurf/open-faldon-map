@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+
+    <script src="js/jquery.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+    <script>
+        $(document).ready( function () {
+            $('#myTable').DataTable();
+        } );
+    </script>
+    <table id="myTable" class="stripe">
+        <thead>
+            {{ sqlite_data }}
+        </thead>
+    </table>
+</html>
